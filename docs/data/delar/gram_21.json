@@ -1,0 +1,213 @@
+{
+  "kapitel": [
+    {
+      "id": 21,
+      "titel": "Futur simple",
+      "teori": "<p><strong>Futur simple</strong> är franskans framtidsform i ett enda ord: <em>je parlerai</em> = jag ska tala. Du kan redan <em>futur proche</em> (<em>je vais parler</em>, kapitel 14) för nära framtid — futur simple används för planer, löften och förutsägelser: <em>On verra demain !</em> — vi får se imorgon!</p><p><strong>Bildningen är mekanisk:</strong> stam + ändelse. Stammen är hela infinitiven; verb på <em>-re</em> tappar sitt <em>-e</em> (<em>apprendre → apprendr-</em>). Ändelserna är superlätta att minnas: de är <strong>avoir i presens</strong> — <em>-ai, -as, -a, -ons, -ez, -ont</em>.</p><table class=\"enkel\"><tr><th>person</th><th>parler → futur</th></tr><tr><td>je</td><td>parler<strong>ai</strong></td></tr><tr><td>tu</td><td>parler<strong>as</strong></td></tr><tr><td>il/elle/on</td><td>parler<strong>a</strong></td></tr><tr><td>nous</td><td>parler<strong>ons</strong></td></tr><tr><td>vous</td><td>parler<strong>ez</strong></td></tr><tr><td>ils/elles</td><td>parler<strong>ont</strong></td></tr></table><p><strong>Oregelbundna verb byter stam</strong> — men ändelserna är alltid desamma. Plugga de viktigaste:</p><ul><li>être → <strong>ser-</strong> : je serai (jag kommer att vara)</li><li>avoir → <strong>aur-</strong> : j'aurai</li><li>aller → <strong>ir-</strong> : j'irai</li><li>faire → <strong>fer-</strong> : je ferai</li><li>voir → <strong>verr-</strong> : je verrai — <em>On verra !</em> = vi får se!</li><li>pouvoir → <strong>pourr-</strong>, vouloir → <strong>voudr-</strong>, venir → <strong>viendr-</strong></li></ul><p>Två minneskrokar: 1) I futur hörs alltid ett <strong>r</strong> precis före ändelsen — hör du <em>-ra-</em> inne i verbet pratar någon om framtiden. 2) Ändelserna = <em>j'ai, tu as, il a, nous avons (-ons), vous avez (-ez), ils ont</em>. Öva på familjen: <em>Kalle creusera des trous</em> — Kalle kommer att gräva hål. Överallt.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 316,
+          "mening": "On ___ demain !",
+          "meningSv": "Vi får se imorgon!",
+          "svar": [
+            "verra"
+          ],
+          "alternativ": [
+            "verra",
+            "voit",
+            "verrait",
+            "a vu"
+          ],
+          "forklaring": "voir har oregelbunden futurstam verr-; on tar ändelsen -a: on verra = vi får se."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1945,
+          "mening": "Kalle ___ des trous. Partout.",
+          "meningSv": "Kalle kommer gräva hål. Överallt.",
+          "svar": [
+            "creusera"
+          ],
+          "alternativ": [
+            "creusera",
+            "creuse",
+            "creusait",
+            "a creusé"
+          ],
+          "forklaring": "-er-verb: hela infinitiven creuser som stam + -a för il/Kalle. creuse är presens, creusait imparfait."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2088,
+          "mening": "Kalle ___ les lacets. Un jour.",
+          "meningSv": "Kalle kommer lära sig skosnören. En dag.",
+          "svar": [
+            "apprendra"
+          ],
+          "alternativ": [
+            "apprendra",
+            "apprend",
+            "apprenait",
+            "a appris"
+          ],
+          "forklaring": "Verb på -re tappar sitt -e i futur: apprendre → apprendr- + -a = apprendra."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1901,
+          "mening": "Penche-toi, tu ___ mieux.",
+          "meningSv": "Luta dig fram, så ser du bättre.",
+          "svar": [
+            "verras"
+          ],
+          "alternativ": [
+            "verras",
+            "verra",
+            "vois",
+            "verrez"
+          ],
+          "forklaring": "tu-formen i futur slutar alltid på -as: tu verras. verra är il/elle-form, vois är presens."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2046,
+          "mening": "Kalle verra une flaque. Kalle ___.",
+          "meningSv": "Kalle kommer se en pöl. Kalle kommer hoppa.",
+          "svar": [
+            "sautera"
+          ],
+          "alternativ": [
+            "sautera",
+            "saute",
+            "sautait",
+            "a sauté"
+          ],
+          "forklaring": "Samma framtid som verra: sauter + -a = sautera, han kommer att hoppa."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2295,
+          "mening": "Des épinards ? Kalle ___.",
+          "meningSv": "Spenat? Kalle får avgöra.",
+          "svar": [
+            "jugera"
+          ],
+          "alternativ": [
+            "jugera",
+            "juge",
+            "jugeait",
+            "a jugé"
+          ],
+          "forklaring": "Framtiden får utvisa: juger + -a = jugera. Presensformen juge skulle betyda att han dömer nu."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 2301,
+          "ord": [
+            "Kalle",
+            "ramassera",
+            "des",
+            "coquillages."
+          ],
+          "meningSv": "Kalle kommer samla snäckor.",
+          "forklaring": "Ordföljden är samma som i presens: subjekt + verb (i futur) + objekt."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 316,
+          "meningSv": "Vi får se imorgon!",
+          "svar": [
+            "On verra demain !",
+            "On verra demain!",
+            "Nous verrons demain !",
+            "Nous verrons demain!"
+          ],
+          "forklaring": "On verra = vi får se — en av franskans vanligaste futurformer i vardagen."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1979,
+          "mening": "Éventuellement demain. On ___.",
+          "meningSv": "Möjligen imorgon. Vi får se.",
+          "svar": [
+            "verra"
+          ],
+          "forklaring": "on verra = vi får se: stammen verr- + ändelsen -a."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Demain, je ___ à la maison.",
+          "meningSv": "Imorgon är jag hemma.",
+          "svar": [
+            "serai"
+          ],
+          "alternativ": [
+            "serai",
+            "suis",
+            "serais",
+            "étais"
+          ],
+          "forklaring": "être har futurstammen ser-: je serai. serais (med -s och ais-ljud) är conditionnel, suis är presens."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Nous ___ un gâteau pour Kalle.",
+          "meningSv": "Vi ska göra en tårta till Kalle.",
+          "svar": [
+            "ferons"
+          ],
+          "alternativ": [
+            "ferons",
+            "faisons",
+            "ferions",
+            "fera"
+          ],
+          "forklaring": "faire har futurstammen fer-: nous ferons. faisons är presens, ferions conditionnel."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Kalle ___ bientôt trois ans.",
+          "meningSv": "Kalle fyller snart tre år.",
+          "svar": [
+            "aura"
+          ],
+          "alternativ": [
+            "aura",
+            "a",
+            "aurait",
+            "avait"
+          ],
+          "forklaring": "avoir har futurstammen aur-: il aura trois ans = han kommer att vara (ha) tre år."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken är futur simple av aller i je-form?",
+          "alternativ": [
+            "j'irai",
+            "j'allerai",
+            "je vais aller",
+            "j'aille"
+          ],
+          "svar": "j'irai",
+          "forklaring": "aller byter helt stam i futur: ir- + -ai = j'irai. j'allerai finns inte; je vais aller är futur proche."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Ils ___ français un jour.",
+          "meningSv": "De kommer tala franska en dag.",
+          "svar": [
+            "parleront"
+          ],
+          "alternativ": [
+            "parleront",
+            "parlent",
+            "parlera",
+            "parleraient"
+          ],
+          "forklaring": "ils/elles tar ändelsen -ont: parler + -ont = parleront. parlent är presens."
+        }
+      ]
+    }
+  ]
+}

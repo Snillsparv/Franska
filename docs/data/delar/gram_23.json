@@ -1,0 +1,201 @@
+{
+  "kapitel": [
+    {
+      "id": 23,
+      "titel": "Relativpronomen: qui, que, où",
+      "teori": "<p>Relativpronomen binder ihop två satser till en: \"Jag har en son. Han heter Kalle\" → <em>J'ai un fils <strong>qui</strong> s'appelle Kalle</em>. Svenskan använder \"som\" för nästan allt — franskan väljer ord efter <strong>funktionen i bisatsen</strong>, inte efter om det är en person eller sak:</p><table class=\"enkel\"><tr><th>ord</th><th>funktion</th><th>följs av</th><th>exempel</th></tr><tr><td><strong>qui</strong></td><td>subjekt</td><td>verbet direkt</td><td>un fils qui dort</td></tr><tr><td><strong>que</strong></td><td>objekt</td><td>nytt subjekt + verb</td><td>le café que Jessica aime</td></tr><tr><td><strong>où</strong></td><td>plats eller tid</td><td>subjekt + verb</td><td>la ville où j'habite</td></tr></table><p><strong>Snabbtestet:</strong> titta på ordet direkt efter luckan. Kommer verbet direkt → <em>qui</em> (<em>C'est moi qui offre !</em>). Kommer ett nytt subjekt → <em>que</em> (<em>le livre que je lis</em> — där är je subjektet, boken är objekt). Handlar det om var eller när → <em>où</em> (<em>le jour où Kalle est né</em> = dagen då Kalle föddes — où används alltså även om tid!).</p><p>Två fällor: <em>que</em> förkortas till <em>qu'</em> före vokal (<em>le film qu'on regarde</em>), men <em>qui</em> förkortas <strong>aldrig</strong> (<em>l'ami qui arrive</em>). Och svenskan får ofta hoppa över \"som\" (\"kaffet jag dricker\") — på franska är que <strong>obligatoriskt</strong>: <em>le café que je bois</em>.</p><p>Du känner igen systemet från frågorna: <em>Qu'est-ce <strong>qui</strong> se passe ?</em> (vad-subjekt: inget annat subjekt finns) mot <em>Qu'est-ce <strong>que</strong> tu fais ?</em> (vad-objekt: tu är subjektet). Samma logik, samma qui/que!</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 521,
+          "mening": "C'est moi ___ offre !",
+          "meningSv": "Jag bjuder!",
+          "svar": [
+            "qui"
+          ],
+          "alternativ": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "forklaring": "Efter luckan kommer verbet offre direkt → qui är subjekt i bisatsen."
+        },
+        {
+          "typ": "lucka",
+          "rang": 557,
+          "mening": "Qu'est-ce ___ se passe ?",
+          "meningSv": "Vad händer?",
+          "svar": [
+            "qui"
+          ],
+          "alternativ": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "forklaring": "Inget annat subjekt före se passe — \"vad\" är själva subjektet → qui."
+        },
+        {
+          "typ": "lucka",
+          "rang": 12,
+          "mening": "Qu'est-ce ___ c'est ?",
+          "meningSv": "Vad är det här?",
+          "svar": [
+            "que"
+          ],
+          "alternativ": [
+            "que",
+            "qui",
+            "où"
+          ],
+          "forklaring": "Bisatsen har redan ett subjekt (c' = ce) → que."
+        },
+        {
+          "typ": "lucka",
+          "rang": 26,
+          "mening": "Qu'est-ce ___ vous faites ?",
+          "meningSv": "Vad gör ni?",
+          "svar": [
+            "que"
+          ],
+          "alternativ": [
+            "que",
+            "qui",
+            "où"
+          ],
+          "forklaring": "vous är subjektet som följer → \"vad\" är objekt → que."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1365,
+          "mening": "Kalle, qu'est-ce ___ tu fabriques ?",
+          "meningSv": "Kalle, vad håller du på med?",
+          "svar": [
+            "que"
+          ],
+          "alternativ": [
+            "que",
+            "qui",
+            "où"
+          ],
+          "forklaring": "tu är subjekt i bisatsen → que. Med qui hade \"vad\" varit subjektet."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2545,
+          "mening": "Je n'envie personne. Sauf ceux ___ dorment.",
+          "meningSv": "Jag avundas ingen. Utom de som sover.",
+          "svar": [
+            "qui"
+          ],
+          "alternativ": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "forklaring": "Verbet dorment kommer direkt efter → qui är subjekt: ceux qui dorment = de som sover."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 521,
+          "ord": [
+            "C'est",
+            "moi",
+            "qui",
+            "offre",
+            "!"
+          ],
+          "meningSv": "Jag bjuder!",
+          "forklaring": "c'est … qui lyfter fram ordet före qui: C'est moi qui offre = det är JAG som bjuder."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 557,
+          "meningSv": "Vad händer?",
+          "svar": [
+            "Qu'est-ce qui se passe ?",
+            "Qu'est-ce qui se passe?"
+          ],
+          "forklaring": "qui, eftersom \"vad\" är subjekt till se passe."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 188,
+          "meningSv": "Vad vill du dricka?",
+          "svar": [
+            "Qu'est-ce que tu veux boire ?",
+            "Qu'est-ce que tu veux boire?"
+          ],
+          "forklaring": "que, eftersom tu är subjektet: qu'est-ce que tu veux boire ?"
+        },
+        {
+          "typ": "lucka",
+          "mening": "J'ai un fils ___ s'appelle Kalle.",
+          "meningSv": "Jag har en son som heter Kalle.",
+          "svar": [
+            "qui"
+          ],
+          "alternativ": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "forklaring": "Verbet s'appelle följer direkt → qui (sonen är subjekt i bisatsen)."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Le café ___ Jessica aime est fermé.",
+          "meningSv": "Kaféet som Jessica gillar är stängt.",
+          "svar": [
+            "que"
+          ],
+          "alternativ": [
+            "que",
+            "qui",
+            "où"
+          ],
+          "forklaring": "Jessica är subjekt i bisatsen — kaféet är objektet hon gillar → que."
+        },
+        {
+          "typ": "lucka",
+          "mening": "C'est la ville ___ j'habite.",
+          "meningSv": "Det är staden där jag bor.",
+          "svar": [
+            "où"
+          ],
+          "alternativ": [
+            "où",
+            "que",
+            "qui"
+          ],
+          "forklaring": "Plats → où: la ville où j'habite = staden där jag bor."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Je me souviens du jour ___ Kalle est né.",
+          "meningSv": "Jag minns dagen då Kalle föddes.",
+          "svar": [
+            "où"
+          ],
+          "alternativ": [
+            "où",
+            "que",
+            "qui"
+          ],
+          "forklaring": "où används även om tid: le jour où = dagen då."
+        },
+        {
+          "typ": "val",
+          "fraga": "Varför heter det \"le livre que je lis\"?",
+          "alternativ": [
+            "je är subjekt i bisatsen, så boken är objekt → que",
+            "que används alltid om saker, qui om personer",
+            "que står alltid före vokal"
+          ],
+          "svar": "je är subjekt i bisatsen, så boken är objekt → que",
+          "forklaring": "Valet qui/que styrs av funktionen (subjekt/objekt), inte av om det är person eller sak."
+        }
+      ]
+    }
+  ]
+}

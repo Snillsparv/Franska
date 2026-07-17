@@ -1,0 +1,199 @@
+{
+  "kapitel": [
+    {
+      "id": 25,
+      "titel": "Tidsuttryck: depuis, il y a, pendant",
+      "teori": "<p>Tre småord som svensken lätt blandar ihop — men de har varsitt jobb:</p><table class=\"enkel\"><tr><th>ord</th><th>betyder</th><th>tempus</th><th>exempel</th></tr><tr><td><strong>depuis</strong></td><td>sedan / i (pågår än)</td><td><strong>presens!</strong></td><td>Je parle français depuis deux jours !</td></tr><tr><td><strong>il y a</strong> + tid</td><td>för … sedan</td><td>förfluten tid</td><td>Il y a deux ans, on était deux.</td></tr><tr><td><strong>pendant</strong></td><td>under, i (avgränsat)</td><td>valfritt</td><td>Je fais ça pendant un mois.</td></tr></table><p><strong>Depuis är kapitlets stora poäng.</strong> Där svenskan säger \"jag HAR pratat franska i två dagar\" använder franskan <strong>presens</strong>, för handlingen pågår fortfarande: <em>Je parle français depuis deux jours</em>. Aldrig passé composé här! Depuis fungerar med både tidslängd (<em>depuis trois heures</em> — i tre timmar) och tidpunkt (<em>depuis hier</em> — sedan igår, <em>depuis 2020</em>).</p><p><strong>il y a + tid = för … sedan</strong> — samma ord som \"det finns\", men följt av en tidsangivelse: <em>Kalle est né il y a trois ans</em> — Kalle föddes för tre år sedan. Här står verbet i förfluten tid, för handlingen är avslutad.</p><p><strong>pendant</strong> ramar in en avgränsad period med början och slut: <em>pendant un mois</em> (i en månad), <em>pendant la vaisselle</em> (under disken). Med <em>que</em> blir det \"medan\": <em>Pendant que Kalle dort, j'apprends</em> — medan Kalle sover lär jag mig.</p><p>Minneskrok: <strong>depuis</strong> = linjen pågår än (→ presens), <strong>il y a</strong> = punkt bakåt i tiden (→ passé), <strong>pendant</strong> = parentes runt en period. Fråga dig: pågår det fortfarande? Då är det depuis + presens.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 129,
+          "mening": "Je parle français ___ deux jours !",
+          "meningSv": "Jag har pratat franska i två dagar!",
+          "svar": [
+            "depuis"
+          ],
+          "alternativ": [
+            "depuis",
+            "pendant",
+            "il y a",
+            "dans"
+          ],
+          "forklaring": "Det pågår fortfarande → depuis + presens (parle), fast svenskan säger \"har pratat\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 130,
+          "mening": "Je fais ça ___ un mois.",
+          "meningSv": "Jag gör det här i en månad.",
+          "svar": [
+            "pendant"
+          ],
+          "alternativ": [
+            "pendant",
+            "depuis",
+            "il y a"
+          ],
+          "forklaring": "En avgränsad period med slut → pendant. depuis hade betytt \"sedan en månad tillbaka\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 403,
+          "mening": "___ deux ans, on était deux. Maintenant, trois !",
+          "meningSv": "För två år sedan var vi två. Nu tre!",
+          "svar": [
+            "Il y a"
+          ],
+          "alternativ": [
+            "Il y a",
+            "Depuis",
+            "Pendant"
+          ],
+          "forklaring": "il y a + tid = för … sedan; verbet står i förfluten tid (était)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1932,
+          "mening": "Ça mijote ___ trois heures.",
+          "meningSv": "Det har puttrat i tre timmar.",
+          "svar": [
+            "depuis"
+          ],
+          "alternativ": [
+            "depuis",
+            "pendant",
+            "il y a",
+            "dans"
+          ],
+          "forklaring": "Det puttrar än → depuis + presens (mijote), trots svenskans \"har puttrat\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1967,
+          "mening": "Il dort ___ huit heures. Touchons du bois.",
+          "meningSv": "Han har sovit i åtta timmar. Peppar, peppar.",
+          "svar": [
+            "depuis"
+          ],
+          "forklaring": "Han sover fortfarande → depuis + presens: il dort depuis huit heures."
+        },
+        {
+          "typ": "lucka",
+          "rang": 863,
+          "mening": "___ que Kalle dort, j'apprends.",
+          "meningSv": "Medan Kalle sover lär jag mig.",
+          "svar": [
+            "Pendant"
+          ],
+          "alternativ": [
+            "Pendant",
+            "Depuis",
+            "Il y a"
+          ],
+          "forklaring": "pendant que + sats = medan: två saker händer samtidigt."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2568,
+          "mening": "Le torchon vole ___ la vaisselle.",
+          "meningSv": "Kökshandduken flyger under disken.",
+          "svar": [
+            "pendant"
+          ],
+          "alternativ": [
+            "pendant",
+            "depuis",
+            "il y a"
+          ],
+          "forklaring": "pendant + substantiv = under (en aktivitet): pendant la vaisselle."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2583,
+          "mening": "La trousse de toilette, prête ___ hier.",
+          "meningSv": "Necessären, packad sedan igår.",
+          "svar": [
+            "depuis"
+          ],
+          "alternativ": [
+            "depuis",
+            "pendant",
+            "il y a"
+          ],
+          "forklaring": "depuis + tidpunkt (hier) = sedan igår — tillståndet gäller fortfarande."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 129,
+          "meningSv": "Jag har pratat franska i två dagar!",
+          "svar": [
+            "Je parle français depuis deux jours !",
+            "Je parle français depuis deux jours!"
+          ],
+          "forklaring": "Franskan tar presens + depuis där svenskan har \"har pratat … i\"."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 1295,
+          "ord": [
+            "Le",
+            "téléphone",
+            "est",
+            "sans",
+            "fil",
+            "depuis",
+            "longtemps."
+          ],
+          "meningSv": "Telefonen är trådlös sedan länge.",
+          "forklaring": "depuis longtemps = sedan länge — tidsuttrycket med depuis står oftast sist."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket uttryck betyder \"för tre år sedan\"?",
+          "alternativ": [
+            "il y a trois ans",
+            "depuis trois ans",
+            "pendant trois ans"
+          ],
+          "svar": "il y a trois ans",
+          "forklaring": "il y a + tid = för … sedan. depuis trois ans = i tre år (och pågår än), pendant trois ans = under tre år."
+        },
+        {
+          "typ": "lucka",
+          "mening": "J'habite ici ___ 2020.",
+          "meningSv": "Jag har bott här sedan 2020.",
+          "svar": [
+            "depuis"
+          ],
+          "forklaring": "depuis + årtal = sedan 2020; verbet i presens eftersom jag bor kvar."
+        },
+        {
+          "typ": "val",
+          "fraga": "Depuis + handling som fortfarande pågår — vilket tempus används på franska?",
+          "alternativ": [
+            "presens",
+            "passé composé",
+            "futur simple"
+          ],
+          "svar": "presens",
+          "forklaring": "J'habite ici depuis cinq ans = jag har bott här i fem år — franskan ser det som pågående nutid."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Kalle est né ___ trois ans.",
+          "meningSv": "Kalle föddes för tre år sedan.",
+          "svar": [
+            "il y a"
+          ],
+          "alternativ": [
+            "il y a",
+            "depuis",
+            "pendant",
+            "dans"
+          ],
+          "forklaring": "Avslutad händelse i det förflutna (est né) + il y a + tid = för … sedan."
+        }
+      ]
+    }
+  ]
+}

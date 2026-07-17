@@ -117,6 +117,48 @@ let steg = '';
     if (antal !== 30) throw new Error(`${antal} kapitel, väntade 30`);
   });
 
+  await kolla('uttal: lektion + självtest', async () => {
+    await page.goto(BAS + '#/uttal/1');
+    await page.waitForSelector('h1:has-text("1.")');
+    const start = page.locator('#starta-test');
+    if (await start.count()) {
+      await start.click();
+      await page.waitForSelector('.val-lista button');
+      await page.click('.val-lista button');
+      await page.waitForSelector('#fb :is(.ratt,.fel)');
+    }
+  });
+
+  await kolla('grammatik: kapitel + övning', async () => {
+    await page.goto(BAS + '#/grammatik/1');
+    await page.waitForSelector('#starta');
+    await page.click('#starta');
+    await page.waitForSelector('#ovningsplats .panel');
+    if (await page.locator('#val button').count()) {
+      await page.click('#val button');
+    } else if (await page.locator('#bank button').count()) {
+      while (await page.locator('#bank button').count()) {
+        await page.click('#bank button');
+      }
+      await page.click('#ratta');
+    } else {
+      await page.fill('#svar', 'test');
+      await page.click('#ratta');
+    }
+    await page.waitForSelector('#fb :is(.ratt,.fel)');
+  });
+
+  await kolla('monolog: facit + tooltip', async () => {
+    await page.goto(BAS + '#/monolog/1');
+    await page.waitForSelector('#visa-facit');
+    await page.click('#visa-facit');
+    await page.waitForSelector('.monolog-fr .tok');
+    await page.click('.monolog-fr .tok >> nth=2');
+    await page.waitForSelector('.tooltip');
+    const text = await page.locator('.tooltip').textContent();
+    if (!text.trim()) throw new Error('tom tooltip');
+  });
+
   await kolla('inställningar + export', async () => {
     await page.goto(BAS + '#/installningar');
     await page.waitForSelector('h1:has-text("Inställningar")');

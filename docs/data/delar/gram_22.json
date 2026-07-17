@@ -1,0 +1,209 @@
+{
+  "kapitel": [
+    {
+      "id": 22,
+      "titel": "Komparativ och superlativ",
+      "teori": "<p>Att jämföra på franska är enklare än på svenska — det finns inga ändelser som <em>-are/-ast</em>. Allt sköts med tre småord framför adjektivet eller adverbet:</p><table class=\"enkel\"><tr><th>mönster</th><th>exempel</th><th>betydelse</th></tr><tr><td><strong>plus</strong> … que</td><td>plus facile que</td><td>lättare än</td></tr><tr><td><strong>moins</strong> … que</td><td>moins cher que</td><td>billigare än (mindre dyr än)</td></tr><tr><td><strong>aussi</strong> … que</td><td>aussi grand que</td><td>lika stor som</td></tr></table><p><em>Le français est plus facile que je pense !</em> — Franska är lättare än jag tror! Andra ledet i jämförelsen inleds <strong>alltid med que</strong>, aldrig med comme.</p><p><strong>Superlativ</strong> = bestämd artikel + plus: <em>le plus beau jour</em> (den finaste dagen), <em>la plus grande ville</em>, <em>les plus petits</em>. Artikeln böjs efter substantivet — precis som vanligt.</p><p><strong>Två ord är oregelbundna</strong>, och de är samma par som i svenskan (bra/god → bättre → bäst):</p><ul><li><strong>bon → meilleur → le meilleur</strong> (adjektiv, böjs: meilleure, meilleurs, meilleures): <em>Les fraises suédoises sont les meilleures !</em></li><li><strong>bien → mieux → le mieux</strong> (adverb, böjs aldrig): <em>Ça va mieux.</em> — Det går bättre.</li></ul><p>Minneskrok: <em>meilleur</em> beskriver ett <strong>substantiv</strong> (en bättre idé, den bästa osten), <em>mieux</em> beskriver ett <strong>verb</strong> (springer bättre, mår bättre). Säg ALDRIG <em>plus bon</em> eller <em>plus bien</em> — det är som att säga \"mer bra\" på svenska. Testa på familjen: <em>Kalle est plus grand que l'année dernière</em>, och papparollen? <em>C'est le meilleur.</em></p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 401,
+          "mening": "Le français est ___ facile que je pense !",
+          "meningSv": "Franska är lättare än jag tror!",
+          "svar": [
+            "plus"
+          ],
+          "alternativ": [
+            "plus",
+            "aussi",
+            "moins",
+            "très"
+          ],
+          "forklaring": "plus + adjektiv + que = -are än. très (mycket) kan inte kombineras med que."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2114,
+          "mening": "Les valeurs comptent plus ___ les choses.",
+          "meningSv": "Värderingar betyder mer än saker.",
+          "svar": [
+            "que"
+          ],
+          "alternativ": [
+            "que",
+            "de",
+            "comme",
+            "à"
+          ],
+          "forklaring": "Jämförelsens andra led inleds alltid med que — aldrig comme."
+        },
+        {
+          "typ": "lucka",
+          "rang": 256,
+          "mening": "Ça va ___.",
+          "meningSv": "Det går bättre.",
+          "svar": [
+            "mieux"
+          ],
+          "alternativ": [
+            "mieux",
+            "meilleur",
+            "plus bien",
+            "bien"
+          ],
+          "forklaring": "mieux är adverb och hör till verbet va. plus bien finns inte — bien har den oregelbundna komparativen mieux."
+        },
+        {
+          "typ": "lucka",
+          "rang": 380,
+          "mening": "C'est le ___ !",
+          "meningSv": "Den är bäst!",
+          "svar": [
+            "meilleur"
+          ],
+          "alternativ": [
+            "meilleur",
+            "mieux",
+            "plus bon"
+          ],
+          "forklaring": "Adjektivet bon → meilleur; med artikel blir det superlativ: le meilleur = den bästa. plus bon finns inte."
+        },
+        {
+          "typ": "lucka",
+          "rang": 764,
+          "mening": "Les fraises suédoises sont les ___ !",
+          "meningSv": "Svenska jordgubbar är bäst!",
+          "svar": [
+            "meilleures"
+          ],
+          "alternativ": [
+            "meilleures",
+            "meilleur",
+            "mieux",
+            "plus bonnes"
+          ],
+          "forklaring": "meilleur är adjektiv och böjs: les fraises är femininum plural → les meilleures."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1132,
+          "mening": "La naissance de Kalle : le ___ beau jour.",
+          "meningSv": "Kalles födelse: den finaste dagen.",
+          "svar": [
+            "plus"
+          ],
+          "alternativ": [
+            "plus",
+            "mieux",
+            "meilleur",
+            "très"
+          ],
+          "forklaring": "Superlativ = bestämd artikel + plus + adjektiv: le plus beau jour = den finaste dagen."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1034,
+          "mening": "Le lendemain, tout va ___.",
+          "meningSv": "Dagen efter är allt bättre.",
+          "svar": [
+            "mieux"
+          ],
+          "forklaring": "aller mieux = må/gå bättre — mieux är adverbet till bien och böjs aldrig."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 673,
+          "meningSv": "Fred är bättre.",
+          "svar": [
+            "La paix, c'est mieux.",
+            "La paix c'est mieux.",
+            "C'est mieux, la paix."
+          ],
+          "forklaring": "c'est mieux = det är bättre. mieux, inte meilleur, eftersom det står självständigt efter c'est va-mönstret."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 455,
+          "ord": [
+            "On",
+            "prend",
+            "le",
+            "métro,",
+            "c'est",
+            "plus",
+            "simple."
+          ],
+          "meningSv": "Vi tar metron, det är enklare.",
+          "forklaring": "plus står direkt före adjektivet: c'est plus simple = det är enklare."
+        },
+        {
+          "typ": "lucka",
+          "rang": 887,
+          "mening": "Le rôle de papa, c'est le ___.",
+          "meningSv": "Papparollen är den bästa.",
+          "svar": [
+            "meilleur"
+          ],
+          "alternativ": [
+            "meilleur",
+            "mieux",
+            "meilleure",
+            "plus bon"
+          ],
+          "forklaring": "le rôle är maskulinum → le meilleur. meilleure (med -e) skulle vara femininum."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Kalle est ___ grand que l'année dernière.",
+          "meningSv": "Kalle är längre än förra året.",
+          "svar": [
+            "plus"
+          ],
+          "alternativ": [
+            "plus",
+            "aussi",
+            "moins"
+          ],
+          "forklaring": "Längre än = plus grand que. aussi … que = lika … som, moins … que = mindre … än."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Jessica est ___ grande que moi.",
+          "meningSv": "Jessica är lika lång som jag.",
+          "svar": [
+            "aussi"
+          ],
+          "alternativ": [
+            "aussi",
+            "plus",
+            "moins",
+            "si"
+          ],
+          "forklaring": "Lika … som = aussi … que. Efter que används betonat pronomen: que moi."
+        },
+        {
+          "typ": "val",
+          "fraga": "Hur säger man \"Kalle springer bättre än jag\"?",
+          "alternativ": [
+            "Kalle court mieux que moi.",
+            "Kalle court meilleur que moi.",
+            "Kalle court plus bien que moi."
+          ],
+          "svar": "Kalle court mieux que moi.",
+          "forklaring": "court är ett verb → adverbet mieux. meilleur används bara om substantiv, plus bien finns inte."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket är rätt för \"en bättre idé\"?",
+          "alternativ": [
+            "une meilleure idée",
+            "une mieux idée",
+            "une plus bonne idée"
+          ],
+          "svar": "une meilleure idée",
+          "forklaring": "idée är ett substantiv → adjektivet meilleur, böjt i femininum: meilleure."
+        }
+      ]
+    }
+  ]
+}

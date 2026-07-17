@@ -1,0 +1,209 @@
+{
+  "kapitel": [
+    {
+      "id": 24,
+      "titel": "Conditionnel",
+      "teori": "<p><strong>Conditionnel</strong> är \"skulle\"-formen: <em>je voudrais</em> = jag skulle vilja. Bildningen är en genial kombination av två saker du redan kan: <strong>futurstammen</strong> (kapitel 21) + <strong>imparfait-ändelserna</strong> (kapitel 16): <em>-ais, -ais, -ait, -ions, -iez, -aient</em>.</p><table class=\"enkel\"><tr><th>person</th><th>vouloir → conditionnel</th></tr><tr><td>je</td><td>voudr<strong>ais</strong></td></tr><tr><td>tu</td><td>voudr<strong>ais</strong></td></tr><tr><td>il/elle/on</td><td>voudr<strong>ait</strong></td></tr><tr><td>nous</td><td>voudr<strong>ions</strong></td></tr><tr><td>vous</td><td>voudr<strong>iez</strong></td></tr><tr><td>ils/elles</td><td>voudr<strong>aient</strong></td></tr></table><p><strong>Användning 1 — artighet.</strong> Det här är caféfranskans viktigaste verktyg: <em>Je voudrais un café</em> (inte <em>je veux</em> — det låter som ett barn som kräver). Lär dig hela artighetspaketet utantill: <em>je voudrais</em> (jag skulle vilja), <em>j'aimerais</em> (jag skulle gärna), <em>tu devrais</em> (du borde), <em>on pourrait</em> (vi skulle kunna), <em>ce serait</em> (det skulle vara).</p><p><strong>Användning 2 — hypoteser.</strong> Mönstret är fast: <strong>si + imparfait → conditionnel</strong> i huvudsatsen. <em>Si j'avais le temps, je lirais plus</em> — om jag hade tid skulle jag läsa mer. Fällan: efter <em>si</em> står <strong>aldrig</strong> conditionnel eller futur — där bor imparfait. Tänk: \"si är blygsamt — det tar aldrig de fina formerna själv\".</p><p><strong>Hör skillnaden mot futur:</strong> samma stam, olika ändelse. <em>je parlerai</em> (futur, uttalas -é) mot <em>je parlerais</em> (conditionnel, uttalas -è). I skrift är det -s:et som skiljer je-formerna åt.</p><p>Eftersom stammen alltid är futurstammen får du de oregelbundna på köpet från kapitel 21: être → <em>je serais</em>, avoir → <em>j'aurais</em>, faire → <em>je ferais</em>, aller → <em>j'irais</em>, pouvoir → <em>je pourrais</em>. Kan du futur kan du alltså redan conditionnel — det är bara ändelsen som byts.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 47,
+          "mening": "Je ___ un café, s'il vous plaît.",
+          "meningSv": "Jag skulle vilja ha en kaffe, tack.",
+          "svar": [
+            "voudrais"
+          ],
+          "alternativ": [
+            "voudrais",
+            "veux",
+            "voudrai",
+            "voulais"
+          ],
+          "forklaring": "Artigt önskemål = conditionnel: voudr- + -ais. voudrai (utan -s) är futur, veux låter krävande."
+        },
+        {
+          "typ": "lucka",
+          "rang": 553,
+          "mening": "Tu ___ goûter ça !",
+          "meningSv": "Du borde smaka det här!",
+          "svar": [
+            "devrais"
+          ],
+          "alternativ": [
+            "devrais",
+            "dois",
+            "devras",
+            "devais"
+          ],
+          "forklaring": "\"borde\" = devoir i conditionnel: devr- + -ais. dois = måste (presens), devras = futur."
+        },
+        {
+          "typ": "lucka",
+          "rang": 552,
+          "mening": "On ___ essayer ?",
+          "meningSv": "Skulle vi kunna testa?",
+          "svar": [
+            "pourrait"
+          ],
+          "alternativ": [
+            "pourrait",
+            "peut",
+            "pourra",
+            "pouvait"
+          ],
+          "forklaring": "Försiktigt förslag = conditionnel: pourr- + -ait. on pourrait = vi skulle kunna."
+        },
+        {
+          "typ": "lucka",
+          "rang": 554,
+          "mening": "Ce ___ super !",
+          "meningSv": "Det skulle vara toppen!",
+          "svar": [
+            "serait"
+          ],
+          "alternativ": [
+            "serait",
+            "sera",
+            "serais",
+            "était"
+          ],
+          "forklaring": "ce är tredje person → -ait: ce serait. serais är je/tu-form, sera är futur."
+        },
+        {
+          "typ": "lucka",
+          "rang": 551,
+          "mening": "J'___ bien voir ça !",
+          "meningSv": "Det skulle jag gärna vilja se!",
+          "svar": [
+            "aimerais"
+          ],
+          "alternativ": [
+            "aimerais",
+            "aime",
+            "aimerai",
+            "aimais"
+          ],
+          "forklaring": "j'aimerais bien = jag skulle gärna vilja. aimerai utan -s är futur, aimais är imparfait."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 47,
+          "ord": [
+            "Je",
+            "voudrais",
+            "un",
+            "café,",
+            "s'il",
+            "vous",
+            "plaît."
+          ],
+          "meningSv": "Jag skulle vilja ha en kaffe, tack.",
+          "forklaring": "Klassikern på café: subjekt + conditionnel + det du vill ha + s'il vous plaît."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 554,
+          "meningSv": "Det skulle vara toppen!",
+          "svar": [
+            "Ce serait super !",
+            "Ce serait super!"
+          ],
+          "forklaring": "ce serait = det skulle vara: futurstammen ser- + imparfait-ändelsen -ait."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 553,
+          "meningSv": "Du borde smaka det här!",
+          "svar": [
+            "Tu devrais goûter ça !",
+            "Tu devrais goûter ça!"
+          ],
+          "forklaring": "tu devrais + infinitiv = du borde …"
+        },
+        {
+          "typ": "lucka",
+          "rang": 1646,
+          "mening": "Ça te gêne ___ j'ouvre la fenêtre ?",
+          "meningSv": "Stör det dig om jag öppnar fönstret?",
+          "svar": [
+            "si"
+          ],
+          "alternativ": [
+            "si",
+            "que",
+            "quand",
+            "où"
+          ],
+          "forklaring": "si = om. Här med presens (verkligt fall); i hypoteser följs si av imparfait."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Si j'avais le temps, je ___ plus.",
+          "meningSv": "Om jag hade tid skulle jag läsa mer.",
+          "svar": [
+            "lirais"
+          ],
+          "alternativ": [
+            "lirais",
+            "lirai",
+            "lis",
+            "lisais"
+          ],
+          "forklaring": "si + imparfait (avais) → conditionnel i huvudsatsen: lir- + -ais = lirais."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Si Jessica ___ là, ce serait parfait.",
+          "meningSv": "Om Jessica vore här skulle det vara perfekt.",
+          "svar": [
+            "était"
+          ],
+          "alternativ": [
+            "était",
+            "serait",
+            "est",
+            "sera"
+          ],
+          "forklaring": "Efter si i en hypotes står alltid imparfait — aldrig conditionnel eller futur."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket är artigast på ett café?",
+          "alternativ": [
+            "Je veux un café.",
+            "Je voudrais un café.",
+            "Un café !"
+          ],
+          "svar": "Je voudrais un café.",
+          "forklaring": "Conditionnel mjukar upp önskemålet — je voudrais är standardartighet (gärna + s'il vous plaît)."
+        },
+        {
+          "typ": "val",
+          "fraga": "Hur skiljer sig futur och conditionnel i je-formen av parler?",
+          "alternativ": [
+            "futur: je parlerai — conditionnel: je parlerais",
+            "futur: je parlerais — conditionnel: je parlerai",
+            "de skrivs likadant"
+          ],
+          "svar": "futur: je parlerai — conditionnel: je parlerais",
+          "forklaring": "Samma stam (parler-), men conditionnel har imparfait-ändelsen -ais med -s."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Nous ___ voyager plus.",
+          "meningSv": "Vi skulle vilja resa mer.",
+          "svar": [
+            "voudrions"
+          ],
+          "alternativ": [
+            "voudrions",
+            "voulons",
+            "voudrons",
+            "voulions"
+          ],
+          "forklaring": "nous + -ions på futurstammen voudr-: voudrions. voudrons är futur, voulions imparfait."
+        }
+      ]
+    }
+  ]
+}
