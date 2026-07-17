@@ -1,0 +1,72 @@
+{
+  "lektioner": [
+    {
+      "id": 10,
+      "titel": "qu, gu, h muet vs h aspiré",
+      "teori": "<p>Tre stavningar som ser krångliga ut men låter enklare än de ser ut:</p><p><strong>qu = [k]</strong>. Aldrig [kv] som i svenskans <em>kvart</em>, aldrig [kw] som i engelskans <em>question</em>: <em>qui</em> [ki], <em>quand</em> [kɑ̃], <em>question</em> [kɛstjɔ̃], <em>chaque</em> [ʃak]. u:et är bara stumt sällskap.</p><p><strong>gu före e/i = [g]</strong>. Här är u:et en livvakt som hindrar g från att mjukna till [ʒ]: <em>langue</em> [lɑ̃g], <em>guerre</em> [gɛʁ], <em>baguette</em> [bagɛt], <em>blague</em> [blag].</p><p><strong>h hörs aldrig.</strong> Inte ett enda franskt h uttalas: <em>homme</em> [ɔm], <em>hôtel</em> [otɛl], <em>habiter</em> [abite]. Men bakom kulisserna finns två sorters h:</p><ul><li><strong>h muet</strong> (stumt h) beter sig som en vokal — elision och liaison fungerar som vanligt: <em>l'homme</em>, <em>l'heure</em>, <em>j'habite</em>, <em>les hommes</em> [lezɔm].</li><li><strong>h aspiré</strong> (aspirerat h — falsk marknadsföring, ingenting andas!) beter sig som en konsonant och blockerar både elision och liaison: <em>le héros</em> (inte l'héros!), <em>le haricot</em>, <em>la honte</em>, <em>en haut</em>, <em>les héros</em> [le eʁo].</li></ul><p>Vilka ord som har h aspiré syns tyvärr inte på stavningen — det är oftast gamla lånord, ofta germanska (som svenskans!). Ordböcker markerar dem med asterisk: *héros. Lär dem ord för ord; de vanligaste möter du i den här kursen: <em>haut</em>, <em>honte</em>, <em>héros</em>, <em>haricot</em>, <em>hareng</em>.</p><p>Varför bry sig? Gör du liaison i <em>les héros</em> blir det [lezeʁo] — alltså <em>les zéros</em>. Hjältarna förvandlas till nollor med ett enda felplacerat z!</p>",
+      "exempel": [
+        { "rang": 14, "fokus": "qu = [k]: [ki] — aldrig [kv]" },
+        { "rang": 55, "fokus": "[kɑ̃] — u:et är stumt" },
+        { "rang": 118, "fokus": "que i slutet = [k]: [ʃak]" },
+        { "rang": 156, "fokus": "gu håller g:et hårt: [lɑ̃g]" },
+        { "rang": 709, "fokus": "[blag] — inget [ʒ] tack vare u:et" },
+        { "rang": 95, "fokus": "h muet: l'homme, un homme [œ̃nɔm]" },
+        { "rang": 122, "fokus": "h muet: l'heure [œʁ]" },
+        { "rang": 142, "fokus": "h muet: j'habite [ʒabit]" },
+        { "rang": 800, "fokus": "h aspiré: en haut [ɑ̃ o] — ingen liaison" },
+        { "rang": 1834, "fokus": "h aspiré: le héros, aldrig l'héros" }
+      ],
+      "chip": { "monster": "qu|gu[eiy]|^h", "etikett": "qu·gu·h" },
+      "sjalvtest": [
+        {
+          "fraga": "Hur uttalas qu i quand och qui?",
+          "alternativ": ["[k]", "[kv]", "[kw]"],
+          "ratt": "[k]",
+          "forklaring": "qu är bara ett [k]: [kɑ̃], [ki]. Aldrig [kv] som i svenskans kvart — u:et är stumt."
+        },
+        {
+          "rang": 55,
+          "alternativ": ["quand", "gant"],
+          "ratt": "quand",
+          "forklaring": "Hårt tonlöst [k]: [kɑ̃] = när. gant [gɑ̃] = handske börjar med tonande [g]."
+        },
+        {
+          "rang": 156,
+          "alternativ": ["langue", "lange"],
+          "ratt": "langue",
+          "forklaring": "gu = hårt [g]: [lɑ̃g] = språk/tunga. Utan u mjuknar g:et före e till [ʒ]: lange [lɑ̃ʒ] = blöja."
+        },
+        {
+          "fraga": "Varför säger man le héros men l'homme?",
+          "alternativ": ["héros har h aspiré, som blockerar elisionen", "homme börjar egentligen på vokal i skrift", "Man väljer fritt mellan formerna"],
+          "ratt": "héros har h aspiré, som blockerar elisionen",
+          "forklaring": "Båda h:na är ljudlösa, men h aspiré beter sig som en konsonant: le héros, la honte, le haricot — ingen elision, ingen liaison."
+        },
+        {
+          "rang": 122,
+          "alternativ": ["heure", "beurre"],
+          "ratt": "heure",
+          "forklaring": "h hörs aldrig, så ordet börjar direkt på vokalen: [œʁ] = timme. beurre [bœʁ] = smör börjar med [b]."
+        },
+        {
+          "rang": 1735,
+          "alternativ": ["haricot", "abricot"],
+          "ratt": "haricot",
+          "forklaring": "[aʁiko] = böna — h:et är tyst men aspiré, så det heter les haricots utan liaison. abricot [abʁiko] = aprikos."
+        },
+        {
+          "fraga": "Hur låter h i franska ord som habiter och héros?",
+          "alternativ": ["Inte alls — h är alltid ljudlöst", "Som ett svenskt h", "Som [ʃ]"],
+          "ratt": "Inte alls — h är alltid ljudlöst",
+          "forklaring": "Skillnaden mellan muet och aspiré handlar om grammatik (elision och liaison), aldrig om ljud. Inget franskt h uttalas."
+        },
+        {
+          "fraga": "Hur uttalas les hommes?",
+          "alternativ": ["[lezɔm] — med liaison", "[le ɔm] — utan liaison", "[les hɔm] — med h-ljud"],
+          "ratt": "[lezɔm] — med liaison",
+          "forklaring": "homme har h muet och beter sig som ett vokalord: liaisonen är obligatorisk, precis som i les amis."
+        }
+      ]
+    }
+  ]
+}

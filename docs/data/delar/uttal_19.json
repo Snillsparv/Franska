@@ -1,0 +1,71 @@
+{
+  "lektioner": [
+    {
+      "id": 19,
+      "titel": "Snabbt tal",
+      "teori": "<p>Fransmännen du möter i verkligheten pratar inte som läroboken. De pratar fortare, pressar ihop vokaler och slänger småord överbord. Goda nyheter: förändringarna följer tydliga mönster, och när du känner igen dem öppnar sig talad franska på riktigt.</p><p><strong>1. Ne åker ut.</strong> Negationens ne försvinner nästan alltid i tal: <em>Je ne sais pas</em> → <em>Je sais pas</em>. <em>Ce n'est pas grave</em> → <em>C'est pas grave</em>. Det är pas som gör hela negationsjobbet. (I skrift behåller du ne — det här är öron- och munkunskap.)</p><p><strong>2. Vokaler pressas ihop.</strong> <em>Tu as</em> → <em>t'as</em> [ta], <em>tu es</em> → <em>t'es</em> [te]: T'as vu ? — Har du sett? <em>Je suis</em> → <em>chuis</em> [schyi] — j och s smälter ihop till ett sch-ljud. <em>Je sais pas</em> blir i rask takt <em>j'sais pas</em> [schäpa]. Och <em>il y a</em> krymper till <em>y a</em> [ja]: Y a un problème ?</p><p><strong>3. Trötta stavelser försvinner.</strong> <em>parce que</em> → [passkö], <em>quelque chose</em> → [käkschos], <em>petit</em> → <em>p'tit</em> [pti]. Hela fraser kokar ner till kärnan: <em>Ne t'inquiète pas</em> → <em>T'inquiète !</em> — tre ord blev ett, och det som blev kvar är tekniskt sett fel men helt rätt.</p><p>Det här är inte slarv, utan normal vardagsfranska — även presidenter säger c'est pas grave. Ditt mål just nu: du behöver inte själv PRATA så här, men du måste kunna HÖRA det. När någon säger [schäpa] ska hjärnan servera dig <em>je ne sais pas</em> utan att blinka.</p>",
+      "exempel": [
+        { "rang": 9, "fokus": "i tal försvinner ne nästan alltid: je suis pas" },
+        { "rang": 30, "fokus": "talspråkets vi — kortare än nous, snabbare meningar" },
+        { "rang": 50, "fokus": "je ne sais pas → j'sais pas [schäpa]" },
+        { "rang": 108, "fokus": "[passkö] — flera bokstäver försvinner på vägen" },
+        { "rang": 116, "fokus": "[käkschos] — mittenstavelserna åker ut" },
+        { "rang": 335, "fokus": "krymper till T'inquiète ! — bara kärnan kvar" },
+        { "rang": 577, "fokus": "C'est pas grave ! — klassikern, alltid utan ne i tal" },
+        { "rang": 1572, "fokus": "hör hur snabbt tal kedjar ihop hela frasen" }
+      ],
+      "sjalvtest": [
+        {
+          "fraga": "Vilket ord stryks nästan alltid i talad franska?",
+          "alternativ": ["ne", "pas", "je"],
+          "ratt": "ne",
+          "forklaring": "Ne faller bort — pas bär negationen ensamt: je sais pas, c'est pas grave."
+        },
+        {
+          "ljudText": "Je sais pas.",
+          "fraga": "Lyssna — vad hör du?",
+          "alternativ": ["je sais pas — utan ne", "je ne sais pas — med ne"],
+          "ratt": "je sais pas — utan ne",
+          "forklaring": "Ne är borta. Så låter frasen i 95 fall av 100 i verkligheten."
+        },
+        {
+          "fraga": "Tu as vu ? blir i snabbt tal …",
+          "alternativ": ["T'as vu ?", "Tu's vu ?", "As vu ?"],
+          "ratt": "T'as vu ?",
+          "forklaring": "Tu tappar sin vokal före vokal: tu as → t'as [ta], tu es → t'es [te]."
+        },
+        {
+          "fraga": "Je suis fatigué blir ofta …",
+          "alternativ": ["Chuis fatigué", "Je fatigué", "Suis fatigué"],
+          "ratt": "Chuis fatigué",
+          "forklaring": "Je suis pressas ihop till chuis [schyi] — j och s blir ett enda sch-ljud."
+        },
+        {
+          "fraga": "Hur låter parce que i vardagstal?",
+          "alternativ": ["[passkö]", "[par-se-ke] — varje stavelse för sig", "[park]"],
+          "ratt": "[passkö]",
+          "forklaring": "R:et och halva mitten försvinner: parce que → [passkö]."
+        },
+        {
+          "ljudText": "T'inquiète !",
+          "fraga": "Vad är det här kort för?",
+          "alternativ": ["Ne t'inquiète pas (oroa dig inte)", "Tu t'inquiètes (du oroar dig)"],
+          "ratt": "Ne t'inquiète pas (oroa dig inte)",
+          "forklaring": "Både ne och pas har åkt ut — kvar är bara kärnan. Betydelsen är fortfarande lugnande."
+        },
+        {
+          "fraga": "quelque chose låter i snabbt tal oftast som …",
+          "alternativ": ["[käkschos]", "[kelke schose]"],
+          "ratt": "[käkschos]",
+          "forklaring": "Mittenstavelserna trycks ihop: quelque chose → [käkschos]."
+        },
+        {
+          "fraga": "Il y a un problème blir i snabbt tal …",
+          "alternativ": ["Y a un problème", "Il a un problème", "Y va un problème"],
+          "ratt": "Y a un problème",
+          "forklaring": "Il y a → y a [ja]. Il a (han har) är något helt annat — lyssna efter [ja] i början."
+        }
+      ]
+    }
+  ]
+}

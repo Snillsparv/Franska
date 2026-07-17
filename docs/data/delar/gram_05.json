@@ -1,0 +1,142 @@
+{
+  "kapitel": [
+    {
+      "id": 5,
+      "titel": "Negation: ne … pas",
+      "teori": "<p>Franskan säger inte \"inte\" med ett ord — den använder ett <strong>par</strong>: <strong>ne … pas</strong> som omsluter det böjda verbet, som en smörgås med verbet i mitten.</p><table class=\"enkel\"><tr><th>Jakande</th><th>Nekande</th></tr><tr><td>Je suis français.</td><td>Je <strong>ne</strong> suis <strong>pas</strong> français.</td></tr><tr><td>Je comprends.</td><td>Je <strong>ne</strong> comprends <strong>pas</strong>.</td></tr><tr><td>J'ai le temps.</td><td>Je <strong>n'</strong>ai <strong>pas</strong> le temps.</td></tr></table><p><strong>Elision:</strong> framför vokal eller stumt h blir ne → <strong>n'</strong>: <em>je n'ai pas, il n'habite pas</em>. Precis som je → j'.</p><p><strong>Superregeln pas de:</strong> efter pas byts <em>un, une</em> och <em>des</em> mot <strong>de</strong> (d' framför vokal): <em>J'ai une voiture</em> → <em>Je n'ai pas <strong>de</strong> voiture</em>. <em>Je n'ai pas <strong>d'</strong>argent</em> = jag har inga pengar. Tänk: efter pas krymper alla obestämda artiklar till de. Bestämd artikel behålls dock: <em>Je n'ai pas <strong>le</strong> temps</em>.</p><p>Byt ut pas mot andra ord, samma smörgåsbygge:</p><ul><li><strong>ne … jamais</strong> = aldrig: <em>Un champion de mémoire n'oublie jamais !</em></li><li><strong>ne … rien</strong> = ingenting: <em>Je ne mange rien.</em></li><li><strong>ne … plus</strong> = inte längre: <em>Je ne travaille plus.</em></li></ul><p><strong>Talspråksvarning:</strong> i vardagligt tal slarvar fransmännen ofta bort ne: <em>Je sais pas</em> (\"schepa!\"), <em>C'est pas grave</em>. Du ska förstå det — men skriv alltid med ne.</p><p><strong>Minnesteknik:</strong> se ne och pas som två vakter som ställer sig på var sin sida om verbet — verbet kommer aldrig undan. Öva tretakten högt: <em>je sais → je ne sais pas</em>, <em>j'ai peur → je n'ai pas peur</em>. När paret sitter i munnen sitter det i huvudet.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 9,
+          "mening": "Je ne suis ___ français.",
+          "meningSv": "Jag är inte fransk.",
+          "svar": ["pas"],
+          "alternativ": ["pas", "ne", "non", "jamais"],
+          "forklaring": "ne … pas omsluter verbet: ne före suis, pas efter."
+        },
+        {
+          "typ": "lucka",
+          "rang": 69,
+          "mening": "Je ___ comprends pas.",
+          "meningSv": "Jag förstår inte.",
+          "svar": ["ne"],
+          "alternativ": ["ne", "n'", "pas", "non"],
+          "forklaring": "comprends börjar på konsonant → helt ne (n' används bara före vokal/stumt h)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 50,
+          "mening": "Je ne ___ pas.",
+          "meningSv": "Jag vet inte.",
+          "svar": ["sais"],
+          "alternativ": ["sais", "sait", "savez", "suis"],
+          "forklaring": "je → sais. Verbet står alltid mitt i smörgåsen ne … pas."
+        },
+        {
+          "typ": "lucka",
+          "rang": 64,
+          "mening": "Je ___ pas le temps.",
+          "meningSv": "Jag har inte tid.",
+          "svar": ["n'ai"],
+          "alternativ": ["n'ai", "ne ai", "n'a", "ai"],
+          "forklaring": "ne + ai → n'ai (elision före vokal). \"ne ai\" existerar inte."
+        },
+        {
+          "typ": "lucka",
+          "rang": 200,
+          "mening": "Un champion de mémoire ___ jamais !",
+          "meningSv": "En minnesmästare glömmer aldrig!",
+          "svar": ["n'oublie"],
+          "alternativ": ["n'oublie", "ne oublie", "oublie", "n'oublies"],
+          "forklaring": "oublie börjar på vokal → n'oublie. jamais tar pas plats: ne … jamais = aldrig."
+        },
+        {
+          "typ": "lucka",
+          "rang": 158,
+          "mening": "Pas ___ problème !",
+          "meningSv": "Inga problem!",
+          "svar": ["de"],
+          "alternativ": ["de", "du", "des", "un"],
+          "forklaring": "Efter pas blir obestämd artikel de: pas de problème."
+        },
+        {
+          "typ": "lucka",
+          "rang": 196,
+          "mening": "Je n'ai pas ___ sur moi.",
+          "meningSv": "Jag har inga pengar på mig.",
+          "svar": ["d'argent"],
+          "alternativ": ["d'argent", "de argent", "des argent", "argent"],
+          "forklaring": "pas de + vokal → pas d': pas d'argent."
+        },
+        {
+          "typ": "lucka",
+          "rang": 75,
+          "mening": "Je ne dis ___ non à un café.",
+          "meningSv": "Jag säger aldrig nej till en kaffe.",
+          "svar": ["jamais"],
+          "alternativ": ["jamais", "pas", "rien", "toujours"],
+          "forklaring": "ne … jamais = aldrig. Samma bygge som ne … pas, bara andra halvan byts."
+        },
+        {
+          "typ": "lucka",
+          "rang": 485,
+          "mening": "Pas ___ pour Kalle !",
+          "meningSv": "Ingen skärm för Kalle!",
+          "svar": ["d'écran"],
+          "alternativ": ["d'écran", "de écran", "un écran", "des écrans"],
+          "forklaring": "pas de + vokal → pas d'écran. de elideras precis som ne och je."
+        },
+        {
+          "typ": "lucka",
+          "rang": 264,
+          "mening": "Je n'ai pas ___ !",
+          "meningSv": "Jag är inte rädd!",
+          "svar": ["peur"],
+          "forklaring": "avoir peur = vara rädd. Negerat: je n'ai pas peur."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vad är rätt negation av « J'ai une voiture »?",
+          "alternativ": ["Je n'ai pas de voiture.", "Je n'ai pas une voiture.", "Je ne pas ai de voiture."],
+          "svar": "Je n'ai pas de voiture.",
+          "forklaring": "un/une/des byts mot de efter pas, och pas står efter verbet — inte före."
+        },
+        {
+          "typ": "val",
+          "fraga": "Var placeras ne och pas i en mening?",
+          "alternativ": ["ne före det böjda verbet, pas efter", "båda före verbet", "båda efter verbet"],
+          "svar": "ne före det böjda verbet, pas efter",
+          "forklaring": "Smörgåsregeln: verbet kläms mellan ne och pas — Je ne comprends pas."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vad betyder « Je ne mange rien »?",
+          "alternativ": ["Jag äter ingenting.", "Jag äter inte.", "Jag äter aldrig.", "Jag äter lite."],
+          "svar": "Jag äter ingenting.",
+          "forklaring": "ne … rien = ingenting. Jämför ne … pas (inte) och ne … jamais (aldrig)."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 170,
+          "ord": ["Je", "ne", "suis", "pas", "vieux", "!"],
+          "meningSv": "Jag är inte gammal!",
+          "forklaring": "ne … pas omsluter suis; adjektivet vieux kommer efter."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 324,
+          "ord": ["Il", "ne", "répond", "pas", "au", "téléphone."],
+          "meningSv": "Han svarar inte i telefon.",
+          "forklaring": "ne + répond + pas — smörgåsen gäller alla verb, inte bara être och avoir."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 344,
+          "meningSv": "Rör inte!",
+          "svar": ["Ne touche pas !", "Ne touche pas!", "Ne touche pas"],
+          "forklaring": "Även uppmaningar negeras med ne … pas runt verbet: Ne touche pas !"
+        }
+      ]
+    }
+  ]
+}
