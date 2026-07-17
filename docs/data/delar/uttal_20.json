@@ -1,0 +1,73 @@
+{
+  "lektioner": [
+    {
+      "id": 20,
+      "titel": "Finlir och avancerade undantag",
+      "teori": "<p>Sista uttalslektionen! Du kan reglerna — nu möter du orden som struntar i dem. Franskans mest älskade rebeller, med lite repetition på köpet.</p><p><strong>Rebellgalleriet:</strong></p><ul><li><em>femme</em> (kvinna) = [fam] — e uttalas a! Samma sak i adverb på -emment: <em>évidemment</em> [evidamɑ̃], <em>récemment</em> [ʁesamɑ̃]. Regeln i regelbrottet: -emment låter alltid [amɑ̃].</li><li><em>monsieur</em> = [məsjø]. Varken något [ɔ̃] eller något r på slutet, trots stavningen. Plural: <em>messieurs</em> [mesjø].</li><li><em>oignon</em> (lök) = [ɔnjɔ̃] — i:et är ren dekoration. Stavningsreformen 1990 föreslog <em>ognon</em>; ingen brydde sig.</li><li><em>second</em> / <em>seconde</em> = [səgɔ̃d] — c:et uttalas [g]! I princip enda stället i franskan där c blir g.</li><li><em>œuf</em> och <em>os</em>: singular [œf] och [ɔs] — men plural <em>des œufs</em> [dezø] och <em>des os</em> [dezo]. Slutljudet försvinner när de blir fler! Samma sak med <em>bœuf</em> → <em>bœufs</em> [bø].</li><li><em>août</em> (augusti) = [ut]. Fyra bokstäver, nästan inget kvar — hela Frankrike på semester, halva ordet också.</li><li><em>automne</em> (höst) = [otɔn] — m:et är tyst.</li><li><em>chef-d'œuvre</em> (mästerverk) = [ʃɛdœvʁ] — f:et i chef tystnar, men bara här: un chef [ʃɛf], un chef-d'œuvre [ʃɛdœvʁ].</li></ul><p>Varför finns undantagen? Det är gamla stavningar som frusit fast medan uttalet vandrat vidare i århundraden. Trösten: fransmännen själva snubblar på flera av dem. Och nu, när du kan både reglerna och rebellerna, har du ett bättre tränat franskt öra än de flesta hinner få på tio år. Chapeau !</p>",
+      "exempel": [
+        { "rang": 94, "fokus": "[fam] — e uttalas a!" },
+        { "rang": 131, "fokus": "[məsjø] — varken on eller r låter som stavningen" },
+        { "rang": 370, "fokus": "[otɔn] — m:et är tyst" },
+        { "rang": 508, "fokus": "[œf] i singular — men des œufs [dezø]!" },
+        { "rang": 1075, "fokus": "[ɔnjɔ̃] — i:et är bara pynt" },
+        { "rang": 1274, "fokus": "[evidamɑ̃] — -emment låter alltid [amɑ̃]" },
+        { "rang": 1333, "fokus": "[ut] — nästan hela ordet är tyst" },
+        { "rang": 1509, "fokus": "un os [ɔs], des os [o] — s:et försvinner i plural" },
+        { "rang": 1599, "fokus": "[ʃɛdœvʁ] — f:et i chef tystnar här" },
+        { "rang": 1611, "fokus": "[səgɔ̃d] — c uttalas [g]!" }
+      ],
+      "chip": { "monster": "^(femme|monsieur|automne|œuf|oignon|évidemment|août|os|seconde)$", "etikett": "undantag" },
+      "sjalvtest": [
+        {
+          "fraga": "Hur uttalas femme (kvinna)?",
+          "alternativ": ["[fam]", "[fem]", "[fœm]"],
+          "ratt": "[fam]",
+          "forklaring": "E:t uttalas [a] — ett arv från gammalfranskan. La femme = [la fam]."
+        },
+        {
+          "rang": 508,
+          "alternativ": ["œuf", "œufs"],
+          "ratt": "œuf",
+          "forklaring": "Du hörde [œf] med tydligt f — alltså singular. Plural œufs uttalas bara [ø]."
+        },
+        {
+          "fraga": "Hur uttalas des œufs (ägg i plural)?",
+          "alternativ": ["[dezø]", "[dezœf]", "[dezœfs]"],
+          "ratt": "[dezø]",
+          "forklaring": "F:et försvinner i plural: un œuf [œf] men des œufs [dezø]. Samma mönster som os och bœufs."
+        },
+        {
+          "fraga": "Vilket ljud gömmer sig i second/seconde?",
+          "alternativ": ["[g] — [səgɔ̃d]", "[k] — [səkɔ̃d]", "[s] — [səsɔ̃d]"],
+          "ratt": "[g] — [səgɔ̃d]",
+          "forklaring": "C:et uttalas [g] — i princip unikt i franskan. Une seconde ! = [yn səgɔ̃d]."
+        },
+        {
+          "fraga": "Hur uttalas oignon (lök)?",
+          "alternativ": ["[ɔnjɔ̃] — i:et hörs inte", "[wanjɔ̃] — oi som i roi", "[ɔgnɔ̃] — med g-ljud"],
+          "ratt": "[ɔnjɔ̃] — i:et hörs inte",
+          "forklaring": "Oi är här INTE [wa] — i:et är stumt och gn är som vanligt [nj]: [ɔnjɔ̃]."
+        },
+        {
+          "fraga": "Hur uttalas monsieur?",
+          "alternativ": ["[məsjø]", "[mɔ̃sjøʁ]", "[mɔnsjœʁ]"],
+          "ratt": "[məsjø]",
+          "forklaring": "On blir ett svagt [ə] och r:et är tyst: [məsjø] — ungefär 'mössjö'."
+        },
+        {
+          "fraga": "-emment i évidemment låter som …",
+          "alternativ": ["[amɑ̃]", "[emɑ̃]", "[əmɑ̃]"],
+          "ratt": "[amɑ̃]",
+          "forklaring": "Alla adverb på -emment uttalas [amɑ̃]: évidemment [evidamɑ̃], récemment [ʁesamɑ̃]. Samma e→a som i femme."
+        },
+        {
+          "ljudText": "août",
+          "fraga": "Lyssna på månaden augusti — hur uttalas août?",
+          "alternativ": ["[ut]", "[a-u]", "[aut]"],
+          "ratt": "[ut]",
+          "forklaring": "Bara [ut] — a:et är tyst och kvar blir ou + t. Franskans mest hopkrympta månad."
+        }
+      ]
+    }
+  ]
+}

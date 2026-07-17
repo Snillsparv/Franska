@@ -1,0 +1,223 @@
+{
+  "kapitel": [
+    {
+      "id": 30,
+      "titel": "Slutprov",
+      "teori": "<p><strong>Trettio dagar. Tre tusen ord. En hel grammatik.</strong> Du började med <em>le café, s'il vous plaît</em> — nu bygger du meningar med subjonctif, gerundium och indirekt tal. Det här är slutprovet, och du är redo för det.</p><p><strong>Så funkar provet:</strong></p><ul><li>Uppgifterna kommer i <strong>stigande svårighet</strong>: först artiklar, possessiv och presens — sedan passé composé, imparfait, futur — och till sist conditionnel, subjonctif och gerundium.</li><li>Gör uppgifterna <strong>i ordning</strong> och utan att slå upp något. Det här är en diagnos, inte en läxa.</li><li>Läs den svenska meningen först och fråga dig: <em>vilken regel prövas här?</em> Tempus? Genus? Ordföljd? Då har du oftast redan svaret.</li><li>Svarar du fel — läs förklaringen noga. Varje fel visar exakt vilket kapitel du ska bläddra tillbaka till.</li></ul><p><strong>Riktmärke:</strong> över 80 % rätt — chapeau, du har en stabil grund att tala vidare från. 60–80 % — starkt jobbat, repetera kapitlen bakom dina fel. Under 60 % — ingen fara: gör om kapitel 29 imorgon och provet igen om två dagar. Språk byggs av upprepning, inte av perfekta första försök.</p><p>En sista sak innan du börjar: det här provet mäter grammatik, men målet har hela tiden varit något större — att du ska kunna prata med Jessica på franska över kaffet och säga <em>Regarde, Kalle !</em> i parken. Det klarar du redan.</p><p><strong>Bonne chance, Jonas. Allez-y !</strong></p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 31,
+          "mening": "C'est ___ fils, Kalle.",
+          "meningSv": "Det här är min son Kalle.",
+          "svar": ["mon"],
+          "alternativ": ["mon", "ma", "mes", "le"],
+          "forklaring": "fils är maskulinum singular → mon. ma används vid femininum, mes vid plural."
+        },
+        {
+          "typ": "lucka",
+          "rang": 19,
+          "mening": "Elle ___ Jessica.",
+          "meningSv": "Hon heter Jessica.",
+          "svar": ["s'appelle"],
+          "alternativ": ["s'appelle", "s'appelles", "t'appelles", "appelle"],
+          "forklaring": "Reflexivt verb i il/elle-form: elle s'appelle. -es-formen hör till tu."
+        },
+        {
+          "typ": "val",
+          "rang": 12,
+          "fraga": "Vad betyder « Qu'est-ce que c'est ? »?",
+          "alternativ": ["Vad är det här?", "Vem är det?", "Var är det?"],
+          "svar": "Vad är det här?",
+          "forklaring": "qu'est-ce que = vad; qui = vem; où = var."
+        },
+        {
+          "typ": "lucka",
+          "rang": 69,
+          "mening": "Je ne ___ pas.",
+          "meningSv": "Jag förstår inte.",
+          "svar": ["comprends"],
+          "alternativ": ["comprends", "comprend", "comprenez", "comprendre"],
+          "forklaring": "je-formen av comprendre slutar på -s: je comprends. Utan -s är det il/elle-formen."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 64,
+          "ord": ["Je", "n'ai", "pas", "le", "temps."],
+          "meningSv": "Jag har inte tid.",
+          "forklaring": "ne ... pas omsluter verbet ai; ne blir n' framför vokal."
+        },
+        {
+          "typ": "lucka",
+          "rang": 156,
+          "mening": "J'apprends une ___ langue.",
+          "meningSv": "Jag lär mig ett nytt språk.",
+          "svar": ["nouvelle"],
+          "alternativ": ["nouveau", "nouvelle", "nouvel", "nouvelles"],
+          "forklaring": "langue är femininum singular → nouvelle. nouvel används bara framför maskulint ord på vokal."
+        },
+        {
+          "typ": "lucka",
+          "rang": 113,
+          "mening": "C'est ___ fils ?",
+          "meningSv": "Är det er son?",
+          "svar": ["votre"],
+          "alternativ": ["votre", "vos", "ton", "tes"],
+          "forklaring": "Ni-form + ett ägt ord i singular → votre. vos används vid plural."
+        },
+        {
+          "typ": "lucka",
+          "rang": 188,
+          "mening": "Qu'est-ce que tu veux ___ ?",
+          "meningSv": "Vad vill du dricka?",
+          "svar": ["boire"],
+          "alternativ": ["boire", "bois", "bu", "buvez"],
+          "forklaring": "Efter vouloir står nästa verb i infinitiv: tu veux boire."
+        },
+        {
+          "typ": "lucka",
+          "rang": 213,
+          "mening": "Il y a beaucoup ___ neige chez nous.",
+          "meningSv": "Det är mycket snö hemma hos oss.",
+          "svar": ["de"],
+          "alternativ": ["de", "de la", "du", "des"],
+          "forklaring": "Mängdord + de: beaucoup de neige. Partitivartikeln försvinner efter beaucoup."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 348,
+          "meningSv": "Titta på fågeln, Kalle!",
+          "svar": ["Regarde l'oiseau, Kalle !", "Regarde l'oiseau, Kalle!"],
+          "forklaring": "Imperativ i tu-form av -er-verb tappar sitt -s: regarde ! oiseau börjar på vokal → l'oiseau."
+        },
+        {
+          "typ": "lucka",
+          "rang": 327,
+          "mening": "J'ai ___ deux fois !",
+          "meningSv": "Jag har vunnit två gånger!",
+          "svar": ["gagné"],
+          "alternativ": ["gagné", "gagner", "gagne", "gagnais"],
+          "forklaring": "Passé composé: j'ai + particip. -er-verbens particip slutar på -é: gagné."
+        },
+        {
+          "typ": "lucka",
+          "rang": 682,
+          "mening": "Kalle est ___ en Suède.",
+          "meningSv": "Kalle föddes i Sverige.",
+          "svar": ["né"],
+          "alternativ": ["né", "née", "naît", "naître"],
+          "forklaring": "naître är ett être-verb i passé composé; participen böjs efter subjektet — Kalle: né."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 955,
+          "meningSv": "Attans, jag glömde!",
+          "svar": ["Mince, j'ai oublié !", "Mince, j'ai oublié!", "Zut, j'ai oublié !"],
+          "forklaring": "En avslutad händelse → passé composé: j'ai oublié. mince ! = attans!"
+        },
+        {
+          "typ": "lucka",
+          "rang": 1212,
+          "mening": "Bientôt, Kalle va ___ !",
+          "meningSv": "Snart kommer Kalle att krypa!",
+          "svar": ["ramper"],
+          "alternativ": ["ramper", "rampe", "rampé", "rampait"],
+          "forklaring": "Nära framtid: aller + infinitiv — va ramper."
+        },
+        {
+          "typ": "lucka",
+          "rang": 403,
+          "mening": "Il y a deux ans, on ___ deux. Maintenant, trois !",
+          "meningSv": "För två år sedan var vi två. Nu tre!",
+          "svar": ["était"],
+          "alternativ": ["était", "est", "sera", "a été"],
+          "forklaring": "il y a + tid = för ... sedan; tillstånd i dåtid → imparfait: on était."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 557,
+          "ord": ["Qu'est-ce", "qui", "se", "passe ?"],
+          "meningSv": "Vad händer?",
+          "forklaring": "qu'est-ce qui = vad, som subjekt; se passer = hända."
+        },
+        {
+          "typ": "lucka",
+          "rang": 316,
+          "mening": "On ___ demain !",
+          "meningSv": "Vi får se imorgon!",
+          "svar": ["verra"],
+          "alternativ": ["verra", "voit", "voir", "verrait"],
+          "forklaring": "Futur simple av voir: verr- + -a. verrait vore conditionnel (skulle se)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 978,
+          "mening": "Elle est ___ dans les pommes !",
+          "meningSv": "Hon svimmade!",
+          "svar": ["tombée"],
+          "alternativ": ["tombée", "tombé", "tomber", "tombait"],
+          "forklaring": "être-verb: participen böjs efter subjektet elle → tombée med extra -e."
+        },
+        {
+          "typ": "lucka",
+          "rang": 887,
+          "mening": "Le rôle de papa, c'est le ___.",
+          "meningSv": "Papparollen är den bästa.",
+          "svar": ["meilleur"],
+          "alternativ": ["meilleur", "mieux", "meilleure", "bon"],
+          "forklaring": "Superlativ av adjektivet bon: le meilleur (maskulinum efter le rôle). mieux är adverb."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1967,
+          "mening": "Il dort ___ huit heures. Touchons du bois.",
+          "meningSv": "Han har sovit i åtta timmar. Peppar, peppar.",
+          "svar": ["depuis"],
+          "alternativ": ["depuis", "pendant", "il y a", "dans"],
+          "forklaring": "Pågår fortfarande → depuis + presens: il dort depuis huit heures."
+        },
+        {
+          "typ": "lucka",
+          "rang": 554,
+          "mening": "Ce ___ super !",
+          "meningSv": "Det skulle vara toppen!",
+          "svar": ["serait"],
+          "alternativ": ["serait", "sera", "était", "est"],
+          "forklaring": "Hypotes → conditionnel: ce serait = det skulle vara. sera är futur (kommer att vara)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2437,
+          "mening": "Kalle ___ bilingue ? Trilingue ?",
+          "meningSv": "Blir Kalle tvåspråkig? Trespråkig?",
+          "svar": ["sera"],
+          "alternativ": ["sera", "serait", "était", "est"],
+          "forklaring": "Framtid → futur simple av être: sera. serait vore 'skulle bli'."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Il faut que tu ___ patient.",
+          "meningSv": "Du måste vara tålmodig.",
+          "svar": ["sois"],
+          "alternativ": ["es", "sois", "seras", "être"],
+          "forklaring": "il faut que utlöser subjonctif: être → que tu sois."
+        },
+        {
+          "typ": "val",
+          "fraga": "Direkt fråga: « Tu viens ? » Vilken indirekt form är rätt?",
+          "alternativ": ["Il demande si je viens.", "Il demande que je viens.", "Il demande est-ce que je viens."],
+          "svar": "Il demande si je viens.",
+          "forklaring": "Ja/nej-fråga återges med si (= om) och rak ordföljd — aldrig est-ce que."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Kalle apprend en ___.",
+          "meningSv": "Kalle lär sig genom att leka.",
+          "svar": ["jouant"],
+          "alternativ": ["jouant", "jouer", "joue", "joué"],
+          "forklaring": "Gerundium: en + nous-stammen + -ant. nous jouons → en jouant = genom att leka."
+        }
+      ]
+    }
+  ]
+}

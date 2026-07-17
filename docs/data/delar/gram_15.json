@@ -1,0 +1,143 @@
+{
+  "kapitel": [
+    {
+      "id": 15,
+      "titel": "Räkneord i grammatiken: de + mängd",
+      "teori": "<p>Efter mängdord använder franskan alltid ett naket <strong>de</strong> — aldrig du, de la eller des: <em>beaucoup <strong>de</strong> neige</em> (mycket snö), <em>un peu <strong>de</strong> lait</em> (lite mjölk).</p><p><strong>Mängdadverben:</strong></p><ul><li><em>beaucoup de</em> — mycket/många: <em>beaucoup de changements</em></li><li><em>un peu de</em> — lite: <em>un peu de sel</em></li><li><em>trop de</em> — för mycket: <em>trop de bruit</em></li><li><em>assez de</em> — tillräckligt med</li><li><em>combien de</em> — hur mycket/många: <em>combien de temps ?</em></li></ul><p><strong>Måttorden</strong> fungerar likadant — mått + de + vara:</p><table class=\"enkel\"><tr><th>franska</th><th>svenska</th></tr><tr><td>un kilo de pommes</td><td>ett kilo äpplen</td></tr><tr><td>un litre de lait</td><td>en liter mjölk</td></tr><tr><td>un verre de vin</td><td>ett glas vin</td></tr><tr><td>une tasse de café</td><td>en kopp kaffe</td></tr><tr><td>une boîte de tomates</td><td>en burk tomater</td></tr><tr><td>un morceau de fromage</td><td>en bit ost</td></tr></table><p>Före vokal eller stumt h blir de → <strong>d'</strong>: <em>beaucoup <strong>d'</strong>îles</em>, <em>un peu <strong>d'</strong>eau</em>.</p><p><strong>Samma regel vid negation:</strong> pas de: <em>Je n'ai <strong>pas d'</strong>argent</em> — jag har inga pengar. (Jämför: <em>j'ai de l'argent</em> → <em>je n'ai pas d'argent</em>.)</p><p><strong>Men räkneorden är rebeller!</strong> Efter en siffra kommer substantivet direkt, utan de: <em>deux cafés</em>, <em>trois enfants</em> — aldrig \"deux de cafés\". Undantaget är jämförelser: <em>plus de</em>/<em>moins de</em> + tal betyder mer än/mindre än: <em>plus de 300 fromages</em> — över 300 ostar.</p><p><strong>Minneskrok:</strong> mängd + de + vara — tänk \"en massa AV något\": beaucoup DE, un kilo DE, pas DE. Siffror räknar direkt: <em>deux bières</em>, men mängdord mäter med de: <em>beaucoup de bière</em>.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 67,
+          "mening": "Un peu ___ lait, s'il vous plaît.",
+          "meningSv": "Lite mjölk, tack.",
+          "svar": ["de"],
+          "alternativ": ["de", "du", "de la", "des"],
+          "forklaring": "Efter mängdord som un peu används alltid bara de — aldrig du/de la/des."
+        },
+        {
+          "typ": "lucka",
+          "rang": 213,
+          "mening": "Il y a beaucoup ___ neige chez nous.",
+          "meningSv": "Det är mycket snö hemma hos oss.",
+          "svar": ["de"],
+          "alternativ": ["de", "de la", "du", "des"],
+          "forklaring": "beaucoup + de: beaucoup de neige. De la neige = snö (i allmänhet), men efter beaucoup försvinner artikeln."
+        },
+        {
+          "typ": "lucka",
+          "rang": 436,
+          "mening": "Il y a trop ___ bruit ici.",
+          "meningSv": "Det är för mycket oväsen här.",
+          "svar": ["de"],
+          "forklaring": "trop + de: trop de bruit = för mycket oväsen."
+        },
+        {
+          "typ": "lucka",
+          "rang": 501,
+          "mening": "Un verre ___ vin ?",
+          "meningSv": "Ett glas vin?",
+          "svar": ["de"],
+          "alternativ": ["de", "du", "des", "à"],
+          "forklaring": "Måttord + de: un verre de vin. Du vin = vin (att dricka), men efter måttet verre blir det bara de."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1086,
+          "mening": "Une boîte ___ tomates, s'il vous plaît.",
+          "meningSv": "En burk tomater, tack.",
+          "svar": ["de"],
+          "alternativ": ["de", "des", "du", "aux"],
+          "forklaring": "Måttord + de: une boîte de tomates — även när varan är plural blir det de, inte des."
+        },
+        {
+          "typ": "lucka",
+          "rang": 686,
+          "mening": "Ça dure combien ___ temps ?",
+          "meningSv": "Hur länge håller det på?",
+          "svar": ["de"],
+          "forklaring": "combien + de: combien de temps = hur mycket tid."
+        },
+        {
+          "typ": "lucka",
+          "rang": 196,
+          "mening": "Je n'ai pas ___ sur moi.",
+          "meningSv": "Jag har inga pengar på mig.",
+          "svar": ["d'argent"],
+          "alternativ": ["d'argent", "de l'argent", "des argents", "argent"],
+          "forklaring": "Efter pas blir det bara de, och de → d' före vokal: pas d'argent. Jämför j'ai de l'argent → je n'ai pas d'argent."
+        },
+        {
+          "typ": "val",
+          "rang": 820,
+          "fraga": "Vilket är rätt?",
+          "alternativ": ["La Suède a beaucoup d'îles.", "La Suède a beaucoup des îles.", "La Suède a beaucoup îles."],
+          "svar": "La Suède a beaucoup d'îles.",
+          "forklaring": "beaucoup + de, och de → d' före vokal: beaucoup d'îles. Des är fel efter mängdord, och de kan inte utelämnas."
+        },
+        {
+          "typ": "lucka",
+          "rang": 270,
+          "mening": "Il y a ___ de 300 fromages en France !",
+          "meningSv": "Det finns över 300 ostar i Frankrike!",
+          "svar": ["plus"],
+          "alternativ": ["plus", "beaucoup", "très", "assez"],
+          "forklaring": "plus de + räkneord = mer än/över: plus de 300. Beaucoup de följs av ett substantiv, inte ett tal."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1220,
+          "mening": "J'ajoute un ___ de sel.",
+          "meningSv": "Jag lägger till lite salt.",
+          "svar": ["peu"],
+          "alternativ": ["peu", "petit", "morceau", "kilo"],
+          "forklaring": "un peu de = lite. \"Un petit de\" går inte — petit är ett adjektiv, inte ett mängdord."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 1608,
+          "ord": ["Un", "litre", "de", "lait."],
+          "meningSv": "En liter mjölk.",
+          "forklaring": "Mått + de + vara: un litre de lait."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 145,
+          "ord": ["J'écoute", "beaucoup", "de", "français."],
+          "meningSv": "Jag lyssnar på mycket franska.",
+          "forklaring": "Mängdordet beaucoup de står ihop framför substantivet: beaucoup de français."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 503,
+          "meningSv": "En kopp kaffe? Alltid!",
+          "svar": ["Une tasse de café ? Toujours !", "Une tasse de café? Toujours!"],
+          "forklaring": "Måttord + de: une tasse de café — aldrig \"une tasse de le café\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 504,
+          "mening": "Un petit ___ de fromage ?",
+          "meningSv": "En liten bit ost?",
+          "svar": ["morceau"],
+          "alternativ": ["morceau", "peu", "kilo", "verre"],
+          "forklaring": "un morceau de = en bit. Måttordet väljs efter betydelsen — svenskans \"bit\" pekar på morceau."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket är rätt efter ett räkneord?",
+          "alternativ": ["deux cafés", "deux de cafés", "deux des cafés"],
+          "svar": "deux cafés",
+          "forklaring": "Efter räkneord kommer substantivet direkt, utan de: deux cafés. De används efter mängdord som beaucoup och un kilo."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Un kilo ___ pommes, s'il vous plaît.",
+          "meningSv": "Ett kilo äpplen, tack.",
+          "svar": ["de"],
+          "alternativ": ["de", "des", "du", "de la"],
+          "forklaring": "Måttord + de: un kilo de pommes, även om pommes är plural."
+        }
+      ]
+    }
+  ]
+}
