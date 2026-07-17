@@ -1,0 +1,231 @@
+{
+  "kapitel": [
+    {
+      "id": 20,
+      "titel": "Imperativ",
+      "teori": "<p><strong>Imperativ</strong> (uppmaningsformen) är presens utan subjekt — tre former räcker:</p><table class=\"enkel\"><tr><th>riktas till</th><th>parler</th><th>finir</th><th>faire</th></tr><tr><td>(tu)</td><td>Parle !</td><td>Finis !</td><td>Fais !</td></tr><tr><td>(nous)</td><td>Parlons !</td><td>Finissons !</td><td>Faisons !</td></tr><tr><td>(vous)</td><td>Parlez !</td><td>Finissez !</td><td>Faites !</td></tr></table><p><strong>Regel 1 — s:et faller:</strong> -er-verb (och aller) tappar sitt -s i tu-formen: <em>tu regardes → Regarde !</em>, <em>tu vas → Va !</em> Övriga verb behåller sitt -s: <em>Finis ! Prends ! Fais !</em></p><p><strong>Regel 2 — s:et återuppstår</strong> före y och en, för uttalets skull: <em>Vas-y !</em> (Kör!), <em>Manges-en !</em> (Ät av det!). Bindestrecket + s ger länkljudet [z].</p><p><strong>Regel 3 — pronomen byter sida:</strong> i positiv imperativ hamnar pronomenet EFTER verbet med bindestreck, och me/te blir moi/toi: <em>Regarde-le ! Pardonne-moi ! Dépêche-toi !</em> I negativ imperativ gäller vanlig ordföljd igen: <em>Ne te vexe pas ! Ne me parle pas sur ce ton !</em></p><p><strong>Oregelbundna värda att kunna:</strong> être → <em>Sois sage !</em> (Var snäll!), <em>Soyez prudents !</em>; avoir → <em>Aie confiance !</em> (Ha tilltro!); savoir → <em>Sache que…</em> (Du ska veta att…).</p><p><strong>Vardagskrok:</strong> med ett barn i huset hör du imperativ hela dagen: <em>Regarde, Kalle ! Ne touche pas ! Ferme les yeux ! Amuse-toi bien !</em> Mjuka gärna upp uppmaningar med s'il te plaît / s'il vous plaît: <em>Ferme la porte, s'il te plaît.</em> Artigt, men fortfarande imperativ.</p>",
+      "ovningar": [
+        {
+          "typ": "val",
+          "fraga": "Hur bildas tu-imperativ av ett -er-verb?",
+          "alternativ": [
+            "Presensformen med -s kvar: Regardes !",
+            "Presensformen utan subjekt, och -s faller: Regarde !",
+            "Infinitiven rakt av: Regarder !"
+          ],
+          "svar": "Presensformen utan subjekt, och -s faller: Regarde !",
+          "forklaring": "tu regardes → Regarde ! Bara -er-verb (och aller) tappar s:et."
+        },
+        {
+          "typ": "lucka",
+          "rang": 144,
+          "mening": "___, Kalle !",
+          "meningSv": "Titta, Kalle!",
+          "svar": [
+            "Regarde"
+          ],
+          "alternativ": [
+            "Regarde",
+            "Regardes",
+            "Regarder",
+            "Regardez"
+          ],
+          "forklaring": "tu-imperativ av -er-verb tappar -s: tu regardes → Regarde !"
+        },
+        {
+          "typ": "lucka",
+          "rang": 1696,
+          "mening": "Ne ___ pas l'eau !",
+          "meningSv": "Slösa inte med vattnet!",
+          "svar": [
+            "gaspille"
+          ],
+          "alternativ": [
+            "gaspille",
+            "gaspilles",
+            "gaspiller",
+            "gaspillez"
+          ],
+          "forklaring": "Negativ imperativ: Ne + verb + pas. -er-verbets tu-form utan -s: gaspille."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1143,
+          "mening": "___ sage !",
+          "meningSv": "Var snäll nu!",
+          "svar": [
+            "Sois"
+          ],
+          "alternativ": [
+            "Es",
+            "Être",
+            "Suis",
+            "Sois"
+          ],
+          "forklaring": "être är oregelbundet i imperativ: Sois ! Soyons ! Soyez ! — Sois sage = var snäll."
+        },
+        {
+          "typ": "lucka",
+          "rang": 462,
+          "mening": "___ à droite après le pont.",
+          "meningSv": "Sväng höger efter bron.",
+          "svar": [
+            "Tournez"
+          ],
+          "alternativ": [
+            "Tournez",
+            "Tournes",
+            "Tourner"
+          ],
+          "forklaring": "Till en främling: vous-formen Tournez. Infinitiv (tourner) fungerar inte som uppmaning här."
+        },
+        {
+          "typ": "lucka",
+          "rang": 470,
+          "mening": "___-toi, le train part !",
+          "meningSv": "Skynda dig, tåget går!",
+          "svar": [
+            "Dépêche"
+          ],
+          "alternativ": [
+            "Dépêches",
+            "Dépêchez",
+            "Dépêche"
+          ],
+          "forklaring": "Reflexivt verb: verb + toi med bindestreck, och -er-verbets -s faller: Dépêche-toi !"
+        },
+        {
+          "typ": "lucka",
+          "rang": 344,
+          "mening": "Ne ___ pas !",
+          "meningSv": "Rör inte!",
+          "svar": [
+            "touche"
+          ],
+          "alternativ": [
+            "touches",
+            "toucher",
+            "touche"
+          ],
+          "forklaring": "Ne touche pas ! tu-imperativ utan -s — förbudet du säger oftast till ett barn."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1266,
+          "mening": "___ attention à la route !",
+          "meningSv": "Var försiktig på vägen!",
+          "svar": [
+            "Fais"
+          ],
+          "alternativ": [
+            "Fait",
+            "Faites",
+            "Fais",
+            "Faire"
+          ],
+          "forklaring": "faire behåller sitt -s i tu-imperativ: Fais ! (Bara -er-verb tappar det.)"
+        },
+        {
+          "typ": "lucka",
+          "rang": 1285,
+          "mening": "___ un parapluie, au cas où.",
+          "meningSv": "Ta ett paraply, för säkerhets skull.",
+          "svar": [
+            "Prends"
+          ],
+          "alternativ": [
+            "Prend",
+            "Prends",
+            "Prenez"
+          ],
+          "forklaring": "prendre behåller -s: Prends ! il/elle-formen prend saknar s och är fel som tu-uppmaning."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1571,
+          "mening": "___-y, tu peux le faire !",
+          "meningSv": "Kör, du klarar det!",
+          "svar": [
+            "Vas"
+          ],
+          "alternativ": [
+            "Va",
+            "Allez",
+            "Vas"
+          ],
+          "forklaring": "va tappar sitt -s — men före y kommer det tillbaka: Vas-y ! [vaz-i]."
+        },
+        {
+          "typ": "lucka",
+          "rang": 335,
+          "mening": "Ne t'___ pas, ça va !",
+          "meningSv": "Oroa dig inte, det är lugnt!",
+          "svar": [
+            "inquiète"
+          ],
+          "alternativ": [
+            "inquiètes",
+            "inquiéter",
+            "inquiète"
+          ],
+          "forklaring": "Negativ imperativ av reflexivt verb: Ne t'inquiète pas — pronomenet före verbet, inget -s."
+        },
+        {
+          "typ": "val",
+          "fraga": "Hur säger man ”Titta på den!”?",
+          "alternativ": [
+            "Le regarde !",
+            "Regarde-le !",
+            "Regarde le !"
+          ],
+          "svar": "Regarde-le !",
+          "forklaring": "I positiv imperativ hamnar pronomenet efter verbet, fäst med bindestreck: Regarde-le !"
+        },
+        {
+          "typ": "val",
+          "fraga": "Hur säger man ”Nu går vi!” som vi-uppmaning?",
+          "alternativ": [
+            "Vas-y !",
+            "Allons-y !",
+            "Allez-y !"
+          ],
+          "svar": "Allons-y !",
+          "forklaring": "nous-formen utan subjekt = ”låt oss”: Allons-y ! Allez-y riktar sig till ni, Vas-y till du."
+        },
+        {
+          "typ": "ordfoljd",
+          "ord": [
+            "Ne",
+            "te",
+            "vexe",
+            "pas,",
+            "c'est",
+            "pour",
+            "rire !"
+          ],
+          "meningSv": "Ta inte illa upp, det är på skoj!",
+          "forklaring": "Negativ imperativ: Ne + te + verb + pas — pronomenet står kvar före verbet.",
+          "rang": 1949
+        },
+        {
+          "typ": "oversatt",
+          "rang": 247,
+          "meningSv": "Blunda!",
+          "svar": [
+            "Ferme les yeux !"
+          ],
+          "forklaring": "tu-imperativ av -er-verb: Ferme ! les yeux = ögonen (plural av l'œil)."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 1657,
+          "meningSv": "Förlåt mig!",
+          "svar": [
+            "Pardonne-moi !"
+          ],
+          "forklaring": "Positiv imperativ: pronomenet efter verbet, och me → moi: Pardonne-moi !"
+        }
+      ]
+    }
+  ]
+}

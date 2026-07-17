@@ -1,0 +1,199 @@
+{
+  "kapitel": [
+    {
+      "id": 16,
+      "titel": "Imparfait",
+      "teori": "<p><strong>Imparfait</strong> är dåtidens bakgrundstempus: det målar upp hur något <em>var</em>, vad som <em>pågick</em> eller vad man <em>brukade</em> göra. Svenskans ”var/hade/brukade” motsvaras nästan alltid av imparfait.</p><p><strong>Bildningen är superenkel:</strong> ta presensformen för <em>nous</em>, stryk <em>-ons</em> — där har du stammen. Lägg sedan på ändelserna:</p><table class=\"enkel\"><tr><th></th><th>parler (nous parl-ons)</th><th>faire (nous fais-ons)</th></tr><tr><td>je</td><td>parlais</td><td>faisais</td></tr><tr><td>tu</td><td>parlais</td><td>faisais</td></tr><tr><td>il/elle/on</td><td>parlait</td><td>faisait</td></tr><tr><td>nous</td><td>parlions</td><td>faisions</td></tr><tr><td>vous</td><td>parliez</td><td>faisiez</td></tr><tr><td>ils/elles</td><td>parlaient</td><td>faisaient</td></tr></table><p><strong>Minneskrok:</strong> fyra av formerna (<em>-ais, -ais, -ait, -aient</em>) uttalas exakt likadant: [ä]. Hör du ”parl-ä” i dåtid är det imparfait — bara nous- och vous-formerna sticker ut med -ions/-iez.</p><p><strong>Ett enda undantagsverb:</strong> être får stammen <em>ét-</em>: <em>j'étais, tu étais, il était…</em> — <em>Quand j'étais petit, j'habitais ici</em> (När jag var liten bodde jag här). Avoir är helt regelbundet: <em>nous avons → j'avais</em> — <em>Kalle avait un surnom</em> (Kalle hade ett smeknamn).</p><p><strong>När används imparfait?</strong></p><ul><li><strong>Tillstånd och beskrivning:</strong> C'était super ! Jessica était enceinte.</li><li><strong>Vanor och upprepning:</strong> Avant, je regardais la télé tous les soirs. (Förr brukade jag titta på TV varje kväll.)</li><li><strong>Pågående bakgrund:</strong> Pardon, tu disais ? (Förlåt, vad var det du sa/höll på att säga?)</li></ul><p>De vanligaste fraserna kan du lära dig som glosor: <em>c'était</em> (det var), <em>il y avait</em> (det fanns), <em>je voulais</em> (jag ville), <em>je pensais</em> (jag trodde). De täcker hälften av all imparfait du hör i vardagen — börja där, så sitter mönstret nästan av sig självt.</p>",
+      "ovningar": [
+        {
+          "typ": "val",
+          "fraga": "Hur bildas imparfait-stammen?",
+          "alternativ": [
+            "Ta je-formen i presens och stryk -e",
+            "Ta nous-formen i presens och stryk -ons",
+            "Ta infinitiven och stryk -er"
+          ],
+          "svar": "Ta nous-formen i presens och stryk -ons",
+          "forklaring": "nous parlons → parl- → je parlais. Regeln gäller alla verb utom être (ét-)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 555,
+          "mening": "Quand j'___ petit, j'habitais ici.",
+          "meningSv": "När jag var liten bodde jag här.",
+          "svar": [
+            "étais"
+          ],
+          "alternativ": [
+            "était",
+            "suis",
+            "êtes",
+            "étais"
+          ],
+          "forklaring": "je + imparfait får ändelsen -ais. être har specialstammen ét-: j'étais = jag var."
+        },
+        {
+          "typ": "lucka",
+          "rang": 206,
+          "mening": "C'___ super, hier !",
+          "meningSv": "Det var toppen igår!",
+          "svar": [
+            "était"
+          ],
+          "alternativ": [
+            "est",
+            "été",
+            "était",
+            "êtes"
+          ],
+          "forklaring": "Ett omdöme om hur något var är bakgrund → imparfait: c'était = det var."
+        },
+        {
+          "typ": "lucka",
+          "rang": 935,
+          "mening": "J'___ très ému.",
+          "meningSv": "Jag var väldigt rörd.",
+          "svar": [
+            "étais"
+          ],
+          "alternativ": [
+            "était",
+            "suis",
+            "étiez",
+            "étais"
+          ],
+          "forklaring": "je-formen slutar på -ais. ”était” är il/elle-formen — lyssna på subjektet j'."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1345,
+          "mening": "Kalle ___ un surnom avant de naître.",
+          "meningSv": "Kalle hade ett smeknamn innan han föddes.",
+          "svar": [
+            "avait"
+          ],
+          "alternativ": [
+            "a",
+            "avait",
+            "avais",
+            "avaient"
+          ],
+          "forklaring": "il/elle + imparfait → -ait. avoir är regelbundet: nous avons → av- → il avait = han hade."
+        },
+        {
+          "typ": "lucka",
+          "rang": 611,
+          "mening": "À l'époque, c'___ différent.",
+          "meningSv": "På den tiden var det annorlunda.",
+          "svar": [
+            "était"
+          ],
+          "alternativ": [
+            "est",
+            "a été",
+            "étaient",
+            "était"
+          ],
+          "forklaring": "Beskrivning av hur det var förr → imparfait. à l'époque (på den tiden) är ett typiskt imparfait-signalord."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1670,
+          "mening": "Ne m'interromps pas ! Pardon, tu ___ ?",
+          "meningSv": "Avbryt mig inte! Förlåt, vad sa du?",
+          "svar": [
+            "disais"
+          ],
+          "alternativ": [
+            "dis",
+            "disait",
+            "disais",
+            "disent"
+          ],
+          "forklaring": "Något som pågick när det avbröts → imparfait: tu disais = du höll på att säga. Stam: nous disons → dis-."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1675,
+          "mening": "Je ne m'___ pas à ça !",
+          "meningSv": "Det hade jag inte väntat mig!",
+          "svar": [
+            "attendais"
+          ],
+          "alternativ": [
+            "attends",
+            "attendait",
+            "attendez",
+            "attendais"
+          ],
+          "forklaring": "je + -ais. s'attendre à = vänta sig; imparfait för ett pågående (icke-)förväntande."
+        },
+        {
+          "typ": "ordfoljd",
+          "ord": [
+            "Quand",
+            "j'étais",
+            "petit,",
+            "j'habitais",
+            "ici."
+          ],
+          "meningSv": "När jag var liten bodde jag här.",
+          "forklaring": "Quand-satsen först, sedan huvudsatsen. Båda verben är imparfait: var liten (tillstånd) + bodde (vana).",
+          "rang": 555
+        },
+        {
+          "typ": "oversatt",
+          "rang": 414,
+          "meningSv": "Kort sagt: det var toppen.",
+          "svar": [
+            "Bref, c'était super.",
+            "Bref c'était super."
+          ],
+          "forklaring": "c'était = det var. bref = kort sagt."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 1207,
+          "meningSv": "Hans tal var perfekt.",
+          "svar": [
+            "Son discours était parfait."
+          ],
+          "forklaring": "Tillstånd/beskrivning i dåtid → imparfait: était. son = hans/hennes framför maskulint ord (le discours)."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken ändelse har ils/elles i imparfait?",
+          "alternativ": [
+            "-ait",
+            "-aient",
+            "-ais",
+            "-ent"
+          ],
+          "svar": "-aient",
+          "forklaring": "ils parlaient. Uttalas precis som -ais/-ait — bara stavningen skiljer."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vad är imparfait-stammen till faire (nous faisons)?",
+          "alternativ": [
+            "fer-",
+            "fai-",
+            "fais-",
+            "font-"
+          ],
+          "svar": "fais-",
+          "forklaring": "Stryk -ons ur nous faisons: je faisais, il faisait. fer- är futurstammen — blanda inte ihop dem."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Avant, nous ___ (habiter) à Paris.",
+          "meningSv": "Förr bodde vi i Paris.",
+          "svar": [
+            "habitions"
+          ],
+          "forklaring": "nous + imparfait → -ions: nous habitions. avant (förr) signalerar vana i dåtid."
+        }
+      ]
+    }
+  ]
+}

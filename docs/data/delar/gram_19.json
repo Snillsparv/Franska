@@ -1,0 +1,221 @@
+{
+  "kapitel": [
+    {
+      "id": 19,
+      "titel": "Y och en",
+      "teori": "<p>Två små superord som franskan älskar — båda står <strong>före verbet</strong>, precis som objektspronomen.</p><p><strong>Y = ”dit/där”</strong> — ersätter en plats (à/en/chez/dans + ställe) eller à + sak:</p><ul><li><em>Tu vas à Paris ? — Oui, j'y vais !</em> (Jag åker dit!)</li><li><em>On y va ?</em> (Ska vi dra? — ordagrant ”vi dit går?”)</li><li><em>Tu penses à ton examen ? — Oui, j'y pense.</em> (à + sak)</li></ul><p><strong>En = ”av det/av dem”</strong> — ersätter de + substantiv, ofta med mängd:</p><ul><li><em>Tu as des enfants ? — J'en ai deux !</em> (Jag har två <em>av dem</em>)</li><li><em>Tu veux du café ? — Oui, j'en veux bien.</em> (du/de la/des → en)</li><li><em>Tu doutes de ça ? — J'en doute.</em> (de + sak)</li></ul><p><strong>Minneskrok:</strong> <em>y</em> pekar mot något (à →), <em>en</em> öser ur något (de ←). Svenskan hoppar ofta över ordet (”jag har två”) — franskan kräver det: <em>j'en ai deux</em>, aldrig bara <em>j'ai deux</em>.</p><p><strong>Fasta uttryck att kunna utantill:</strong></p><table class=\"enkel\"><tr><th>uttryck</th><th>betyder</th></tr><tr><td>Il y a</td><td>det finns</td></tr><tr><td>Ça y est !</td><td>nu är det klart / nu fattar jag</td></tr><tr><td>Vas-y ! / Allons-y !</td><td>kör! / nu går vi!</td></tr><tr><td>J'en ai marre !</td><td>jag är less!</td></tr><tr><td>Je vous en prie.</td><td>varsågod / ingen orsak</td></tr><tr><td>Il y en a mille.</td><td>det finns tusen (y och en tillsammans)</td></tr></table><p>När båda dyker upp i samma mening är ordningen fast: <strong>y före en</strong> — <em>il y en a</em> (det finns sådana). Och märker du att du redan säger <em>on y va</em> och <em>il y a</em> utan att tänka? Då kan du i praktiken redan reglerna — nu sätter vi system på dem.</p>",
+      "ovningar": [
+        {
+          "typ": "val",
+          "fraga": "Vad ersätter y oftast?",
+          "alternativ": [
+            "de + mängd",
+            "en plats (à/en/chez + ställe)",
+            "en person som direkt objekt"
+          ],
+          "svar": "en plats (à/en/chez + ställe)",
+          "forklaring": "y = ”dit/där”: je vais à Paris → j'y vais. de + mängd ersätts av en."
+        },
+        {
+          "typ": "lucka",
+          "rang": 39,
+          "mening": "J'___ vais !",
+          "meningSv": "Nu drar jag!",
+          "svar": [
+            "y"
+          ],
+          "alternativ": [
+            "en",
+            "le",
+            "là",
+            "y"
+          ],
+          "forklaring": "y = dit (platsen är underförstådd) och står före verbet: j'y vais = jag drar dit/nu drar jag."
+        },
+        {
+          "typ": "lucka",
+          "rang": 30,
+          "mening": "On ___ va ?",
+          "meningSv": "Ska vi dra?",
+          "svar": [
+            "y"
+          ],
+          "alternativ": [
+            "en",
+            "le",
+            "y",
+            "la"
+          ],
+          "forklaring": "on y va = ska vi dra (dit)? y före verbet — franskan kräver platspronomenet även när svenskan hoppar över det."
+        },
+        {
+          "typ": "lucka",
+          "rang": 301,
+          "mening": "J'___ ai deux !",
+          "meningSv": "Jag har två (av dem)!",
+          "svar": [
+            "en"
+          ],
+          "alternativ": [
+            "y",
+            "en",
+            "les",
+            "des"
+          ],
+          "forklaring": "en = ”av dem” och ersätter de + mängd: j'en ai deux = jag har två (av dem)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 950,
+          "mening": "J'___ ai marre du bus !",
+          "meningSv": "Jag är så trött på bussen!",
+          "svar": [
+            "en"
+          ],
+          "alternativ": [
+            "y",
+            "le",
+            "en",
+            "la"
+          ],
+          "forklaring": "Fast uttryck: en avoir marre (de) = vara less (på). en syftar på det man är trött på."
+        },
+        {
+          "typ": "lucka",
+          "rang": 946,
+          "mening": "Ça ___ est, je comprends !",
+          "meningSv": "Nu fattar jag!",
+          "svar": [
+            "y"
+          ],
+          "alternativ": [
+            "en",
+            "le",
+            "y",
+            "ça"
+          ],
+          "forklaring": "Fast uttryck: ça y est = nu är det klart / nu sitter det."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1257,
+          "mening": "J'___ doute.",
+          "meningSv": "Det tvivlar jag på.",
+          "svar": [
+            "en"
+          ],
+          "alternativ": [
+            "y",
+            "en",
+            "le",
+            "lui"
+          ],
+          "forklaring": "douter de quelque chose → de + sak ersätts av en: j'en doute = det tvivlar jag på."
+        },
+        {
+          "typ": "lucka",
+          "rang": 701,
+          "mening": "Il faut que j'___ aille !",
+          "meningSv": "Jag måste dra nu!",
+          "svar": [
+            "y"
+          ],
+          "alternativ": [
+            "en",
+            "y",
+            "la",
+            "le"
+          ],
+          "forklaring": "aller + plats → y: il faut que j'y aille = jag måste dra (dit). Fast avskedsfras!"
+        },
+        {
+          "typ": "lucka",
+          "rang": 1937,
+          "mening": "Je balaie les miettes. Il y ___ a mille.",
+          "meningSv": "Jag sopar smulorna. Det finns tusen.",
+          "svar": [
+            "en"
+          ],
+          "alternativ": [
+            "y",
+            "en",
+            "les",
+            "la"
+          ],
+          "forklaring": "il y a + mängd → il y en a: y och en tillsammans, alltid i ordningen y före en."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1815,
+          "mening": "Une astuce de mémoire ? J'___ ai mille.",
+          "meningSv": "Ett minnesknep? Jag har tusen.",
+          "svar": [
+            "en"
+          ],
+          "alternativ": [
+            "y",
+            "les",
+            "une",
+            "en"
+          ],
+          "forklaring": "Mängden (mille) kräver en: j'en ai mille = jag har tusen (sådana)."
+        },
+        {
+          "typ": "val",
+          "fraga": "Hur säger man ”Jag vill ha två (av dem)”?",
+          "alternativ": [
+            "J'y veux deux.",
+            "J'en veux deux.",
+            "Je les veux deux."
+          ],
+          "svar": "J'en veux deux.",
+          "forklaring": "Mängd (deux) → en. y ersätter plats, och les kan inte kombineras med ett räkneord så här."
+        },
+        {
+          "typ": "ordfoljd",
+          "ord": [
+            "Tu",
+            "es",
+            "prêt ?",
+            "On",
+            "y",
+            "va !"
+          ],
+          "meningSv": "Är du redo? Nu kör vi!",
+          "forklaring": "y står mellan subjektet och verbet: on y va.",
+          "rang": 216
+        },
+        {
+          "typ": "oversatt",
+          "rang": 456,
+          "meningSv": "Ska vi cykla dit?",
+          "svar": [
+            "On y va à vélo ?"
+          ],
+          "forklaring": "on y va = vi tar oss dit; à vélo = med cykel. y måste med — ”on va à vélo” tappar ”dit”."
+        },
+        {
+          "typ": "val",
+          "fraga": "Kör, du klarar det! — Vilken uppmaning är rätt?",
+          "alternativ": [
+            "Va-y, tu peux le faire !",
+            "Vas-y, tu peux le faire !",
+            "Vas-en, tu peux le faire !"
+          ],
+          "svar": "Vas-y, tu peux le faire !",
+          "forklaring": "va + y → vas-y: s:et kommer tillbaka före y för uttalets skull [vaz-i].",
+          "rang": 1571
+        },
+        {
+          "typ": "lucka",
+          "mening": "Tu veux du café ? Oui, j'___ veux bien.",
+          "meningSv": "Vill du ha kaffe? Ja, gärna (av det).",
+          "svar": [
+            "en"
+          ],
+          "forklaring": "du café = de + mängd → en: j'en veux bien = jag vill gärna ha (av det)."
+        }
+      ]
+    }
+  ]
+}

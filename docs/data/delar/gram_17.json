@@ -1,0 +1,234 @@
+{
+  "kapitel": [
+    {
+      "id": 17,
+      "titel": "Passé composé vs imparfait",
+      "teori": "<p>Franskan delar upp dåtiden i två roller. <strong>Passé composé</strong> tar <em>händelserna</em> — det som hände, klick, klart. <strong>Imparfait</strong> tar <em>bakgrunden</em> — det som var, pågick eller brukade ske.</p><p><strong>Minneskrok — kameran:</strong> imparfait är filmkameran som sveper över scenen (det regnade, folk pratade, jag var trött). Passé composé är blixtfotot: något <em>hände</em> (plötsligt skrek Kalle).</p><table class=\"enkel\"><tr><th>Imparfait (bakgrund)</th><th>Passé composé (händelse)</th></tr><tr><td>Il pleuvait…</td><td>…et soudain, Kalle a crié.</td></tr><tr><td>Je dormais…</td><td>…quand Jessica est rentrée.</td></tr><tr><td>J'étais fatigué…</td><td>…alors j'ai raté le bus.</td></tr></table><p>Samma verb kan stå i båda tempusen — det är <em>rollen i berättelsen</em> som avgör:</p><ul><li><em>Jessica était enceinte.</em> (tillstånd, bakgrund) — men <em>Jessica a été malade hier.</em> (avgränsad händelse: blev sjuk igår)</li><li><em>J'habitais ici.</em> (bodde, obestämd tid) — men <em>J'ai habité ici deux ans.</em> (avslutad period med tydlig ram)</li></ul><p><strong>Signalord</strong> hjälper dig att välja:</p><ul><li>Imparfait: <em>toujours, souvent, tous les jours, quand j'étais petit, à l'époque, pendant que</em></li><li>Passé composé: <em>soudain, tout à coup, hier, une fois, d'abord, puis, ensuite</em></li></ul><p><strong>Berättarknepet:</strong> sätt scenen i imparfait och låt handlingen gå framåt i passé composé. <em>Il faisait beau</em> (scen). <em>On a rencontré des gens super</em> (händelse). <em>C'était super !</em> (omdöme). Att värdera något i efterhand — <em>c'était délicieux, c'était super</em> — hamnar typiskt i imparfait, eftersom det beskriver hur något <em>var</em>, inte vad som <em>hände</em>. Fråga dig alltid: för den här meningen berättelsen framåt (passé composé) eller målar den bilden runtomkring (imparfait)?</p>",
+      "ovningar": [
+        {
+          "typ": "val",
+          "fraga": "Bakgrund eller händelse? ”Il ___ quand Jonas est sorti.” (Det regnade när Jonas gick ut.)",
+          "alternativ": [
+            "a plu",
+            "pleuvait"
+          ],
+          "svar": "pleuvait",
+          "forklaring": "Regnet är pågående bakgrund → imparfait. Händelsen (Jonas gick ut) står i passé composé."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1130,
+          "mening": "Jessica ___ enceinte. Maintenant, Kalle est là !",
+          "meningSv": "Jessica var gravid. Nu är Kalle här!",
+          "svar": [
+            "était"
+          ],
+          "alternativ": [
+            "a été",
+            "est",
+            "était",
+            "étais"
+          ],
+          "forklaring": "Tillstånd som utgör bakgrund → imparfait. ”a été” skulle göra graviditeten till en punkthändelse."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1238,
+          "mening": "J'ai ___ le bus !",
+          "meningSv": "Jag missade bussen!",
+          "svar": [
+            "raté"
+          ],
+          "alternativ": [
+            "ratais",
+            "rater",
+            "raté",
+            "ratée"
+          ],
+          "forklaring": "Avslutad punkthändelse → passé composé: j'ai raté. ”ratais” (imparfait) går inte efter hjälpverbet ai."
+        },
+        {
+          "typ": "lucka",
+          "rang": 555,
+          "mening": "Quand j'étais petit, j'___ ici.",
+          "meningSv": "När jag var liten bodde jag här.",
+          "svar": [
+            "habitais"
+          ],
+          "alternativ": [
+            "ai habité",
+            "habite",
+            "habitait",
+            "habitais"
+          ],
+          "forklaring": "Vana/bakgrund i dåtid (quand j'étais petit) → imparfait, inte passé composé."
+        },
+        {
+          "typ": "lucka",
+          "rang": 955,
+          "mening": "Mince, j'ai ___ !",
+          "meningSv": "Attans, jag glömde!",
+          "svar": [
+            "oublié"
+          ],
+          "alternativ": [
+            "oubliais",
+            "oublier",
+            "oublie",
+            "oublié"
+          ],
+          "forklaring": "Något som just hänt, klick! → passé composé: j'ai oublié = jag glömde."
+        },
+        {
+          "typ": "lucka",
+          "rang": 329,
+          "mening": "On a ___ des gens super.",
+          "meningSv": "Vi träffade jättetrevligt folk.",
+          "svar": [
+            "rencontré"
+          ],
+          "alternativ": [
+            "rencontrait",
+            "rencontré",
+            "rencontrer",
+            "rencontrés"
+          ],
+          "forklaring": "En avgränsad händelse som för berättelsen framåt → passé composé med avoir: on a rencontré."
+        },
+        {
+          "typ": "lucka",
+          "rang": 403,
+          "mening": "Il y a deux ans, on ___ deux. Maintenant, trois !",
+          "meningSv": "För två år sedan var vi två. Nu tre!",
+          "svar": [
+            "était"
+          ],
+          "alternativ": [
+            "a été",
+            "est",
+            "étaient",
+            "était"
+          ],
+          "forklaring": "Hur läget var för två år sedan = bakgrundstillstånd → imparfait: on était deux."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1399,
+          "mening": "J'ai ___ un ami en ville.",
+          "meningSv": "Jag stötte på en vän i stan.",
+          "svar": [
+            "croisé"
+          ],
+          "alternativ": [
+            "croisais",
+            "croiser",
+            "croisée",
+            "croisé"
+          ],
+          "forklaring": "Ett plötsligt möte, en gång → passé composé: j'ai croisé = jag stötte på."
+        },
+        {
+          "typ": "lucka",
+          "rang": 743,
+          "mening": "Tu as ___ ?",
+          "meningSv": "Har du märkt det?",
+          "svar": [
+            "remarqué"
+          ],
+          "alternativ": [
+            "remarquais",
+            "remarquer",
+            "remarque",
+            "remarqué"
+          ],
+          "forklaring": "Har du märkt (det)? Resultat av en händelse → passé composé: tu as remarqué."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1821,
+          "mening": "La nuit a ___ une éternité.",
+          "meningSv": "Natten varade en evighet.",
+          "svar": [
+            "duré"
+          ],
+          "alternativ": [
+            "durée",
+            "duré",
+            "durait",
+            "durer"
+          ],
+          "forklaring": "Perioden är avslutad och avgränsad (en hel natt) → passé composé. Med avoir böjs inte participet: duré."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1351,
+          "mening": "J'ai ___ la tétine ! Victoire !",
+          "meningSv": "Jag hittade nappen! Seger!",
+          "svar": [
+            "retrouvé"
+          ],
+          "alternativ": [
+            "retrouvais",
+            "retrouver",
+            "retrouve",
+            "retrouvé"
+          ],
+          "forklaring": "Punkthändelse med resultat (nappen är hittad!) → passé composé: j'ai retrouvé."
+        },
+        {
+          "typ": "ordfoljd",
+          "ord": [
+            "J'ai",
+            "perdu",
+            "mon",
+            "téléphone !"
+          ],
+          "meningSv": "Jag har tappat min telefon!",
+          "forklaring": "Passé composé: subjekt+avoir (j'ai) + particip (perdu). En händelse, inte bakgrund.",
+          "rang": 245
+        },
+        {
+          "typ": "oversatt",
+          "rang": 206,
+          "meningSv": "Det var toppen igår!",
+          "svar": [
+            "C'était super, hier !",
+            "C'était super hier !"
+          ],
+          "forklaring": "Omdöme i efterhand → imparfait: c'était. Trots signalordet hier — värdering beskriver hur det var."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken mening betyder ”Jag höll på att sova när Kalle skrek till”?",
+          "alternativ": [
+            "J'ai dormi quand Kalle criait.",
+            "Je dormais quand Kalle a crié."
+          ],
+          "svar": "Je dormais quand Kalle a crié.",
+          "forklaring": "Sömnen pågår (imparfait), skriket avbryter (passé composé). Alternativ två säger tvärtom."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket signalord pekar mot imparfait?",
+          "alternativ": [
+            "soudain",
+            "tous les jours",
+            "une fois",
+            "hier soir à 20 h"
+          ],
+          "svar": "tous les jours",
+          "forklaring": "Upprepning/vana (varje dag) → imparfait. soudain, une fois och en exakt tidpunkt pekar mot passé composé."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 1418,
+          "meningSv": "Vi har passerat tusen ord!",
+          "svar": [
+            "On a dépassé les mille mots !"
+          ],
+          "forklaring": "Ett uppnått resultat → passé composé: on a dépassé = vi har passerat."
+        }
+      ]
+    }
+  ]
+}

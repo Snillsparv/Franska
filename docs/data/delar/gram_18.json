@@ -1,0 +1,239 @@
+{
+  "kapitel": [
+    {
+      "id": 18,
+      "titel": "Objektspronomen: le/la/les, lui/leur",
+      "teori": "<p>Objektspronomen låter dig slippa upprepa dig: <em>Tu vois le film ? — Oui, je <strong>le</strong> vois !</em> På svenska säger vi ”jag ser <em>den</em>” — franskan säger ”jag <em>den</em> ser”. <strong>Pronomenet står före verbet.</strong></p><p><strong>Direkta objektspronomen</strong> (ser/älskar/tar <em>vem eller vad</em>):</p><table class=\"enkel\"><tr><th>pronomen</th><th>betyder</th><th>exempel</th></tr><tr><td>le (l')</td><td>honom/den/det</td><td>Je le sais ! — Jag vet det!</td></tr><tr><td>la (l')</td><td>henne/den</td><td>Je la vois. — Jag ser henne.</td></tr><tr><td>les</td><td>dem</td><td>Je les prends. — Jag tar dem.</td></tr></table><p><strong>Indirekta objektspronomen</strong> — för verb som tar <em>à</em> framför personen (téléphoner à, donner à, parler à, écrire à):</p><table class=\"enkel\"><tr><th>pronomen</th><th>betyder</th><th>exempel</th></tr><tr><td>lui</td><td>till honom ELLER henne</td><td>Il lui téléphone. — Han ringer henne.</td></tr><tr><td>leur</td><td>till dem</td><td>Il leur écrit. — Han skriver till dem.</td></tr></table><p><strong>Varningskrok:</strong> <em>lui</em> är samma ord för båda könen, och pronomenet <em>leur</em> får aldrig -s.</p><p><strong>Placeringen</strong> är alltid strax före det verb som pronomenet hör till:</p><ul><li>Med negation: <em>ne</em> + pronomen + verb + <em>pas</em> — <em>Je ne le vois pas.</em></li><li>Med infinitiv: före infinitiven — <em>Tu peux le faire !</em></li><li>I passé composé: före hjälpverbet — <em>Il m'a posé un lapin !</em></li></ul><p>Samma platsregler gäller me/te/nous/vous: <em>Tu me manques !</em> (ordagrant ”du fattas mig” — omvänt mot svenskan!). Före vokal förkortas me, te, le och la: <em>Vous pouvez m'aider ? Je t'invite !</em> Öva in mönstret som en ramsa: subjekt — pronomen — verb. Då sitter ordföljden även när meningarna blir längre.</p>",
+      "ovningar": [
+        {
+          "typ": "val",
+          "fraga": "Vilket pronomen ersätter ”la pomme” i ”Je mange la pomme”?",
+          "alternativ": [
+            "le",
+            "la",
+            "lui",
+            "les"
+          ],
+          "svar": "la",
+          "forklaring": "Direkt objekt i femininum → la: Je la mange. lui används bara som indirekt objekt (à + person)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 302,
+          "mening": "Je ___ sais !",
+          "meningSv": "Jag vet (det)!",
+          "svar": [
+            "le"
+          ],
+          "alternativ": [
+            "la",
+            "lui",
+            "le",
+            "les"
+          ],
+          "forklaring": "”det” = direkt objekt, neutralt/maskulint → le, och det står före verbet: je le sais."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1233,
+          "mening": "Le drone vole. Personne ne ___ vole.",
+          "meningSv": "Drönaren flyger. Ingen stjäl den.",
+          "svar": [
+            "le"
+          ],
+          "alternativ": [
+            "la",
+            "le",
+            "lui",
+            "les"
+          ],
+          "forklaring": "le drone är maskulint → le. Med negation: ne + pronomen + verb: personne ne le vole."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1571,
+          "mening": "Vas-y, tu peux ___ faire !",
+          "meningSv": "Kör, du klarar det!",
+          "svar": [
+            "le"
+          ],
+          "alternativ": [
+            "la",
+            "lui",
+            "y",
+            "le"
+          ],
+          "forklaring": "Pronomenet står före infinitiven det hör till: tu peux le faire = du klarar det."
+        },
+        {
+          "typ": "lucka",
+          "rang": 524,
+          "mening": "Je te ___ rends demain !",
+          "meningSv": "Jag lämnar tillbaka den imorgon!",
+          "svar": [
+            "le"
+          ],
+          "alternativ": [
+            "le",
+            "la",
+            "les",
+            "lui"
+          ],
+          "forklaring": "le = ”den” (direkt objekt). Ordningen är fast: te före le — je te le rends."
+        },
+        {
+          "typ": "lucka",
+          "rang": 29,
+          "mening": "Vous ___ comprenez ?",
+          "meningSv": "Förstår ni mig?",
+          "svar": [
+            "me"
+          ],
+          "alternativ": [
+            "moi",
+            "me",
+            "je",
+            "m'"
+          ],
+          "forklaring": "me = mig, direkt objekt före verbet: vous me comprenez. moi används bara betonat/efter preposition."
+        },
+        {
+          "typ": "lucka",
+          "rang": 334,
+          "mening": "Tu ___ manques !",
+          "meningSv": "Jag saknar dig!",
+          "svar": [
+            "me"
+          ],
+          "alternativ": [
+            "te",
+            "moi",
+            "me",
+            "toi"
+          ],
+          "forklaring": "manquer är omvänt mot svenskan: tu me manques = du fattas mig = jag saknar dig."
+        },
+        {
+          "typ": "lucka",
+          "rang": 221,
+          "mening": "Kalle ___ donne la main.",
+          "meningSv": "Kalle håller mig i handen.",
+          "svar": [
+            "me"
+          ],
+          "alternativ": [
+            "moi",
+            "me",
+            "lui",
+            "le"
+          ],
+          "forklaring": "donner la main à quelqu'un → indirekt objekt. à moi → me, före verbet: Kalle me donne la main."
+        },
+        {
+          "typ": "val",
+          "fraga": "Jonas ringer till Jessica: ”Il ___ téléphone.”",
+          "alternativ": [
+            "la",
+            "lui",
+            "le",
+            "leur"
+          ],
+          "svar": "lui",
+          "forklaring": "téléphoner à quelqu'un → indirekt objekt → lui. lui gäller båda könen — även ”till henne”."
+        },
+        {
+          "typ": "val",
+          "fraga": "Jonas skriver till sina föräldrar: ”Il ___ écrit.”",
+          "alternativ": [
+            "les",
+            "leur",
+            "lui",
+            "leurs"
+          ],
+          "svar": "leur",
+          "forklaring": "écrire à + flera personer → leur (till dem). Pronomenet leur får aldrig -s; les är direkt objekt."
+        },
+        {
+          "typ": "val",
+          "fraga": "Var hamnar pronomenet i negation? ”Jag ser den inte.”",
+          "alternativ": [
+            "Je le ne vois pas.",
+            "Je ne le vois pas.",
+            "Je ne vois pas le."
+          ],
+          "svar": "Je ne le vois pas.",
+          "forklaring": "ne + pronomen + verb + pas. Pronomenet klistrar sig alltid direkt före verbet."
+        },
+        {
+          "typ": "lucka",
+          "rang": 973,
+          "mening": "Il ___ posé un lapin !",
+          "meningSv": "Han dök aldrig upp!",
+          "svar": [
+            "m'a"
+          ],
+          "alternativ": [
+            "me a",
+            "m'a",
+            "m'ai",
+            "m'est"
+          ],
+          "forklaring": "I passé composé står pronomenet före hjälpverbet: me + a → m'a (elision före vokal)."
+        },
+        {
+          "typ": "ordfoljd",
+          "ord": [
+            "Je",
+            "ne",
+            "le",
+            "sais",
+            "pas."
+          ],
+          "meningSv": "Jag vet det inte.",
+          "forklaring": "ne + le + verb + pas: pronomenet står inne i negationen, direkt före verbet."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 1234,
+          "meningSv": "Du räddar mig!",
+          "svar": [
+            "Tu me sauves !"
+          ],
+          "forklaring": "me = mig, före verbet: tu me sauves = du räddar mig."
+        },
+        {
+          "typ": "lucka",
+          "rang": 199,
+          "mening": "Vous pouvez ___ ?",
+          "meningSv": "Kan ni hjälpa mig?",
+          "svar": [
+            "m'aider"
+          ],
+          "alternativ": [
+            "me aider",
+            "aider-moi",
+            "m'aidez",
+            "m'aider"
+          ],
+          "forklaring": "me + vokal → m'. Pronomenet står före infinitiven: vous pouvez m'aider."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1111,
+          "mening": "Les moustiques ___.",
+          "meningSv": "Myggorna älskar mig.",
+          "svar": [
+            "m'adorent"
+          ],
+          "alternativ": [
+            "me adorent",
+            "adorent-moi",
+            "m'adore",
+            "m'adorent"
+          ],
+          "forklaring": "me + vokal → m', och ils/elles-formen slutar på -ent: les moustiques m'adorent."
+        }
+      ]
+    }
+  ]
+}
