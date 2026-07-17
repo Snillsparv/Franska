@@ -1,0 +1,132 @@
+{
+  "kapitel": [
+    {
+      "id": 12,
+      "titel": "Passé composé med être",
+      "teori": "<p>En liten men mycket vanlig grupp verb bildar passé composé med <strong>être</strong> i stället för avoir: <em>Kalle <strong>est</strong> né en Suède</em> — Kalle föddes i Sverige.</p><p>Det är verb för <strong>förflyttning och förändring</strong>. De viktigaste (ett urval ur den klassiska minnesramsan DR MRS VANDERTRAMP):</p><ul><li><strong>aller</strong> → allé (åka), <strong>venir</strong> → venu (komma)</li><li><strong>arriver</strong> → arrivé (anlända), <strong>partir</strong> → parti (åka iväg)</li><li><strong>entrer</strong> → entré (gå in), <strong>sortir</strong> → sorti (gå ut)</li><li><strong>monter</strong> → monté (gå upp), <strong>descendre</strong> → descendu (gå ner)</li><li><strong>rester</strong> → resté (stanna), <strong>rentrer</strong> → rentré (åka hem), <strong>retourner</strong> → retourné (återvända), <strong>tomber</strong> → tombé (ramla)</li><li><strong>naître</strong> → né (födas), <strong>mourir</strong> → mort (dö), <strong>devenir</strong> → devenu (bli)</li></ul><p><strong>Minneskrok:</strong> tänk ett hus — man föds, kommer in, går upp, ramlar, går ut, dör. Allt som är en resa in i, ut ur eller genom livet/huset tar être.</p><p>Med être <strong>böjs participen efter subjektet</strong>, precis som ett adjektiv: -e för femininum, -s för plural.</p><table class=\"enkel\"><tr><th>subjekt</th><th>aller i passé composé</th></tr><tr><td>je (man)</td><td>je suis allé</td></tr><tr><td>je (kvinna)</td><td>je suis allée</td></tr><tr><td>il</td><td>il est allé</td></tr><tr><td>elle</td><td>elle est allée</td></tr><tr><td>nous</td><td>nous sommes allés</td></tr><tr><td>elles</td><td>elles sont allées</td></tr></table><p>Alltså: <em>Jessica est restée</em>, men <em>Jonas est resté</em>. Ändelserna hörs oftast inte — men de måste skrivas.</p><p><strong>Varning:</strong> listan är kort! Nästan allt annat tar avoir: <em>Elle <strong>a</strong> accouché</em> (hon födde barn), <em>On <strong>a</strong> rigolé</em>. Reflexiva verb tar också être — det är nästa kapitel.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 369,
+          "mening": "Kalle ___ né au printemps !",
+          "meningSv": "Kalle föddes i våras!",
+          "svar": ["est"],
+          "alternativ": ["est", "a", "es", "sont"],
+          "forklaring": "naître är ett être-verb. Kalle = il → est. Es är tu-formen och sont är plural."
+        },
+        {
+          "typ": "lucka",
+          "rang": 682,
+          "mening": "Kalle est ___ en Suède.",
+          "meningSv": "Kalle föddes i Sverige.",
+          "svar": ["né"],
+          "alternativ": ["né", "née", "nés", "naître"],
+          "forklaring": "Participen böjs efter subjektet: Kalle är maskulinum singular → né utan extra ändelse. Née är femininum."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 737,
+          "ord": ["Kalle", "est", "tombé...", "ça", "va", "!"],
+          "meningSv": "Kalle ramlade... det är lugnt!",
+          "forklaring": "tomber tar être: Kalle est tombé. Participen står direkt efter hjälpverbet."
+        },
+        {
+          "typ": "lucka",
+          "rang": 978,
+          "mening": "Elle est ___ dans les pommes !",
+          "meningSv": "Hon svimmade!",
+          "svar": ["tombée"],
+          "alternativ": ["tombée", "tombé", "tomber", "tombées"],
+          "forklaring": "Med être böjs participen efter subjektet: elle → tombée med -e. Tombées vore flera personer."
+        },
+        {
+          "typ": "lucka",
+          "rang": 831,
+          "mening": "Mon portable est ___ !",
+          "meningSv": "Min mobil är död!",
+          "svar": ["mort"],
+          "alternativ": ["mort", "morte", "morts", "mourir"],
+          "forklaring": "mourir har participen mort. Le portable är maskulinum singular → ingen extra ändelse."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1131,
+          "mening": "Elle ___ accouché au printemps.",
+          "meningSv": "Hon födde på våren.",
+          "svar": ["a"],
+          "alternativ": ["a", "est", "es", "ont"],
+          "forklaring": "Lurigt! accoucher (föda barn) står inte på être-listan — det tar avoir. Bara naître (födas) tar être."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1377,
+          "mening": "On ___ bien rigolé hier soir.",
+          "meningSv": "Vi skrattade gott igår kväll.",
+          "svar": ["a"],
+          "alternativ": ["a", "est", "sont", "avons"],
+          "forklaring": "rigoler är ingen förflyttning eller förändring → avoir. On böjs som il/elle → a."
+        },
+        {
+          "typ": "lucka",
+          "rang": 558,
+          "mening": "Je me ___ trompé, pardon !",
+          "meningSv": "Jag tog fel, förlåt!",
+          "svar": ["suis"],
+          "alternativ": ["suis", "ai", "es", "est"],
+          "forklaring": "Alla reflexiva verb (med me/te/se) tar être: je me suis trompé. Mer om dem i nästa kapitel."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1238,
+          "mening": "___ raté le bus !",
+          "meningSv": "Jag missade bussen!",
+          "svar": ["J'ai"],
+          "alternativ": ["J'ai", "Je suis", "J'est", "Je"],
+          "forklaring": "rater tar avoir — subjektet förflyttar sig inte (det var ju det som var problemet!). J'ai raté."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket av verben tar être i passé composé?",
+          "alternativ": ["arriver", "manger", "voir", "faire"],
+          "svar": "arriver",
+          "forklaring": "arriver är ett förflyttningsverb ur être-listan: je suis arrivé. De andra tar avoir."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Jessica est ___ à la maison ce soir.",
+          "meningSv": "Jessica stannade hemma ikväll.",
+          "svar": ["restée"],
+          "alternativ": ["restée", "resté", "rester", "restés"],
+          "forklaring": "rester tar être och participen böjs: Jessica är femininum → restée med -e."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Nous ___ arrivés à Paris.",
+          "meningSv": "Vi har kommit fram till Paris.",
+          "svar": ["sommes"],
+          "alternativ": ["sommes", "avons", "sont", "êtes"],
+          "forklaring": "arriver tar être: nous sommes. Participen får -s eftersom nous är plural: arrivés."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken mening är rätt?",
+          "alternativ": ["Ils sont partis ce matin.", "Ils ont parti ce matin.", "Ils sont parti ce matin."],
+          "svar": "Ils sont partis ce matin.",
+          "forklaring": "partir tar être, och participen böjs efter ils → partis med plural-s."
+        },
+        {
+          "typ": "ordfoljd",
+          "ord": ["Jessica", "est", "sortie", "avec", "Kalle."],
+          "meningSv": "Jessica gick ut med Kalle.",
+          "forklaring": "sortir tar être. Jessica är femininum → sortie med -e."
+        },
+        {
+          "typ": "oversatt",
+          "meningSv": "Jag åkte till Paris.",
+          "svar": ["Je suis allé à Paris.", "Je suis allée à Paris."],
+          "forklaring": "aller tar être: je suis allé (man) eller allée (kvinna). Aldrig j'ai allé!"
+        }
+      ]
+    }
+  ]
+}

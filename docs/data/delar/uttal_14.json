@@ -1,0 +1,64 @@
+{
+  "lektioner": [
+    {
+      "id": 14,
+      "titel": "Elision (l', j', d', qu')",
+      "teori": "<p>Franskan avskyr när två vokaler krockar mellan små ord. Lösningen heter <strong>elision</strong>: slutvokalen i vissa småord <em>faller bort</em> före ett ord som börjar på vokal eller stumt h, och i skriften sätts en apostrof som gravsten: je ai → <strong>j'ai</strong>, le homme → <strong>l'homme</strong>.</p><p>Bara en liten klubb av ord får elideras:</p><ul><li><strong>le, la → l'</strong>: l'homme, l'école, l'hôtel</li><li><strong>je → j'</strong>: j'ai, j'aime, j'habite</li><li><strong>de → d'</strong>: pas d'argent, d'accord</li><li><strong>que → qu'</strong>: qu'est-ce que, plus qu'hier</li><li><strong>ne → n'</strong>: je n'ai pas</li><li><strong>ce → c'</strong>: c'est — franskans vanligaste ordpar</li><li><strong>me, te, se → m', t', s'</strong>: il s'appelle, tu m'entends</li><li><strong>si → s'</strong> — men bara före il/ils: s'il vous plaît. Före elle händer ingenting: si elle.</li></ul><p>Viktigt: elision är <strong>obligatorisk</strong>, inte en stilfråga. Att säga je aime i stället för j'aime låter lika fel som svenskans en äpple. Och samma vägbom som stoppade liaisonen gäller här: före <strong>h aspiré</strong> ingen elision — le héros, le haricot (men l'homme, l'heure med stumt h).</p><p>Apostrofen i skrift är alltså alltid ett minne av en försvunnen vokal. Ibland har den fossilerats: <em>aujourd'hui</em> (idag) är egentligen au jour de hui — en hel liten mening som stelnat till ett ord.</p><p>En lustig detalj: <strong>tu</strong> elideras aldrig i skrift — det heter si tu as, aldrig s'tu as. Men i snabbt vardagstal sväljs vokalen ändå: tu as → t'as. Det är talspråkets egen vilda elision, och den får ett eget kapitel i lektion 19.</p>",
+      "exempel": [
+        { "rang": 1, "fokus": "l'homme, l'école — le och la tappar vokalen före vokal och stumt h" },
+        { "rang": 10, "fokus": "j'ai, j'aime — je blir j'" },
+        { "rang": 2, "fokus": "d'accord, pas d'argent — de blir d'" },
+        { "rang": 12, "fokus": "qu'est-ce que [käskö] — que blir qu'" },
+        { "rang": 15, "fokus": "c'est — franskans vanligaste elision" },
+        { "rang": 13, "fokus": "il s'appelle — se blir s'" },
+        { "rang": 49, "fokus": "s'il vous plaît — si elideras bara före il/ils" },
+        { "rang": 85, "fokus": "aujourd'hui — fossil elision: au jour de hui" }
+      ],
+      "chip": { "monster": "'", "etikett": "elision" },
+      "sjalvtest": [
+        {
+          "fraga": "Varför skriver man j'ai och inte je ai?",
+          "alternativ": ["Slutvokalen faller före vokal — elision", "Det är en sms-förkortning", "j kräver alltid apostrof"],
+          "ratt": "Slutvokalen faller före vokal — elision",
+          "forklaring": "Je tappar sitt e före vokalljud, och apostrofen markerar den försvunna vokalen: j'ai, j'aime, j'habite."
+        },
+        {
+          "fraga": "Vilket är rätt?",
+          "alternativ": ["l'école", "la école", "le école"],
+          "ratt": "l'école",
+          "forklaring": "École börjar på vokal, alltså elideras artikeln: l'école. Elisionen är obligatorisk — la école är helt enkelt fel."
+        },
+        {
+          "fraga": "si + il blir …",
+          "alternativ": ["s'il", "si il", "s'i"],
+          "ratt": "s'il",
+          "forklaring": "Si elideras bara före il och ils: s'il vous plaît, s'ils veulent. Före elle händer inget: si elle."
+        },
+        {
+          "fraga": "Vad händer före h aspiré, som i héros?",
+          "alternativ": ["Ingen elision: le héros", "Elision: l'héros"],
+          "ratt": "Ingen elision: le héros",
+          "forklaring": "H muet släpper fram elisionen (l'homme, l'hôtel), men h aspiré blockerar den (le héros, le haricot) — samma vägbom som stoppar liaison."
+        },
+        {
+          "ljudText": "j'aime",
+          "alternativ": ["j'aime", "j'ai"],
+          "ratt": "j'aime",
+          "forklaring": "J'aime har ett tydligt [m] på slutet. J'ai slutar öppet på vokal — inget m att höra."
+        },
+        {
+          "ljudText": "qu'est-ce que c'est",
+          "alternativ": ["qu'est-ce que c'est", "est-ce que c'est"],
+          "ratt": "qu'est-ce que c'est",
+          "forklaring": "Frasen börjar [käskö] — que + est har smält ihop till qu'est [kä]. Est-ce que börjar i stället direkt på [ä]."
+        },
+        {
+          "fraga": "Vilket litet ord elideras aldrig i skrift, trots att talspråket gärna sväljer vokalen?",
+          "alternativ": ["tu", "je", "le"],
+          "ratt": "tu",
+          "forklaring": "I skrift heter det alltid si tu as. Men i snabbt tal hörs ändå t'as — talspråkets egen elision, som du möter i lektion 19."
+        }
+      ]
+    }
+  ]
+}

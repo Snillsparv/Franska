@@ -1,0 +1,32 @@
+{
+  "dag": 24,
+  "titel": "Om jag vann en miljon",
+  "svenska": "I går kväll frågade Kalle mig: ”Pappa, vad skulle du göra om du vann en miljon?” Bra fråga! Först skulle jag köpa ett litet hus i Frankrike, med en trädgård och en stor balkong. Jessica skulle vilja ha en båt — okej, vi skulle också köpa en liten båt.\n\nSedan skulle vi resa överallt i världen: Kalle skulle få se havet, bergen och kanske ett riktigt slott. Jag skulle också ge pengar till min familj och till människor som verkligen behöver dem. Skulle jag sluta jobba? Aldrig! Minnet är mitt liv — miljon eller inte.\n\nMen oss emellan: egentligen behöver jag ingen miljon. Jag har redan Jessica, Kalle och mina franska ord. Okej — en miljon, det skulle ändå vara väldigt bra.",
+  "franska": "Hier soir, Kalle m'a demandé : « Papa, qu'est-ce que tu ferais si tu gagnais un million ? » Bonne question ! D'abord, j'achèterais une petite maison en France, avec un jardin et un grand balcon. Jessica voudrait un bateau — d'accord, on achèterait aussi un petit bateau.\n\nEnsuite, on voyagerait partout dans le monde : Kalle verrait la mer, les montagnes et peut-être un vrai château. Je donnerais aussi de l'argent à ma famille et à des gens qui en ont vraiment besoin. Est-ce que j'arrêterais de travailler ? Jamais ! La mémoire, c'est ma vie — million ou pas.\n\nMais entre nous : je n'ai pas vraiment besoin d'un million. J'ai déjà Jessica, Kalle et mes mots français. Bon, d'accord — un million, ce serait quand même très bien.",
+  "lemma": {
+    "est": 4,
+    "serait": 4,
+    "a": 8,
+    "ai": 8,
+    "ont": 8,
+    "ferais": 26,
+    "demandé": 150,
+    "gagnais": 327,
+    "bonne": 56,
+    "abord": 177,
+    "achèterais": 193,
+    "achèterait": 193,
+    "petite": 89,
+    "voudrait": 47,
+    "accord": 152,
+    "voyagerait": 893,
+    "verrait": 53,
+    "peut": 36,
+    "montagnes": 355,
+    "donnerais": 80,
+    "des": 3,
+    "arrêterais": 338,
+    "mots": 155
+  },
+  "friaOrd": ["Jessica", "Kalle", "France"]
+}

@@ -1,0 +1,123 @@
+{
+  "kapitel": [
+    {
+      "id": 28,
+      "titel": "Gerundium: en + -ant",
+      "teori": "<p><strong>Gerundium</strong> (le gérondif) är franskans smidiga sätt att säga att två saker sker <em>samtidigt</em> eller att något görs <em>genom att</em> göra något annat. Receptet är enkelt: <strong>en + verbstam + -ant</strong>.</p><p><strong>Bildning:</strong> ta <em>nous</em>-formen i presens, stryk <em>-ons</em>, lägg på <em>-ant</em>:</p><table class=\"enkel\"><tr><th>verb</th><th>nous-form</th><th>gerundium</th></tr><tr><td>dormir</td><td>nous dormons</td><td>en dormant</td></tr><tr><td>manger</td><td>nous mangeons</td><td>en mangeant</td></tr><tr><td>regarder</td><td>nous regardons</td><td>en regardant</td></tr><tr><td>faire</td><td>nous faisons</td><td>en faisant</td></tr></table><p>Bara tre verb är oregelbundna: <em>être → en étant</em>, <em>avoir → en ayant</em>, <em>savoir → en sachant</em>. Notera att manger behåller sitt e (<em>mangeant</em>) för uttalets skull.</p><p><strong>Två användningar:</strong></p><ul><li><strong>Samtidighet</strong> (= medan, när): <em>La sagesse vient en dormant ?</em> — Kommer visdomen när man sover? <em>Je mange en regardant la télé.</em></li><li><strong>Sätt/medel</strong> (= genom att): <em>On apprend en écoutant.</em> — Man lär sig genom att lyssna.</li></ul><p><strong>Viktig regel:</strong> gerundiets subjekt måste vara <em>samma</em> som huvudverbets. Är subjekten olika använder du i stället <strong>pendant que</strong> + böjt verb: <em>Pendant que Kalle dort, j'apprends.</em> Framför ett substantiv används bara <strong>pendant</strong>: <em>pendant la vaisselle</em>, <em>pendant un mois</em>.</p><p><strong>Bonus:</strong> formen på <em>-ant</em> utan <em>en</em> lever också som adjektiv — <em>intéressant</em> (av intéresser), <em>glissant</em> (av glisser) — och böjs då som vanliga adjektiv: <em>une histoire intéressante</em>.</p><p><strong>Minneskrok:</strong> en + -ant = \"i farten\": <em>en dormant</em> = i sovande stund, <em>en mangeant</em> = medan man äter. Hör du \"genom att\" eller \"medan jag...\" på svenska — testa gerundium!</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 2005,
+          "mening": "La sagesse vient en ___ ?",
+          "meningSv": "Kommer visdomen när man sover?",
+          "svar": ["dormant"],
+          "alternativ": ["dormant", "dormir", "dort", "dormi"],
+          "forklaring": "Efter en krävs formen på -ant: nous dormons → dormant."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2824,
+          "mening": "On assimile mieux ___ dormant. Pratique.",
+          "meningSv": "Man tar in bättre när man sover. Praktiskt.",
+          "svar": ["en"],
+          "alternativ": ["en", "dans", "pendant", "à"],
+          "forklaring": "Gerundium byggs alltid med en + -ant. pendant tar substantiv, inte particip."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 1988,
+          "ord": ["En", "attendant,", "on", "mange."],
+          "meningSv": "Under tiden äter vi.",
+          "forklaring": "en attendant (av attendre) = under tiden/i väntan — ett stelnat gerundium."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2602,
+          "mening": "Le millefeuille : mille couches, zéro dignité en le ___.",
+          "meningSv": "Napoleonbakelsen: tusen lager, noll värdighet när man äter den.",
+          "svar": ["mangeant"],
+          "alternativ": ["mangeant", "manger", "mange", "mangé"],
+          "forklaring": "nous mangeons → mangeant: e:et behålls för att g ska uttalas mjukt. Objektpronomenet le står före participen."
+        },
+        {
+          "typ": "lucka",
+          "rang": 863,
+          "mening": "___ que Kalle dort, j'apprends.",
+          "meningSv": "Medan Kalle sover lär jag mig.",
+          "svar": ["Pendant"],
+          "alternativ": ["Pendant", "En", "Dormant", "Depuis"],
+          "forklaring": "Olika subjekt (Kalle sover, jag lär mig) → pendant que + böjt verb, inte gerundium."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2568,
+          "mening": "Le torchon vole ___ la vaisselle.",
+          "meningSv": "Kökshandduken flyger under disken.",
+          "svar": ["pendant"],
+          "alternativ": ["pendant", "en", "dans", "chez"],
+          "forklaring": "Framför ett substantiv (la vaisselle) används pendant. en + -ant kräver en verbform."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 2040,
+          "meningSv": "Akta, det är halt!",
+          "svar": ["Attention, c'est glissant !", "Attention, c'est glissant!"],
+          "forklaring": "glissant är presensparticipen av glisser (halka) använd som adjektiv."
+        },
+        {
+          "typ": "val",
+          "rang": 2436,
+          "fraga": "Vad betyder « Débutant motivé, progrès garantis. »?",
+          "alternativ": ["Motiverad nybörjare, garanterade framsteg.", "Debuterande motor, garanterad fart.", "Nybörjaren är omotiverad men gör framsteg."],
+          "svar": "Motiverad nybörjare, garanterade framsteg.",
+          "forklaring": "débutant (av débuter) är en -ant-form som blivit substantiv: nybörjare."
+        },
+        {
+          "typ": "val",
+          "rang": 1008,
+          "fraga": "« Ce livre est très intéressant. » Vilket verb kommer adjektivet från?",
+          "alternativ": ["intéresser", "insister", "intégrer"],
+          "svar": "intéresser",
+          "forklaring": "intéressant är presensparticipen av intéresser — som adjektiv böjs den: une histoire intéressante."
+        },
+        {
+          "typ": "lucka",
+          "mening": "J'apprends le français en ___ des podcasts.",
+          "meningSv": "Jag lär mig franska genom att lyssna på poddar.",
+          "svar": ["écoutant"],
+          "alternativ": ["écoutant", "écouter", "écoute", "écouté"],
+          "forklaring": "Sätt/medel: en + -ant = genom att. nous écoutons → écoutant."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Jessica téléphone en ___ le dîner.",
+          "meningSv": "Jessica pratar i telefon medan hon lagar middagen.",
+          "svar": ["préparant"],
+          "alternativ": ["préparant", "préparer", "prépare", "préparé"],
+          "forklaring": "Samtidighet med samma subjekt: en préparant = medan hon lagar."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket gerundium är rätt bildat av faire?",
+          "alternativ": ["en faisant", "en fais", "en faire", "en fait"],
+          "svar": "en faisant",
+          "forklaring": "nous faisons → stammen fais- + -ant: en faisant."
+        },
+        {
+          "typ": "oversatt",
+          "meningSv": "Jag äter medan jag tittar på tv.",
+          "svar": ["Je mange en regardant la télé.", "Je mange en regardant la télévision.", "Je mange en regardant la télé"],
+          "forklaring": "Samma subjekt gör båda sakerna → gerundium: en regardant."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Il est tombé en ___.",
+          "meningSv": "Han ramlade när han sprang.",
+          "svar": ["courant"],
+          "alternativ": ["courant", "courir", "court", "couru"],
+          "forklaring": "courir → nous courons → en courant = medan han sprang."
+        }
+      ]
+    }
+  ]
+}

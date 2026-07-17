@@ -1,0 +1,73 @@
+{
+  "lektioner": [
+    {
+      "id": 16,
+      "titel": "Siffrornas uttal",
+      "teori": "<p>Franska siffror är kameleonter: samma siffra kan låta på tre olika sätt beroende på vad som kommer efter. Lugn — systemet är helt logiskt.</p><p><strong>six och dix</strong> är paradexemplen:</p><table><tr><th>Läge</th><th>six</th><th>dix</th></tr><tr><td>Ensamt: J'en ai six !</td><td>[sis]</td><td>[dis]</td></tr><tr><td>Före konsonant: six personnes</td><td>[si]</td><td>[di]</td></tr><tr><td>Före vokal (liaison): six ans</td><td>[siz]</td><td>[diz]</td></tr></table><p>Tänk så här: ensamt = fullt ljud. Före konsonant tystnar slutljudet, precis som vanliga tysta slutkonsonanter. Före vokal väcks det till liv som [z] — hej igen, liaison!</p><p><strong>neuf</strong> uttalas [nœf], men i exakt två uttryck blir f:et ett v: <em>neuf heures</em> [nœvœʁ] och <em>neuf ans</em> [nœvɑ̃]. Klockan nio och nio år — resten av tiden är f:et ett f.</p><p><strong>Fler klassiker:</strong></p><ul><li><em>deux heures</em> [døzœʁ] och <em>trois ans</em> [tʁwazɑ̃] — x och s vaknar som [z]</li><li><em>cent</em> [sɑ̃] får t-liaison: <em>cent ans</em> [sɑ̃tɑ̃]</li><li><em>vingt</em> [vɛ̃] — men t:et hörs i liaison och i 21–29: <em>vingt-deux</em> [vɛ̃tdø]</li><li><em>huit</em> [ɥit] tappar t:et före konsonant: <em>huit jours</em> [ɥi ʒuʁ]</li><li><em>mille</em> är alltid [mil] — ille-regeln ([j]) gäller inte här, precis som i <em>ville</em></li></ul><p>Bästa sättet att nöta in det? Sifferträningen här i appen — kör den tills [siz‿ɑ̃] sitter i ryggmärgen.</p>",
+      "exempel": [
+        { "rang": 119, "fokus": "[dø] ensamt — men deux heures = [døzœʁ] med liaison-z" },
+        { "rang": 86, "fokus": "deux ans [døzɑ̃], six ans [sizɑ̃] — vokalstarten lockar fram liaison" },
+        { "rang": 122, "fokus": "h:et är stumt — därför blir neuf heures [nœvœʁ]" },
+        { "rang": 286, "fokus": "[sɑ̃] — och cent ans = [sɑ̃tɑ̃] med t-liaison" },
+        { "rang": 1306, "fokus": "[mil] — ille är INTE [j] här; ordet böjs aldrig" },
+        { "rang": 1433, "fokus": "adjektivet ny låter precis som siffran nio: [nœf]" },
+        { "rang": 241, "fokus": "[nymeʁo] — franskt u i första stavelsen" },
+        { "rang": 424, "fokus": "[kɔ̃te] — p:et är tyst, precis som i sept [sɛt]" },
+        { "rang": 1166, "fokus": "[ʃifʁ] — ch = [ʃ], som i chat" }
+      ],
+      "chip": { "monster": "^(deux|cent|mille|million|numéro|chiffre)$", "etikett": "siffror" },
+      "sjalvtest": [
+        {
+          "fraga": "Combien ? — Six ! Hur uttalas six när det står ensamt?",
+          "alternativ": ["[sis]", "[si]", "[siz]"],
+          "ratt": "[sis]",
+          "forklaring": "Ensamt får six sitt fulla ljud: [sis]. Samma sak med dix: [dis]."
+        },
+        {
+          "fraga": "Hur uttalas dix i dix personnes (före konsonant)?",
+          "alternativ": ["[di]", "[dis]", "[diz]"],
+          "ratt": "[di]",
+          "forklaring": "Före konsonant tystnar slutljudet: dix personnes = [di pɛʁsɔn]."
+        },
+        {
+          "fraga": "Hur uttalas six i six ans (före vokal)?",
+          "alternativ": ["[siz]", "[sis]", "[si]"],
+          "ratt": "[siz]",
+          "forklaring": "Före vokal blir slutljudet ett [z] i liaison: six ans = [sizɑ̃]."
+        },
+        {
+          "ljudText": "deux heures",
+          "fraga": "Lyssna: vilket ljud dyker upp mellan deux och heures?",
+          "alternativ": ["ett z: [døzœʁ]", "ett t: [døtœʁ]", "inget alls: [dø œʁ]"],
+          "ratt": "ett z: [døzœʁ]",
+          "forklaring": "X:et i deux vaknar som [z] före vokal — h:et i heures är stumt, så liaisonen går rakt in."
+        },
+        {
+          "fraga": "Vad händer med f:et i neuf heures (klockan nio)?",
+          "alternativ": ["det blir v: [nœvœʁ]", "det är tyst: [nœœʁ]", "det hörs som f: [nœfœʁ]"],
+          "ratt": "det blir v: [nœvœʁ]",
+          "forklaring": "Bara i neuf heures och neuf ans blir f ett v. Överallt annars: [nœf]."
+        },
+        {
+          "ljudText": "cent ans",
+          "fraga": "Lyssna på cent ans (hundra år) — vad hör du?",
+          "alternativ": ["[sɑ̃tɑ̃] — med t-liaison", "[sɑ̃ ɑ̃] — utan liaison", "[sɑ̃zɑ̃] — med z-liaison"],
+          "ratt": "[sɑ̃tɑ̃] — med t-liaison",
+          "forklaring": "T:et i cent vaknar före vokal: cent ans = [sɑ̃tɑ̃]. Liaison efter räkneord är obligatorisk."
+        },
+        {
+          "fraga": "Hur uttalas mille (tusen)?",
+          "alternativ": ["[mil]", "[mij]", "[mile]"],
+          "ratt": "[mil]",
+          "forklaring": "Mille, ville och tranquille är undantagen från ille = [j]-regeln: här är det vanligt [l]."
+        },
+        {
+          "fraga": "När hörs t:et i vingt (20)?",
+          "alternativ": ["i liaison och i 21–29 (vingt-deux)", "alltid", "aldrig"],
+          "ratt": "i liaison och i 21–29 (vingt-deux)",
+          "forklaring": "Ensamt är vingt [vɛ̃], men i vingt ans [vɛ̃tɑ̃] och i vingt-deux till vingt-neuf hörs t:et."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lektioner": [
+    {
+      "id": 7,
+      "titel": "R-ljudet",
+      "teori": "<p>Det franska r:et är språkets signaturljud: ett <strong>skorrande [ʁ]</strong> långt bak i munnen, där tungryggen närmar sig gomseglet. Tungspetsen? Den ligger stilla bakom nedre framtänderna och gör ingenting alls. Ett rullande tungspets-r som i svenskans <em>rulla</em> är det tydligaste brytningsmärket som finns — träna bort det först av allt.</p><p>Goda nyheter för Skåne: det skånska skorrande r:et ligger mycket nära. För alla andra finns tre vägar in:</p><ul><li><strong>Gurgelknepet:</strong> gurgla lite vatten och känn var det bubblar — precis där bor [ʁ]. Gör sedan samma rörelse utan vatten.</li><li><strong>G-knepet:</strong> säg [g] som i <em>gå</em>, men släpp inte helt — låt luften pysa genom springan: <em>ggg… ʁʁʁ</em>.</li><li><strong>Morrknepet:</strong> tänk tyskans <em>ach</em> eller en katt som morrar lågt, och lägg till röst.</li></ul><p>Viktigt: [ʁ] är <em>mjukt</em>. Nybörjare tar i alldeles för mycket — fransmän skorrar diskret, ibland så lätt att r:et nästan låter som en suck eller ett löst [g]. Det är därför <em>verre</em> (glas) och <em>guerre</em> (krig) kan låta förvillande lika för ett otränat öra.</p><p>Stavningen är enkel: r och rr låter exakt likadant — <em>derrière</em> och <em>arriver</em> har samma ljud som <em>rue</em>. Men i slutet av -er-verb och de flesta ord på -er är r:et tyst: <em>parler</em> [paʁle], <em>regarder</em> [ʁəgaʁde]. I korta ord hörs det tydligt: <em>pour</em> [puʁ], <em>sur</em> [syʁ] — och i undantaget <em>hiver</em> [ivɛʁ].</p>",
+      "exempel": [
+        { "rang": 77, "fokus": "[ʁjɛ̃] — mjukt skorr direkt i starten" },
+        { "rang": 229, "fokus": "[ʁy] — skorra löst, tungspetsen vilar" },
+        { "rang": 144, "fokus": "två r hörs, men slut-r:et i -er är tyst: [ʁəgaʁde]" },
+        { "rang": 58, "fokus": "[mɛʁsi] — r inne i ordet" },
+        { "rang": 21, "fokus": "slut-r hörs i korta ord: [puʁ]" },
+        { "rang": 282, "fokus": "dubbel-r = exakt samma ljud: [dɛʁjɛʁ]" },
+        { "rang": 501, "fokus": "[vɛʁ] — jämför med guerre [gɛʁ]" },
+        { "rang": 147, "fokus": "rr i mitten, tyst r i slutet: [aʁive]" }
+      ],
+      "sjalvtest": [
+        {
+          "fraga": "Var i munnen bildas det franska r:et?",
+          "alternativ": ["Långt bak, mot gomseglet — som ett mjukt gurgel", "Med tungspetsen mot tänderna", "Med läpparna"],
+          "ratt": "Långt bak, mot gomseglet — som ett mjukt gurgel",
+          "forklaring": "[ʁ] är ett bakre skorrljud. Tungspetsen ligger helt stilla — rullar den, blir det svenska på franska."
+        },
+        {
+          "rang": 77,
+          "alternativ": ["rien", "bien", "lien"],
+          "ratt": "rien",
+          "forklaring": "Ordet börjar med skorrande [ʁ]: [ʁjɛ̃] = ingenting. bien börjar med [b], lien med [l]."
+        },
+        {
+          "rang": 399,
+          "alternativ": ["rire", "lire"],
+          "ratt": "rire",
+          "forklaring": "[ʁiʁ] = att skratta, med skorr i båda ändar. lire [liʁ] = att läsa, börjar med tungspets-l."
+        },
+        {
+          "rang": 21,
+          "alternativ": ["pour", "pou"],
+          "ratt": "pour",
+          "forklaring": "R:et hörs i slutet: [puʁ] = för. pou [pu] utan r betyder lus — liten skillnad, stor effekt."
+        },
+        {
+          "rang": 501,
+          "alternativ": ["verre", "guerre"],
+          "ratt": "verre",
+          "forklaring": "[vɛʁ] = glas. Franskt [ʁ] kan låta g-aktigt, så guerre [gɛʁ] = krig är en klassisk felhörning. Lyssna på första konsonanten."
+        },
+        {
+          "fraga": "Hur uttalas r:et i slutet av parler och andra -er-verb?",
+          "alternativ": ["Inte alls — [paʁle]", "Som ett tydligt [ʁ]", "Som ett [l]"],
+          "ratt": "Inte alls — [paʁle]",
+          "forklaring": "Ändelsen -er uttalas bara [e]. Men i korta ord som pour och sur, och i hiver, hörs r:et tydligt."
+        },
+        {
+          "fraga": "Vilket svenskt r ligger närmast det franska?",
+          "alternativ": ["Det skånska skorrande r:et", "Det rullande tungspets-r:et", "Det engelska w-aktiga r:et"],
+          "ratt": "Det skånska skorrande r:et",
+          "forklaring": "Skånskans bakre r är nästan samma ljud som [ʁ] — bara lite mjukare i Frankrike. Rullande tungspets-r finns inte i franskan."
+        }
+      ]
+    }
+  ]
+}
