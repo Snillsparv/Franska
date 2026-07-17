@@ -1,0 +1,5 @@
+__pycache__/
+docs/audio/*.mp3
+scripts/tts_logg.txt
+franska_3000.apkg
+node_modules/

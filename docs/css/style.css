@@ -1,0 +1,216 @@
+/* Franska 3000 — mobil först, ljust/mörkt tema */
+:root {
+  --bg: #f4f4f0;
+  --yta: #ffffff;
+  --yta2: #eceae4;
+  --text: #1d2733;
+  --dampad: #67707c;
+  --accent: #1e3a5f;
+  --accent-ljus: #2d5a94;
+  --rod: #b0413e;
+  --gron: #2e7d4f;
+  --gul: #b8860b;
+  --kant: #d8d5cc;
+  --skugga: 0 1px 3px rgba(0,0,0,.08);
+  --radie: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14181f;
+    --yta: #1d232d;
+    --yta2: #252c38;
+    --text: #e8e6e1;
+    --dampad: #9aa3af;
+    --accent: #7da7d9;
+    --accent-ljus: #5b8ac4;
+    --rod: #d9776f;
+    --gron: #6fbf8f;
+    --gul: #d4a94a;
+    --kant: #333c4a;
+    --skugga: 0 1px 3px rgba(0,0,0,.4);
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  padding-bottom: calc(64px + env(safe-area-inset-bottom));
+}
+.topp {
+  position: sticky; top: 0; z-index: 10;
+  display: flex; align-items: baseline; justify-content: space-between;
+  padding: 10px 16px calc(10px);
+  background: var(--accent); color: #fff;
+}
+.topp-titel { color: #fff; text-decoration: none; font-weight: 700; font-size: 1.05rem; letter-spacing: .02em; }
+.topp-dag { font-size: .85rem; opacity: .85; }
+.vy { max-width: 720px; margin: 0 auto; padding: 16px; }
+.laddar { color: var(--dampad); text-align: center; margin-top: 3rem; }
+
+.botten {
+  position: fixed; bottom: 0; left: 0; right: 0; z-index: 10;
+  display: flex; justify-content: space-around;
+  background: var(--yta); border-top: 1px solid var(--kant);
+  padding: 6px 2px calc(6px + env(safe-area-inset-bottom));
+}
+.botten a {
+  display: flex; flex-direction: column; align-items: center; gap: 1px;
+  font-size: 1.15rem; text-decoration: none; color: var(--dampad);
+  padding: 2px 6px; border-radius: 8px; min-width: 40px;
+}
+.botten a span { font-size: .6rem; }
+.botten a.aktiv { color: var(--accent); font-weight: 600; }
+
+h1 { font-size: 1.35rem; margin: .3rem 0 .8rem; }
+h2 { font-size: 1.05rem; margin: 1.2rem 0 .5rem; }
+h3 { font-size: .95rem; margin: 1rem 0 .4rem; }
+p { margin: .5rem 0; }
+a { color: var(--accent-ljus); }
+
+.kort-yta, .panel {
+  background: var(--yta); border: 1px solid var(--kant);
+  border-radius: var(--radie); box-shadow: var(--skugga);
+  padding: 14px 16px; margin-bottom: 12px;
+}
+.panel.klickbar { cursor: pointer; }
+.panel.klickbar:active { background: var(--yta2); }
+
+.knapp {
+  display: inline-block; border: none; border-radius: 10px;
+  background: var(--accent); color: #fff; font-size: 1rem; font-weight: 600;
+  padding: 10px 18px; cursor: pointer; text-decoration: none; text-align: center;
+}
+.knapp:disabled { opacity: .45; cursor: default; }
+.knapp.sekundar { background: var(--yta2); color: var(--text); border: 1px solid var(--kant); }
+.knapp.liten { font-size: .85rem; padding: 6px 12px; border-radius: 8px; }
+.knapp.brett { display: block; width: 100%; }
+.knapp-rad { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0; }
+.knapp-rad .knapp { flex: 1; min-width: 0; }
+
+.chip {
+  display: inline-block; font-size: .72rem; font-weight: 600;
+  padding: 2px 8px; border-radius: 999px;
+  background: var(--yta2); color: var(--dampad); border: 1px solid var(--kant);
+  margin: 2px 4px 2px 0; text-decoration: none; vertical-align: middle;
+}
+.chip.uttal-chip { color: var(--accent-ljus); }
+.chip.tagg-GULD { color: var(--gul); }
+.chip.tagg-FALSKVAN { color: var(--rod); }
+
+.dampad { color: var(--dampad); }
+.centrerad { text-align: center; }
+.stor { font-size: 1.5rem; }
+.fransk { font-size: 1.15rem; }
+
+/* Dashboard */
+.dag-huvud { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.dag-nav { display: flex; gap: 6px; }
+.checklista { list-style: none; margin: 0; padding: 0; }
+.checklista li {
+  display: flex; align-items: center; gap: 10px;
+  padding: 11px 4px; border-bottom: 1px solid var(--kant);
+}
+.checklista li:last-child { border-bottom: none; }
+.checklista .bock {
+  width: 26px; height: 26px; border-radius: 8px; border: 2px solid var(--kant);
+  background: var(--yta); cursor: pointer; flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1rem; color: #fff; padding: 0;
+}
+.checklista .bock.klar { background: var(--gron); border-color: var(--gron); }
+.checklista a.rad { flex: 1; text-decoration: none; color: var(--text); }
+.checklista .under { font-size: .8rem; color: var(--dampad); display: block; }
+.dag-rutnat { display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; }
+.dag-rutnat button {
+  border: 1px solid var(--kant); border-radius: 8px; background: var(--yta);
+  color: var(--text); padding: 8px 0; font-size: .9rem; cursor: pointer;
+}
+.dag-rutnat button.nu { background: var(--accent); color: #fff; border-color: var(--accent); font-weight: 700; }
+.dag-rutnat button.klar { border-color: var(--gron); color: var(--gron); font-weight: 600; }
+.framsteg { height: 8px; border-radius: 4px; background: var(--yta2); overflow: hidden; margin: 8px 0; }
+.framsteg > div { height: 100%; background: var(--gron); border-radius: 4px; transition: width .3s; }
+
+/* Flashkort */
+.flash {
+  background: var(--yta); border: 1px solid var(--kant); border-radius: var(--radie);
+  box-shadow: var(--skugga); padding: 22px 18px; margin-bottom: 12px;
+  min-height: 260px; display: flex; flex-direction: column; justify-content: center;
+  text-align: center;
+}
+.flash .ordet { font-size: 1.9rem; font-weight: 700; margin: 4px 0; }
+.flash .ordet mark, .flash .meningen mark { background: none; color: var(--accent-ljus); font-weight: 700; }
+.flash .meningen { font-size: 1.1rem; margin: 10px 0 4px; }
+.flash .oversattning { font-size: 1.25rem; font-weight: 600; margin: 6px 0; }
+.flash .info { text-align: left; font-size: .9rem; border-top: 1px solid var(--kant); margin-top: 14px; padding-top: 10px; }
+.flash .info p { margin: .35rem 0; }
+.ljud-knapp {
+  border: 1px solid var(--kant); background: var(--yta2); color: var(--text);
+  border-radius: 999px; padding: 4px 12px; font-size: .95rem; cursor: pointer;
+}
+.betyg-rad { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+.betyg-rad .knapp { padding: 12px 4px; display: flex; flex-direction: column; gap: 2px; }
+.betyg-rad small { font-weight: 400; font-size: .7rem; opacity: .85; }
+.betyg-igen { background: var(--rod) !important; }
+.betyg-svart { background: var(--gul) !important; }
+.betyg-bra { background: var(--accent) !important; }
+.betyg-latt { background: var(--gron) !important; }
+.ko-rad { display: flex; justify-content: space-between; font-size: .85rem; color: var(--dampad); margin-bottom: 8px; }
+
+/* Siffror */
+.siffer-visning { font-size: 3rem; font-weight: 700; text-align: center; margin: 20px 0; min-height: 4.5rem; }
+.svar-falt {
+  width: 100%; font-size: 1.3rem; padding: 10px 14px; border-radius: 10px;
+  border: 1px solid var(--kant); background: var(--yta); color: var(--text); text-align: center;
+}
+.svar-falt:focus { outline: 2px solid var(--accent-ljus); }
+.ratt { color: var(--gron); font-weight: 700; }
+.fel { color: var(--rod); font-weight: 700; }
+.stat-rad { display: flex; gap: 12px; flex-wrap: wrap; font-size: .9rem; }
+.stat-rad .panel { flex: 1; text-align: center; margin: 0; min-width: 90px; }
+.stat-rad .varde { font-size: 1.4rem; font-weight: 700; display: block; }
+
+/* Val-knappar (flerval) */
+.val-lista { display: flex; flex-direction: column; gap: 8px; margin: 12px 0; }
+.val-lista button {
+  border: 1px solid var(--kant); border-radius: 10px; background: var(--yta);
+  color: var(--text); font-size: 1.05rem; padding: 12px; cursor: pointer; text-align: left;
+}
+.val-lista button.vald-ratt { border-color: var(--gron); background: color-mix(in srgb, var(--gron) 12%, var(--yta)); }
+.val-lista button.vald-fel { border-color: var(--rod); background: color-mix(in srgb, var(--rod) 12%, var(--yta)); }
+
+/* Monolog */
+.monolog-fr span.tok { cursor: pointer; border-bottom: 1px dotted var(--dampad); }
+.monolog-fr span.tok:active, .monolog-fr span.tok.aktivt { background: var(--yta2); border-radius: 4px; }
+.tooltip {
+  position: fixed; z-index: 30; max-width: 280px;
+  background: var(--yta); border: 1px solid var(--kant); border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0,0,0,.25); padding: 10px 12px; font-size: .85rem;
+}
+
+/* Ordföljdspussel */
+.pussel-bank, .pussel-svar { display: flex; flex-wrap: wrap; gap: 6px; min-height: 44px; margin: 8px 0; }
+.pussel-svar { border: 1px dashed var(--kant); border-radius: 10px; padding: 8px; }
+.pussel-bank button, .pussel-svar button {
+  border: 1px solid var(--kant); border-radius: 8px; background: var(--yta);
+  color: var(--text); font-size: 1rem; padding: 6px 10px; cursor: pointer;
+}
+.pussel-svar button { background: var(--yta2); }
+
+table.enkel { border-collapse: collapse; width: 100%; font-size: .9rem; }
+table.enkel td, table.enkel th { border-bottom: 1px solid var(--kant); padding: 6px 8px; text-align: left; }
+
+input[type="number"], input[type="text"], select {
+  font: inherit; color: var(--text); background: var(--yta);
+  border: 1px solid var(--kant); border-radius: 8px; padding: 6px 10px;
+}
+.inst-rad { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--kant); }
+.inst-rad:last-child { border-bottom: none; }
+
+@media (min-width: 720px) {
+  .botten a { flex-direction: row; gap: 6px; font-size: 1rem; }
+  .botten a span { font-size: .85rem; }
+}
