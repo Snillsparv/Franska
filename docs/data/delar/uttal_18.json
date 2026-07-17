@@ -1,0 +1,69 @@
+{
+  "lektioner": [
+    {
+      "id": 18,
+      "titel": "Homofoner",
+      "teori": "<p>Franskan är homofonernas förlovade land. Tysta slutbokstäver plus generösa stavningsvarianter gör att ett och samma ljud kan skrivas på tre, fyra, ibland fem sätt. Örat får ingen hjälp — sammanhanget och stavningen gör jobbet.</p><p><strong>De stora triorna:</strong></p><ul><li>[mɛʁ] = <em>mer</em> (hav), <em>mère</em> (mamma), <em>maire</em> (borgmästare). Mamman som är borgmästare vid havet — alla tre låter exakt likadant.</li><li>[vɛʁ] = <em>verre</em> (glas), <em>vert</em> (grön), <em>vers</em> (mot; versrad). Un verre de vin — inte un vert!</li><li>[fwa] = <em>fois</em> (gång), <em>foie</em> (lever), <em>foi</em> (tro). Il était une fois — det var en gång.</li><li>[kuʁ] = <em>cour</em> (gård), <em>cours</em> (lektion), <em>court</em> (kort).</li></ul><p><strong>Vardagsparen:</strong> <em>ou</em> (eller) och <em>où</em> (var) — accenten syns men hörs inte, båda är [u]. <em>voix</em> (röst) och <em>voie</em> (spår, väg) är båda [vwa]. Och <em>quand</em> (när) låter precis som <em>quant à</em> (vad gäller).</p><p>Rekordet? Ljudet [sɑ̃]: <em>cent</em> (hundra), <em>sang</em> (blod), <em>sans</em> (utan), <em>s'en</em> och <em>sent</em> (känner, luktar). Fem stavningar, ett enda ljud.</p><p>Är det ett problem? Nej. Franska barn klarar det galant, och du med — hjärnan använder sammanhanget automatiskt. Ingen häller upp <em>un vert de vin</em>, och tåget avgår från <em>la voie</em>, inte <em>la voix</em>. Men när du läser och skriver måste du välja rätt stavning, så här tränar vi öga och öra ihop. Fint ord till middagsbjudningen: sådana ordpar heter <em>homonymes</em> på franska.</p>",
+      "exempel": [
+        { "rang": 135, "fokus": "[mɛʁ] — mamma …" },
+        { "rang": 353, "fokus": "[mɛʁ] — … hav …" },
+        { "rang": 2936, "fokus": "[mɛʁ] — … och borgmästare. Exakt samma ljud!" },
+        { "rang": 501, "fokus": "[vɛʁ] — glas; bara stavningen skiljer från vert" },
+        { "rang": 363, "fokus": "[vɛʁ] — grön; verre, vers låter likadant" },
+        { "rang": 51, "fokus": "[u] — eller; accenten hörs inte" },
+        { "rang": 48, "fokus": "[u] — var; identiskt med ou" },
+        { "rang": 435, "fokus": "[vwa] — röst, x:et tyst; voie (spår) låter likadant" },
+        { "rang": 2139, "fokus": "[kuʁ] — gård = cours (lektion) = court (kort)" }
+      ],
+      "chip": { "monster": "^(mer|mère|maire|verre|vert / verte|voix|voie|ou|où|cour)$", "etikett": "homofoner" },
+      "sjalvtest": [
+        {
+          "ljudText": "Un verre de vin, s'il vous plaît.",
+          "fraga": "Du hör [vɛʁ] — vilken stavning gäller här?",
+          "alternativ": ["verre", "vert", "vers"],
+          "ratt": "verre",
+          "forklaring": "Ett glas vin — un verre de vin. Sammanhanget avgör: man häller inte upp en grön."
+        },
+        {
+          "ljudText": "C'est vert, on y va !",
+          "fraga": "Och här — vilket [vɛʁ] är det?",
+          "alternativ": ["vert", "verre", "vers"],
+          "ratt": "vert",
+          "forklaring": "Det är grönt, nu kör vi — trafikljuset är vert (grön). Samma ljud, annat ord."
+        },
+        {
+          "fraga": "mer, mère och maire — hur många olika uttal är det?",
+          "alternativ": ["ett — alla tre är [mɛʁ]", "två", "tre"],
+          "ratt": "ett — alla tre är [mɛʁ]",
+          "forklaring": "Hav, mamma och borgmästare uttalas exakt likadant. Bara stavning och sammanhang skiljer."
+        },
+        {
+          "ljudText": "Tu veux une glace ou un chocolat ?",
+          "fraga": "Vilket [u] hörde du?",
+          "alternativ": ["ou (eller)", "où (var)"],
+          "ratt": "ou (eller)",
+          "forklaring": "Glass eller choklad — ett val, alltså ou utan accent. Uttalet avslöjar ingenting."
+        },
+        {
+          "ljudText": "C'est où ?",
+          "fraga": "Och här?",
+          "alternativ": ["où (var)", "ou (eller)"],
+          "ratt": "où (var)",
+          "forklaring": "Var ligger det? — en frågesats, alltså où med accent. Accenten är bara till för ögat."
+        },
+        {
+          "fraga": "Vilket ord är INTE homofon med de andra två?",
+          "alternativ": ["mare (damm) — [maʁ]", "mer (hav) — [mɛʁ]", "maire (borgmästare) — [mɛʁ]"],
+          "ratt": "mare (damm) — [maʁ]",
+          "forklaring": "mare har ett öppet [a]: [maʁ]. mer och maire delar [mɛʁ] med mère."
+        },
+        {
+          "fraga": "Il était une ___ (det var en gång) — vilken stavning?",
+          "alternativ": ["fois", "foie", "foi"],
+          "ratt": "fois",
+          "forklaring": "Tre homofoner [fwa]: la fois (gången), le foie (levern), la foi (tron). Sagor börjar med une fois."
+        }
+      ]
+    }
+  ]
+}

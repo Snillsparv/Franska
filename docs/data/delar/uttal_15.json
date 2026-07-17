@@ -1,0 +1,63 @@
+{
+  "lektioner": [
+    {
+      "id": 15,
+      "titel": "Betoning och intonation",
+      "teori": "<p>Här kommer den enklaste uttalsregeln i hela kursen — och den svenskar bryter mot mest: <strong>betoningen ligger alltid sist</strong>. Alltid på sista stavelsen i ordet, och i en fras på frasens sista stavelse. Svenskan säger TElefon; franskan säger téléphone [telefÅNN]. Svenskan säger MUsik; franskan [myZIK].</p><p>Det betyder något befriande: du behöver <em>aldrig</em> lära dig var betoningen sitter i ett franskt ord. Den sitter på slutet. Punkt.</p><ul><li>université → [yniversiTE]</li><li>appartement → [apartöMANG]</li><li>ordinateur → [årdinaTÖR]</li></ul><p>Men det finns en twist: när ordet hamnar inne i en fras <strong>tappar det sin betoning</strong>. Bara rytmgruppens sista stavelse betonas. Le téléphone rouge betonas alltså [lö-te-le-fånn-RUZJ] — téléphone lämnar ifrån sig tronen till ruzj. Franska ord är lagspelare: bara den som står sist får glänsa. Betoningen är dessutom mjuk — en liten förlängning av stavelsen snarare än svenskans tryckstöt.</p><p><strong>Intonationen</strong> — talets melodi — gör sedan grovjobbet i samtalet:</p><table><tr><th>Mönster</th><th>Melodi</th><th>Exempel</th></tr><tr><td>Påstående</td><td>fallande på slutet</td><td>Tu viens. [söjunken ton]</td></tr><tr><td>Ja/nej-fråga</td><td>stigande på slutet</td><td>Tu viens ? [tonen lyfter]</td></tr><tr><td>Ofärdig mening</td><td>liten stigning vid varje rytmgrupp</td><td>Le matin, ... [mer kommer!]</td></tr></table><p>I talspråket är den stigande tonen ofta det <em>enda</em> som gör en fråga: samma ord, ny melodi — Tu viens ↗. Billigaste frågekonstruktionen i franskan!</p><p>Träningstips: säg orden i exemplen och överdriv slutbetoningen tills det känns fånigt. Det som känns överdrivet för en svensk låter oftast precis lagom franskt.</p>",
+      "exempel": [
+        { "rang": 232, "fokus": "[telefÅNN] — inte TElefon som på svenska" },
+        { "rang": 647, "fokus": "[yniversiTE] — fem stavelser, den sista vinner" },
+        { "rang": 776, "fokus": "[apartöMANG] — jämn takt, tryck på slutet" },
+        { "rang": 484, "fokus": "[årdinaTÖR]" },
+        { "rang": 376, "fokus": "[ängpårTANG] — lyssna på sista nasalen" },
+        { "rang": 68, "fokus": "[mängtNANG] — kort och slutbetonat" },
+        { "rang": 707, "fokus": "[atangsJÅNG] — betoningen sist även i -tion-ord" },
+        { "rang": 1023, "fokus": "[myZIK] — svenskan säger MUsik, franskan tvärtom" }
+      ],
+      "sjalvtest": [
+        {
+          "fraga": "Var ligger betoningen i franskan?",
+          "alternativ": ["På sista stavelsen i ordet eller frasen", "På första stavelsen i varje ord", "Olika för varje ord — den måste läras in"],
+          "ratt": "På sista stavelsen i ordet eller frasen",
+          "forklaring": "Alltid sist — det är hela regeln. Därför behöver franska ordböcker aldrig markera betoning."
+        },
+        {
+          "fraga": "Hur betonas téléphone?",
+          "alternativ": ["[telefÅNN]", "[TElefånn]", "[teLEfånn]"],
+          "ratt": "[telefÅNN]",
+          "forklaring": "Sista stavelsen betonas: [telefÅNN]. Svenskans TElefon är precis det mönster du ska avvänja dig från."
+        },
+        {
+          "rang": 1023,
+          "alternativ": ["musique", "musée"],
+          "ratt": "musique",
+          "forklaring": "[myZIK] med betoningen sist och tydligt [k]. Musée slutar öppet: [myZE]."
+        },
+        {
+          "fraga": "Vad händer med betoningen i le téléphone rouge?",
+          "alternativ": ["Bara frasens sista stavelse betonas: [...RUZJ]", "Varje ord behåller sin egen betoning", "Betoningen flyttar till första ordet"],
+          "ratt": "Bara frasens sista stavelse betonas: [...RUZJ]",
+          "forklaring": "Inne i en rytmgrupp tappar orden sin betoning — bara gruppens sista stavelse betonas: [lö-te-le-fånn-RUZJ]."
+        },
+        {
+          "ljudText": "Tu viens ?",
+          "alternativ": ["Tu viens ?", "Tu viens."],
+          "ratt": "Tu viens ?",
+          "forklaring": "Tonen stiger på slutet — alltså fråga. Med fallande ton blir samma ord ett påstående. I talspråk är melodin ofta enda skillnaden."
+        },
+        {
+          "fraga": "Vilken melodi har ett påstående på slutet?",
+          "alternativ": ["Fallande", "Stigande", "Helt platt"],
+          "ratt": "Fallande",
+          "forklaring": "Påståenden landar med fallande ton: Tu viens. En liten stigning mitt i meningen signalerar i stället att mer är på väg."
+        },
+        {
+          "fraga": "Hur gör du enklast en ja/nej-fråga i talspråk?",
+          "alternativ": ["Höj tonen i slutet av meningen", "Betona första ordet extra", "Byt ordföljd — det är enda sättet"],
+          "ratt": "Höj tonen i slutet av meningen",
+          "forklaring": "Samma ord, stigande melodi: Tu viens ↗ = Kommer du? Ingen omskrivning behövs — intonationen gör frågan gratis."
+        }
+      ]
+    }
+  ]
+}

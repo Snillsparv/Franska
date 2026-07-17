@@ -1,0 +1,66 @@
+{
+  "lektioner": [
+    {
+      "id": 8,
+      "titel": "gn, ill/ille, y",
+      "teori": "<p>Tre stavningar som lurar ögat — men följer snälla regler:</p><p><strong>gn = [nj]</strong>, som nj i <em>Sonja</em> eller spanskans ñ: <em>montagne</em> [mɔ̃tanj], <em>gagner</em> [ganje], <em>magnifique</em> [manjifik]. Aldrig [g] + [n] var för sig!</p><p><strong>ill och slutet -il = [j]</strong> — ett j-ljud, inget l:</p><ul><li>Efter konsonant blir -ill- till [ij]: <em>fille</em> [fij], <em>famille</em> [famij], <em>billet</em> [bijɛ].</li><li>Efter vokal blir -il/-ill bara ett [j] som hakar på vokalen: <em>travail</em> [tʁavaj], <em>oreille</em> [ɔʁɛj], <em>bouteille</em> [butɛj], <em>vieille</em> [vjɛj].</li></ul><p><strong>Undantagen</strong> måste pluggas, för de är supervanliga: <em>ville</em> [vil], <em>mille</em> [mil], <em>tranquille</em> [tʁɑ̃kil] — här hörs l:et tydligt. Även <em>million</em> [miljɔ̃] behåller sitt l. Minnesramsa: <em>i staden bor tusen lugna undantag</em>.</p><p><strong>y</strong> lever dubbelliv:</p><ul><li>Ensamt eller intill konsonant = [i]: <em>y</em> [i], <em>stylo</em> [stilo].</li><li>Mellan två vokaler jobbar det dubbelt, som <em>två</em> i på en gång: <em>payer</em> = pai + ier [pɛje], <em>voyage</em> = voi + iage [vwajaʒ], <em>essayer</em> [esɛje]. Det första i:et stänger vokalen före, det andra blir [j] in i nästa stavelse.</li></ul><p>Två specialare på slutet: <em>pays</em> uttalas [pɛi] — två stavelser, inget s. Och <em>yeux</em> (ögon) börjar rakt på [jø] — säg det med œufs [ø] (ägg) bredvid, så hör du exakt vad j-ljudet gör för jobb.</p>",
+      "exempel": [
+        { "rang": 164, "fokus": "ill efter konsonant = [ij]: [fij], inget l-ljud" },
+        { "rang": 133, "fokus": "[famij] — samma regel" },
+        { "rang": 143, "fokus": "ail = [aj]: [tʁavaje]" },
+        { "rang": 396, "fokus": "eille = [ɛj]: [ɔʁɛj]" },
+        { "rang": 355, "fokus": "gn = [nj]: [mɔ̃tanj]" },
+        { "rang": 327, "fokus": "[ganje] — aldrig [gag-ner]" },
+        { "rang": 138, "fokus": "undantag! [vil] med tydligt l" },
+        { "rang": 593, "fokus": "undantag: [tʁɑ̃kil]" },
+        { "rang": 194, "fokus": "y mellan vokaler = två i: [pɛje]" },
+        { "rang": 222, "fokus": "[jø] — y blir j-ljud direkt" }
+      ],
+      "chip": { "monster": "gn|ill|[aou]y", "etikett": "gn·ill·y" },
+      "sjalvtest": [
+        {
+          "rang": 164,
+          "alternativ": ["fille", "fil"],
+          "ratt": "fille",
+          "forklaring": "[fij] med j-ljud = flicka/dotter. fil [fil] med l-ljud = tråd."
+        },
+        {
+          "rang": 138,
+          "alternativ": ["ville", "fille"],
+          "ratt": "ville",
+          "forklaring": "ville är ett av undantagen: [vil] med tydligt l. fille följer regeln: [fij]."
+        },
+        {
+          "fraga": "Hur uttalas gn i montagne och gagner?",
+          "alternativ": ["[nj] — som nj i Sonja", "[g] och [n] var för sig", "[ng] som i svenskans ring"],
+          "ratt": "[nj] — som nj i Sonja",
+          "forklaring": "gn är alltid ett mjukt [nj]: [mɔ̃tanj], [ganje] — precis som spanskans ñ."
+        },
+        {
+          "rang": 143,
+          "alternativ": ["travailler", "travail"],
+          "ratt": "travailler",
+          "forklaring": "[tʁavaje] — verbet slutar på [e] eftersom -er hörs som [e]. Substantivet travail slutar direkt på [aj]."
+        },
+        {
+          "fraga": "Vilka tre vanliga ord bryter mot regeln ill = [j]?",
+          "alternativ": ["ville, mille, tranquille", "fille, famille, taille", "oreille, bouteille, travail"],
+          "ratt": "ville, mille, tranquille",
+          "forklaring": "I staden bor tusen lugna undantag: [vil], [mil], [tʁɑ̃kil] — med hörbart l. De andra följer j-regeln."
+        },
+        {
+          "rang": 222,
+          "alternativ": ["yeux", "œufs"],
+          "ratt": "yeux",
+          "forklaring": "[jø] med j-ljud i början = ögon. œufs (ägg) uttalas bara [ø]."
+        },
+        {
+          "fraga": "Vad gör y mellan två vokaler, som i payer och voyage?",
+          "alternativ": ["Fungerar som två i: [pɛj-je]", "Är helt tyst", "Uttalas som svenskt y"],
+          "ratt": "Fungerar som två i: [pɛj-je]",
+          "forklaring": "Ett i stänger vokalen före, ett blir [j] i nästa stavelse: payer [pɛje], voyage [vwajaʒ]."
+        }
+      ]
+    }
+  ]
+}

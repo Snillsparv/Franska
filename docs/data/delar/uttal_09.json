@@ -1,0 +1,66 @@
+{
+  "lektioner": [
+    {
+      "id": 9,
+      "titel": "c/ç, g/ge, s/ss/z",
+      "teori": "<p>Bokstäverna c, g och s är kameleonter — ljudet beror på grannbokstaven. Nyckeln är de <strong>mjuka vokalerna e, i, y</strong>.</p><p><strong>c:</strong> före e/i/y = [s] (<em>merci</em>, <em>ici</em>), annars hårt [k] (<em>café</em>, <em>combien</em>). I <em>commencer</em> hör du båda på en gång: [kɔmɑ̃se].</p><p><strong>ç:</strong> svansen (cédille) tvingar fram [s] där c annars hade varit [k]: <em>ça</em> [sa], <em>garçon</em> [gaʁsɔ̃], <em>français</em> [fʁɑ̃sɛ]. Därför står ç bara före a, o, u — före e och i vore svansen onödig.</p><p><strong>g:</strong> exakt samma logik! Före e/i/y = [ʒ], det tonande sje-ljudet i <em>garage</em>: <em>manger</em> [mɑ̃ʒe], <em>argent</em> [aʁʒɑ̃]. Annars hårt [g]: <em>gare</em> [gaʁ], <em>grand</em> [gʁɑ̃]. Och när franskan vill ha [ʒ] före a/o smyger den in ett stumt e: <em>nous mangeons</em> [mɑ̃ʒɔ̃].</p><p><strong>s-familjen</strong> — här gömmer sig giftet:</p><ul><li><strong>ss = alltid [s]</strong>: <em>poisson</em> [pwasɔ̃] = fisk.</li><li><strong>Ensamt s mellan två vokaler = [z]</strong>: <em>poison</em> [pwazɔ̃] = gift! Samma sak i <em>maison</em> [mɛzɔ̃] och <em>cousin</em> [kuzɛ̃].</li><li>s i början av ord eller intill konsonant = vanligt [s]: <em>salut</em>, <em>reste</em>.</li><li><strong>z = [z]</strong>: <em>zéro</em> [zeʁo].</li></ul><p>Obs: [z] är <em>tonande</em> — stämbanden surrar som ett bi. Svenskan saknar ljudet helt, så lägg handen på strupen och växla mellan [pwasɔ̃] och [pwazɔ̃] tills du känner skillnaden. På restaurangen är den värd att kunna: fisken är utsökt, giftet betydligt sämre recensioner.</p>",
+      "exempel": [
+        { "rang": 58, "fokus": "c före i = [s]: [mɛʁsi]" },
+        { "rang": 175, "fokus": "båda c-ljuden i ett ord: [kɔmɑ̃se]" },
+        { "rang": 41, "fokus": "ç = alltid [s]: [sa]" },
+        { "rang": 165, "fokus": "[gaʁsɔ̃] — svansen räddar s-ljudet före o" },
+        { "rang": 100, "fokus": "g före e = [ʒ]: [mɑ̃ʒe]" },
+        { "rang": 196, "fokus": "[aʁʒɑ̃] — tonande sje mitt i" },
+        { "rang": 228, "fokus": "g före a = hårt [g]: [gaʁ]" },
+        { "rang": 272, "fokus": "ss = [s]: [pwasɔ̃] — fisken!" },
+        { "rang": 137, "fokus": "ensamt s mellan vokaler = [z]: [mɛzɔ̃]" },
+        { "rang": 870, "fokus": "z = surrande [z]: [zeʁo]" }
+      ],
+      "chip": { "monster": "ç|ss", "etikett": "ç och ss" },
+      "sjalvtest": [
+        {
+          "rang": 272,
+          "alternativ": ["poisson", "poison"],
+          "ratt": "poisson",
+          "forklaring": "Skarpt [s] = dubbel-s: [pwasɔ̃] = fisk. Med ett s blir det poison [pwazɔ̃] = gift. Dubbel-s räddar liv!"
+        },
+        {
+          "rang": 2169,
+          "alternativ": ["coussin", "cousin"],
+          "ratt": "coussin",
+          "forklaring": "[kusɛ̃] med [s] = kudde. cousin [kuzɛ̃] med surrande [z] = kusin. Krama rätt."
+        },
+        {
+          "rang": 1316,
+          "alternativ": ["dessert", "désert"],
+          "ratt": "dessert",
+          "forklaring": "[desɛʁ] med [s] = efterrätt. désert [dezɛʁ] med [z] = öken — torrare än de flesta efterrätter."
+        },
+        {
+          "fraga": "Hur uttalas de två c:na i commencer?",
+          "alternativ": ["Först [k], sedan [s]", "Båda som [k]", "Båda som [s]"],
+          "ratt": "Först [k], sedan [s]",
+          "forklaring": "c före o = [k], c före e = [s]: [kɔmɑ̃se]. Grannbokstaven bestämmer."
+        },
+        {
+          "fraga": "Varför har garçon en svans (cédille) under c:et?",
+          "alternativ": ["För att c ska bli [s] före o", "Ren dekoration", "För att c ska bli [k]"],
+          "ratt": "För att c ska bli [s] före o",
+          "forklaring": "Utan svans hade det blivit [gaʁkɔ̃]. Cédillen tvingar fram [s]: [gaʁsɔ̃]."
+        },
+        {
+          "rang": 100,
+          "alternativ": ["manger", "manquer"],
+          "ratt": "manger",
+          "forklaring": "g före e = [ʒ]: [mɑ̃ʒe] = äta. manquer [mɑ̃ke] = sakna, med hårt [k]."
+        },
+        {
+          "fraga": "När uttalas ett ensamt s som [z]?",
+          "alternativ": ["Mellan två vokaler", "Alltid", "I början av ord"],
+          "ratt": "Mellan två vokaler",
+          "forklaring": "Vokal + s + vokal ger tonande [z]: maison [mɛzɔ̃], cousin [kuzɛ̃], poison [pwazɔ̃]. Vill man ha [s] där, krävs ss."
+        }
+      ]
+    }
+  ]
+}

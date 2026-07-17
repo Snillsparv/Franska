@@ -1,0 +1,175 @@
+{
+  "kapitel": [
+    {
+      "id": 29,
+      "titel": "Blandade övningar",
+      "teori": "<p>Dags att blanda korten! Här repeterar du hela grammatiken från kapitel 1–28 i en enda övningsrunda. Innan du sätter igång — skumma minneslistan:</p><ul><li><strong>Genus &amp; artiklar:</strong> le/la/les, un/une/des. Ändelser som -tion, -té → oftast la; -age, -eau → oftast le.</li><li><strong>Adjektiv:</strong> böjs efter substantivet (petit/petite) och står oftast efter — utom BAGS-orden (beauté, ålder, godhet, storlek): <em>une petite ville</em>.</li><li><strong>Possessiv:</strong> mon/ma/mes styrs av det ägda ordets genus: <em>ma famille, mon fils</em>.</li><li><strong>Negation:</strong> ne ... pas omsluter verbet; efter pas blir un/une/du → <strong>de</strong>: <em>pas d'argent</em>.</li><li><strong>Frågor:</strong> intonation, est-ce que eller inversion. Frågeord: qui, que, où.</li><li><strong>Passé composé:</strong> avoir + particip (<em>j'ai perdu</em>); rörelseverb och reflexiva tar être och böjs: <em>Kalle est tombé, elle est tombée</em>.</li><li><strong>Imparfait:</strong> bakgrund och vana i dåtid: <em>quand j'étais petit, j'habitais...</em> Passé composé = händelsen, imparfait = kulissen.</li><li><strong>Pronomen:</strong> le/la/les/lui/leur, y och en står <em>före</em> verbet: <em>Je le sais. On y va.</em></li><li><strong>Futur:</strong> nära framtid = aller + infinitiv (<em>on va nager</em>); futur simple har egna ändelser (<em>verra, sera</em>).</li><li><strong>Conditionnel:</strong> artighet och hypotes: <em>je voudrais, ce serait</em>.</li><li><strong>Jämförelse:</strong> plus/moins/aussi ... que; meilleur (adjektiv) men mieux (adverb).</li><li><strong>Mängd:</strong> beaucoup de, trop de, un peu de — alltid bara <strong>de</strong>.</li><li><strong>depuis + presens</strong> = har gjort ... i: <em>je parle français depuis deux jours</em>.</li><li><strong>Subjonctif:</strong> efter il faut que, pour que: <em>que je sois, que j'aille</em>.</li></ul><p><strong>Taktik:</strong> läs den svenska meningen först, bestäm vilken regel som prövas, svara sedan. Fel svar är gratis läxor — läs förklaringen och gå vidare. Allez-y !</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 9,
+          "mening": "Je ne suis ___ français.",
+          "meningSv": "Jag är inte fransk.",
+          "svar": ["pas"],
+          "alternativ": ["pas", "ne", "non", "plus"],
+          "forklaring": "Negationens andra halva: ne ... pas omsluter verbet suis."
+        },
+        {
+          "typ": "lucka",
+          "rang": 138,
+          "mening": "Alingsås, c'est une ___ ville.",
+          "meningSv": "Alingsås är en liten stad.",
+          "svar": ["petite"],
+          "alternativ": ["petit", "petite", "petits", "petites"],
+          "forklaring": "ville är femininum singular → petite. Storleksadjektiv (BAGS) står före substantivet."
+        },
+        {
+          "typ": "lucka",
+          "rang": 133,
+          "mening": "C'est ___ famille : Jessica et Kalle.",
+          "meningSv": "Det här är min familj: Jessica och Kalle.",
+          "svar": ["ma"],
+          "alternativ": ["ma", "mon", "mes", "sa"],
+          "forklaring": "famille är femininum → ma. mon används vid maskulinum eller framför vokal."
+        },
+        {
+          "typ": "lucka",
+          "rang": 86,
+          "mening": "Kalle n'a pas ___ un an.",
+          "meningSv": "Kalle är inte ett år än.",
+          "svar": ["encore"],
+          "alternativ": ["encore", "jamais", "rien", "toujours"],
+          "forklaring": "pas encore = inte än. Franskan har ålder med avoir: il a un an."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 196,
+          "ord": ["Je", "n'ai", "pas", "d'argent", "sur", "moi."],
+          "meningSv": "Jag har inga pengar på mig.",
+          "forklaring": "Efter pas blir de l'argent → d'argent: pas de + substantiv."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 36,
+          "ord": ["Est-ce que", "je", "peux", "avoir", "le", "menu ?"],
+          "meningSv": "Kan jag få menyn?",
+          "forklaring": "est-ce que + rak ordföljd är det enklaste frågesättet."
+        },
+        {
+          "typ": "lucka",
+          "rang": 245,
+          "mening": "J'ai ___ mon téléphone !",
+          "meningSv": "Jag har tappat min telefon!",
+          "svar": ["perdu"],
+          "alternativ": ["perdu", "perdre", "perds", "perdais"],
+          "forklaring": "Passé composé med avoir: j'ai + particip. perdre → perdu."
+        },
+        {
+          "typ": "lucka",
+          "rang": 737,
+          "mening": "Kalle est ___... ça va !",
+          "meningSv": "Kalle ramlade... det är lugnt!",
+          "svar": ["tombé"],
+          "alternativ": ["tombé", "tombée", "tomber", "tombait"],
+          "forklaring": "tomber tar être i passé composé; participen böjs efter subjektet — Kalle är maskulinum: tombé."
+        },
+        {
+          "typ": "lucka",
+          "rang": 555,
+          "mening": "Quand j'étais petit, j'___ ici.",
+          "meningSv": "När jag var liten bodde jag här.",
+          "svar": ["habitais"],
+          "alternativ": ["habitais", "habite", "ai habité", "habiterai"],
+          "forklaring": "Vana/bakgrund i dåtid → imparfait: nous habit(ons) + -ais."
+        },
+        {
+          "typ": "lucka",
+          "rang": 13,
+          "mening": "Il ___ Kalle.",
+          "meningSv": "Han heter Kalle.",
+          "svar": ["s'appelle"],
+          "alternativ": ["s'appelle", "m'appelle", "t'appelles", "appelle"],
+          "forklaring": "Reflexivt verb: il + se → il s'appelle. je m'appelle, tu t'appelles."
+        },
+        {
+          "typ": "lucka",
+          "rang": 302,
+          "mening": "Je ___ sais !",
+          "meningSv": "Jag vet (det)!",
+          "svar": ["le"],
+          "alternativ": ["le", "la", "lui", "y"],
+          "forklaring": "Objektpronomenet le (= det) står före verbet: je le sais."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 100,
+          "meningSv": "Ska vi käka?",
+          "svar": ["On va manger ?", "On va manger?"],
+          "forklaring": "Nära framtid: aller + infinitiv. Frågan görs med enbart intonation."
+        },
+        {
+          "typ": "lucka",
+          "rang": 145,
+          "mening": "J'écoute beaucoup ___ français.",
+          "meningSv": "Jag lyssnar på mycket franska.",
+          "svar": ["de"],
+          "alternativ": ["de", "du", "des", "le"],
+          "forklaring": "Efter mängdord som beaucoup används alltid bara de — aldrig du/des."
+        },
+        {
+          "typ": "lucka",
+          "rang": 2046,
+          "mening": "Kalle ___ une flaque. Kalle sautera.",
+          "meningSv": "Kalle kommer se en pöl. Kalle kommer hoppa.",
+          "svar": ["verra"],
+          "alternativ": ["verra", "voit", "voyait", "a vu"],
+          "forklaring": "Futur simple av voir är oregelbundet: verr- + -a. Jämför sautera av sauter."
+        },
+        {
+          "typ": "val",
+          "rang": 764,
+          "fraga": "« Les fraises suédoises sont les meilleures ! » Varför meilleures och inte mieux?",
+          "alternativ": ["meilleur är adjektiv och böjs efter les fraises", "mieux används bara i frågor", "meilleures är ett adverb"],
+          "svar": "meilleur är adjektiv och böjs efter les fraises",
+          "forklaring": "meilleur = bättre/bäst som adjektiv (böjs: meilleures); mieux är adverbet, som i ça va mieux."
+        },
+        {
+          "typ": "lucka",
+          "rang": 401,
+          "mening": "Le français est ___ facile que je pense !",
+          "meningSv": "Franska är lättare än jag tror!",
+          "svar": ["plus"],
+          "alternativ": ["plus", "aussi", "moins", "mieux"],
+          "forklaring": "Komparativ: plus + adjektiv + que = mer ... än."
+        },
+        {
+          "typ": "lucka",
+          "rang": 521,
+          "mening": "C'est moi ___ offre !",
+          "meningSv": "Jag bjuder!",
+          "svar": ["qui"],
+          "alternativ": ["qui", "que", "où", "quoi"],
+          "forklaring": "qui är subjekt i relativsatsen (qui offre). que används när ett objekt saknas."
+        },
+        {
+          "typ": "lucka",
+          "rang": 129,
+          "mening": "Je parle français ___ deux jours !",
+          "meningSv": "Jag har pratat franska i två dagar!",
+          "svar": ["depuis"],
+          "alternativ": ["depuis", "pendant", "il y a", "pour"],
+          "forklaring": "Pågår fortfarande → depuis + presens. pendant = avslutad period, il y a = för ... sedan."
+        },
+        {
+          "typ": "lucka",
+          "rang": 47,
+          "mening": "Je ___ un café, s'il vous plaît.",
+          "meningSv": "Jag skulle vilja ha en kaffe, tack.",
+          "svar": ["voudrais"],
+          "alternativ": ["voudrais", "veux", "voulais", "voudrai"],
+          "forklaring": "Artighets-conditionnel: je voudrais = jag skulle vilja. je veux låter krävande."
+        }
+      ]
+    }
+  ]
+}

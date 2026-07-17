@@ -1,0 +1,32 @@
+{
+  "dag": 11,
+  "titel": "I går",
+  "svenska": "I går hade jag en väldigt bra dag. På morgonen sov Kalle länge — tack, gubben! Så jag drack mitt te i tystnad, och jag memorerade hundra franska ord. Hundra ord före frukost — inte illa, va?\n\nSedan lekte jag med Kalle hela morgonen. Han hittade min plånbok och... okej, nu är den i soptunnan. Vi letade i en timme. Vid tolv lagade jag en soppa, och Kalle åt som en stor pojke.\n\nSenare regnade det, så vi lyssnade på musik hemma. På kvällen tittade Jessica och jag på en fransk film. Jag förstod hundra ord! Vilket framsteg! Sedan diskade jag, och vid midnatt sov hela familjen.",
+  "franska": "Hier, j'ai passé une très bonne journée. Le matin, Kalle a dormi longtemps — merci, mon grand ! Alors j'ai bu mon thé dans le silence, et j'ai mémorisé cent mots français. Cent mots avant le petit-déjeuner — pas mal, hein ?\n\nEnsuite, j'ai joué avec Kalle tout le matin. Il a trouvé mon portefeuille et... d'accord, maintenant il est dans la poubelle. On a cherché pendant une heure. À midi, j'ai préparé une soupe, et Kalle a mangé comme un grand garçon.\n\nPlus tard, il a plu, alors on a écouté de la musique à la maison. Le soir, Jessica et moi, on a regardé un film français. J'ai compris cent mots ! Quel progrès ! Ensuite, j'ai fait la vaisselle, et à minuit, toute la famille a dormi.",
+  "lemma": {
+    "ai": 8,
+    "a": 8,
+    "est": 4,
+    "passé": 192,
+    "bonne": 56,
+    "dormi": 189,
+    "bu": 188,
+    "mémorisé": 426,
+    "mots": 155,
+    "déjeuner": 274,
+    "joué": 191,
+    "trouvé": 99,
+    "accord": 152,
+    "cherché": 244,
+    "préparé": 518,
+    "mangé": 100,
+    "plu": 212,
+    "écouté": 145,
+    "moi": 29,
+    "regardé": 144,
+    "compris": 69,
+    "fait": 26,
+    "toute": 38
+  },
+  "friaOrd": ["Jessica", "Kalle"]
+}

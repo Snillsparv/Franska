@@ -1,0 +1,147 @@
+{
+  "kapitel": [
+    {
+      "id": 4,
+      "titel": "-er-verb i presens",
+      "teori": "<p>Nu får du nyckeln till tusentals verb på en gång. Nästan alla franska verb slutar på <strong>-er</strong> i grundform (parler, habiter, aimer …) och böjs efter exakt samma mall: ta bort -er och lägg på ändelsen.</p><table class=\"enkel\"><tr><th>Person</th><th>parler = prata</th><th>Ändelse</th></tr><tr><td>je</td><td>je parl<strong>e</strong></td><td>-e</td></tr><tr><td>tu</td><td>tu parl<strong>es</strong></td><td>-es</td></tr><tr><td>il / elle / on</td><td>il parl<strong>e</strong></td><td>-e</td></tr><tr><td>nous</td><td>nous parl<strong>ons</strong></td><td>-ons</td></tr><tr><td>vous</td><td>vous parl<strong>ez</strong></td><td>-ez</td></tr><tr><td>ils / elles</td><td>ils parl<strong>ent</strong></td><td>-ent</td></tr></table><p><strong>Örats hemlighet:</strong> bara <strong>-ons</strong> och <strong>-ez</strong> hörs! <em>parle, parles, parlent</em> uttalas exakt likadant [parl]. Fyra av sex former låter alltså identiskt — i talet är det pronomenet som gör jobbet. Krok: <em>-ent är tyst som en mus</em>.</p><p><strong>Elision:</strong> börjar verbet på vokal eller stumt h blir je → j': <em>j'aime, j'habite, j'écoute</em>.</p><p><strong>Små stavningsjusteringar</strong> (för att uttalet ska bevaras):</p><ul><li><em>manger</em> → nous mang<strong>e</strong>ons (extra e håller g-ljudet mjukt); <em>commencer</em> → nous commen<strong>ç</strong>ons</li><li><em>acheter</em> → j'ach<strong>è</strong>te, <em>préférer</em> → je préf<strong>è</strong>re (è i de former där ändelsen är tyst)</li><li><em>appeler</em> → j'appe<strong>ll</strong>e (dubbelt l), <em>essayer</em> → j'essa<strong>i</strong>e</li></ul><p>Justeringarna gäller je/tu/il/ils-formerna — nous och vous behåller grundformens stam: <em>nous achetons, vous préférez</em>.</p><p><strong>Minnesteknik:</strong> lär dig ett mönsterverb utantill (parler) och häng alla nya verb på samma krok: kan du <em>je parle</em>, kan du automatiskt <em>je travaille, j'habite, je joue</em> … Ett verb — tusen verb på köpet.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 61,
+          "mening": "Je ___ un peu français.",
+          "meningSv": "Jag pratar lite franska.",
+          "svar": ["parle"],
+          "alternativ": ["parle", "parles", "parlez", "parlent"],
+          "forklaring": "je → -e: je parle. parles är tu-formen, parlez hör till vous."
+        },
+        {
+          "typ": "lucka",
+          "rang": 142,
+          "mening": "___ à Alingsås, en Suède.",
+          "meningSv": "Jag bor i Alingsås, i Sverige.",
+          "svar": ["J'habite"],
+          "alternativ": ["J'habite", "Je habite", "J'habites", "J'habitez"],
+          "forklaring": "habiter börjar på stumt h → je dras ihop: j'habite. je-formen slutar på -e utan s."
+        },
+        {
+          "typ": "lucka",
+          "rang": 143,
+          "mening": "Je ___ avec la mémoire.",
+          "meningSv": "Jag jobbar med minnet.",
+          "svar": ["travaille"],
+          "alternativ": ["travaille", "travailles", "travaillons", "travaillent"],
+          "forklaring": "je → travaille (-e). Formerna på -es och -ent låter likadant men stavas fel här."
+        },
+        {
+          "typ": "lucka",
+          "rang": 145,
+          "mening": "J'___ beaucoup de français.",
+          "meningSv": "Jag lyssnar på mycket franska.",
+          "svar": ["écoute"],
+          "alternativ": ["écoute", "écoutes", "écoutez", "écoutent"],
+          "forklaring": "j' + écoute (je-formen -e). écouter börjar på vokal, därför j'."
+        },
+        {
+          "typ": "lucka",
+          "rang": 191,
+          "mening": "Je ___ avec Kalle.",
+          "meningSv": "Jag leker med Kalle.",
+          "svar": ["joue"],
+          "alternativ": ["joue", "joues", "jouons", "jouent"],
+          "forklaring": "je → joue. jouer böjs precis som parler — samma mall för alla -er-verb."
+        },
+        {
+          "typ": "lucka",
+          "rang": 149,
+          "mening": "On ___ ici ce soir.",
+          "meningSv": "Vi stannar här ikväll.",
+          "svar": ["reste"],
+          "alternativ": ["reste", "restons", "restes", "restent"],
+          "forklaring": "on böjs som il/elle → -e: on reste. Vanlig fälla: on betyder \"vi\" men tar singularform."
+        },
+        {
+          "typ": "lucka",
+          "rang": 439,
+          "mening": "Je ___ pour Kalle le soir.",
+          "meningSv": "Jag sjunger för Kalle på kvällen.",
+          "svar": ["chante"],
+          "alternativ": ["chante", "chantes", "chantez", "chantent"],
+          "forklaring": "je → chante. Kom ihåg: chante, chantes och chantent uttalas exakt likadant."
+        },
+        {
+          "typ": "lucka",
+          "rang": 349,
+          "mening": "Tu ___ quel animal ?",
+          "meningSv": "Vilket djur gillar du bäst?",
+          "svar": ["préfères"],
+          "alternativ": ["préfères", "préfère", "préférez", "préfèrent"],
+          "forklaring": "tu → -es: tu préfères. Notera è i stammen när ändelsen är tyst (préférer → préfères)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 193,
+          "mening": "J'___ une baguette pour ce soir.",
+          "meningSv": "Jag köper en baguette till ikväll.",
+          "svar": ["achète"],
+          "alternativ": ["achète", "achete", "achètes", "achetez"],
+          "forklaring": "acheter får è i je-formen: j'achète. Utan accent (achete) är det felstavat."
+        },
+        {
+          "typ": "lucka",
+          "rang": 233,
+          "mening": "Je t'___ demain.",
+          "meningSv": "Jag ringer dig imorgon.",
+          "svar": ["appelle"],
+          "alternativ": ["appelle", "appele", "appelles", "appelez"],
+          "forklaring": "appeler dubblar l:et i je-formen: j'appelle. Ett l (appele) är fel."
+        },
+        {
+          "typ": "lucka",
+          "rang": 336,
+          "mening": "J'___ ma mémoire tous les jours !",
+          "meningSv": "Jag använder mitt minne varje dag!",
+          "svar": ["utilise"],
+          "alternativ": ["utilise", "utilises", "utilisez", "utilisent"],
+          "forklaring": "je → utilise (-e). Vokalstart → j'utilise."
+        },
+        {
+          "typ": "lucka",
+          "rang": 250,
+          "mening": "J'___ la France !",
+          "meningSv": "Jag ÄLSKAR Frankrike!",
+          "svar": ["adore"],
+          "forklaring": "adorer → j'adore. je-formen av -er-verb slutar alltid på -e."
+        },
+        {
+          "typ": "val",
+          "rang": 100,
+          "fraga": "Manger är lite speciellt. Vad heter « vi äter »?",
+          "alternativ": ["nous mangeons", "nous mangons", "nous mangez", "nous manges"],
+          "svar": "nous mangeons",
+          "forklaring": "Extra e efter g:et håller uttalet mjukt: mangeons. Utan e hade g låtit som i \"gata\"."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilka presensändelser HÖRS när man pratar?",
+          "alternativ": ["Bara -ons och -ez", "Alla sex", "Inga alls", "Bara -e och -ent"],
+          "svar": "Bara -ons och -ez",
+          "forklaring": "parle, parles och parlent uttalas likadant — bara nous parlons och vous parlez har hörbar ändelse."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 541,
+          "ord": ["J'étudie", "une", "heure", "par", "jour."],
+          "meningSv": "Jag pluggar en timme om dagen.",
+          "forklaring": "étudier → j'étudie (vokalstart ger j'). par jour = om dagen/per dag."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 63,
+          "meningSv": "Jag älskar Frankrike!",
+          "svar": ["J'aime la France !", "J'aime la France!", "J'aime la France", "J'adore la France !", "J'adore la France!"],
+          "forklaring": "aimer → j'aime (elision före vokal). Länder tar artikel: la France."
+        }
+      ]
+    }
+  ]
+}

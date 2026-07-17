@@ -1,0 +1,32 @@
+{
+  "dag": 12,
+  "titel": "Resan till Paris",
+  "svenska": "I dag vill jag berätta om en resa. För två år sedan åkte Jessica och jag till Paris. Det är vår första resa till Frankrike. Vi åkte hemifrån väldigt tidigt på morgonen, och vi kom fram till hotellet på kvällen.\n\nVilken stad! Vi gick upp i Eiffeltornet — Jessica först, jag efter, för jag är lite rädd för hissar. Vi promenerade överallt, vi åt väldigt gott, och vi drack ett glas på en uteservering. En herre pratade med mig, jättefort, och jag förstod ingenting.\n\nVi stannade en vecka. Sedan åkte vi hem — med en idé i mitt huvud: jag vill lära mig franska! I år åker vi tillbaka till Paris — med Kalle, och med 3 000 ord i mitt minne.",
+  "franska": "Aujourd'hui, je veux raconter un voyage. Il y a deux ans, Jessica et moi, nous sommes allés à Paris. C'est notre premier voyage en France. Nous sommes partis de la maison très tôt le matin, et nous sommes arrivés à l'hôtel le soir.\n\nQuelle ville ! Nous sommes montés en haut de la tour Eiffel — Jessica d'abord, moi après, parce que j'ai un peu peur des ascenseurs. Nous avons marché partout, nous avons très bien mangé, et nous avons bu un verre en terrasse. Un monsieur a parlé avec moi, très vite, et je n'ai rien compris.\n\nNous sommes restés une semaine. Ensuite, nous sommes rentrés à la maison — avec une idée dans ma tête : je veux apprendre le français ! Cette année, nous retournons à Paris — avec Kalle, et avec 3 000 mots dans ma mémoire.",
+  "lemma": {
+    "veux": 47,
+    "moi": 29,
+    "ans": 86,
+    "a": 8,
+    "ai": 8,
+    "est": 4,
+    "sommes": 4,
+    "avons": 8,
+    "allés": 40,
+    "partis": 148,
+    "arrivés": 147,
+    "montés": 460,
+    "restés": 149,
+    "rentrés": 291,
+    "abord": 177,
+    "ascenseurs": 779,
+    "marché": 248,
+    "mangé": 100,
+    "bu": 188,
+    "parlé": 61,
+    "compris": 69,
+    "mots": 155,
+    "retournons": 465
+  },
+  "friaOrd": ["Jessica", "Kalle", "Paris", "France", "Eiffel"]
+}

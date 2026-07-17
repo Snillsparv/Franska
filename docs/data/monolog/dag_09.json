@@ -1,0 +1,31 @@
+{
+  "dag": 9,
+  "titel": "Väder och årstider",
+  "svenska": "I Sverige har vi riktiga årstider och jag älskar varje årstid. På vintern är det väldigt kallt: det finns snö överallt och natten kommer fort. Men allt är vitt och lugnt, och Kalle älskar snön. På våren blir allt grönt, det finns blommor överallt och fåglarna sjunger.\n\nPå sommaren är det varmt och solen är här nästan hela natten. Vi simmar i sjön och vi äter i trädgården. Jessica älskar den årstiden. På hösten regnar det ofta, himlen är full av moln och det blåser mycket. Ibland kommer ett åskväder — då stannar vi hemma och tittar på en film.\n\nJag tittar på väderprognosen varje morgon. I dag är det fint väder: himlen är blå, solen är varm och det finns inte ett moln. Men jag tänker på en sak: hur är vädret i Frankrike nu? Jag vill se det snart!",
+  "franska": "En Suède, il y a de vraies saisons et j'aime chaque saison. En hiver, il fait très froid : il y a de la neige partout et la nuit arrive vite. Mais tout est blanc et calme, et Kalle adore la neige. Au printemps, tout devient vert, il y a des fleurs partout et les oiseaux chantent.\n\nEn été, il fait chaud et le soleil est ici presque toute la nuit. On nage dans le lac et on mange dans le jardin. Jessica adore cette saison. En automne, il pleut souvent, le ciel est plein de nuages et il y a beaucoup de vent. Parfois, un orage arrive — alors on reste à la maison et on regarde un film.\n\nJe regarde la météo chaque matin. Aujourd'hui, il fait beau : le ciel est bleu, le soleil est chaud et il n'y a pas un nuage. Mais je pense à une chose : quel temps fait-il en France maintenant ? Je veux voir ça bientôt !",
+  "lemma": {
+    "vraies": 159,
+    "saisons": 830,
+    "aime": 63,
+    "fait": 26,
+    "arrive": 147,
+    "est": 4,
+    "a": 8,
+    "adore": 250,
+    "devient": 339,
+    "des": 3,
+    "fleurs": 352,
+    "oiseaux": 348,
+    "chantent": 439,
+    "toute": 38,
+    "nage": 343,
+    "mange": 100,
+    "pleut": 212,
+    "nuages": 826,
+    "reste": 149,
+    "regarde": 144,
+    "pense": 79,
+    "veux": 47
+  },
+  "friaOrd": ["Suède", "France", "Jessica", "Kalle"]
+}

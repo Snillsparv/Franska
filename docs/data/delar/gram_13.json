@@ -1,0 +1,135 @@
+{
+  "kapitel": [
+    {
+      "id": 13,
+      "titel": "Reflexiva verb",
+      "teori": "<p>Reflexiva verb riktar handlingen tillbaka mot subjektet: <em>je <strong>me</strong> lave</em> — jag tvättar <strong>mig</strong>. Franskan använder dem oftare än svenskan: <em>s'appeler</em> (heta, ordagrant \"kalla sig\"), <em>se lever</em> (gå upp), <em>se sentir</em> (må).</p><p>Pronomenet böjs efter subjektet och står <strong>före verbet</strong>:</p><table class=\"enkel\"><tr><th>subjekt</th><th>pronomen</th><th>se lever (gå upp)</th></tr><tr><td>je</td><td>me</td><td>je me lève</td></tr><tr><td>tu</td><td>te</td><td>tu te lèves</td></tr><tr><td>il/elle/on</td><td>se</td><td>il se lève</td></tr><tr><td>nous</td><td>nous</td><td>nous nous levons</td></tr><tr><td>vous</td><td>vous</td><td>vous vous levez</td></tr><tr><td>ils/elles</td><td>se</td><td>ils se lèvent</td></tr></table><p><strong>Elision:</strong> före vokal eller stumt h blir me/te/se → m'/t'/s': <em>je <strong>m'</strong>appelle Jonas, tu <strong>t'</strong>appelles, il <strong>s'</strong>habille</em>. Aldrig \"je me appelle\"!</p><p><strong>Minneskrok:</strong> morgonrutinen är full av reflexiva verb: <em>je me réveille, je me lève, je me lave, je me brosse les dents, je m'habille</em>. Lägg märke till <em>les dents</em> — med kroppsdelar använder franskan bestämd artikel, inte possessiv: \"jag borstar mig tänderna\".</p><p><strong>Passé composé:</strong> alla reflexiva verb tar <strong>être</strong>, och participen böjs oftast efter subjektet:</p><ul><li><em>Je me <strong>suis</strong> levé(e).</em> — Jag gick upp.</li><li><em>Elle s'<strong>est</strong> levée tôt.</em> — Hon gick upp tidigt.</li><li><em>Il s'<strong>est</strong> blessé au genou.</em> — Han skadade knät.</li></ul><p>Ordningen är alltid: subjekt + pronomen + être + particip.</p><p><strong>Med infinitiv</strong> följer pronomenet med och böjs efter subjektet: <em>Je vais <strong>me</strong> coucher</em> (jag ska lägga mig), <em>Tu vas <strong>te</strong> coucher</em>. Negation: <em>Je <strong>ne</strong> me lève <strong>pas</strong>.</em></p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 10,
+          "mening": "Je ___ Jonas.",
+          "meningSv": "Jag heter Jonas.",
+          "svar": ["m'appelle"],
+          "alternativ": ["m'appelle", "me appelle", "s'appelle", "t'appelles"],
+          "forklaring": "je → me, som blir m' före vokal: je m'appelle. \"Me appelle\" utan elision är fel."
+        },
+        {
+          "typ": "lucka",
+          "rang": 110,
+          "mening": "Comment tu ___ ?",
+          "meningSv": "Vad heter du?",
+          "svar": ["t'appelles"],
+          "alternativ": ["t'appelles", "t'appelle", "s'appelles", "te appelles"],
+          "forklaring": "tu → te → t' före vokal, och verbet får tu-ändelsen -es: tu t'appelles."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1045,
+          "mening": "Il ___ rase le matin.",
+          "meningSv": "Han rakar sig på morgonen.",
+          "svar": ["se"],
+          "alternativ": ["se", "me", "te", "s'"],
+          "forklaring": "il → se. S' används bara före vokal, och rase börjar på konsonant."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1042,
+          "mening": "Je ___ vite.",
+          "meningSv": "Jag klär på mig snabbt.",
+          "svar": ["m'habille"],
+          "alternativ": ["m'habille", "me habille", "s'habille", "m'habilles"],
+          "forklaring": "h i habiller är stumt, så me blir m': je m'habille. Je-formen slutar på -e, inte -es."
+        },
+        {
+          "typ": "lucka",
+          "rang": 468,
+          "mening": "Je me ___ cinq minutes.",
+          "meningSv": "Jag vilar fem minuter.",
+          "svar": ["repose"],
+          "alternativ": ["repose", "reposes", "reposer", "reposé"],
+          "forklaring": "je + -er-verb får ändelsen -e: je me repose. Verbet böjs som vanligt — det är bara pronomenet som är extra."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1044,
+          "mening": "Je ___ brosse les dents deux fois par jour.",
+          "meningSv": "Jag borstar tänderna två gånger om dagen.",
+          "svar": ["me"],
+          "alternativ": ["me", "se", "te", "m'"],
+          "forklaring": "je → me. Notera les dents: med kroppsdelar används bestämd artikel — \"jag borstar mig tänderna\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1046,
+          "mening": "Tu ___ maquilles ce soir ?",
+          "meningSv": "Sminkar du dig ikväll?",
+          "svar": ["te"],
+          "alternativ": ["te", "se", "me", "t'"],
+          "forklaring": "tu → te. Maquilles börjar på konsonant, så ingen elision."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 731,
+          "ord": ["On", "se", "calme", "!"],
+          "meningSv": "Vi lugnar ner oss!",
+          "forklaring": "Pronomenet står före verbet: on se calme."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 427,
+          "ord": ["Je", "m'entraîne", "tous", "les", "jours."],
+          "meningSv": "Jag tränar varje dag.",
+          "forklaring": "s'entraîner = träna. Subjekt + pronomen+verb (m'entraîne) + tidsuttryck."
+        },
+        {
+          "typ": "lucka",
+          "rang": 558,
+          "mening": "Je me ___ trompé, pardon !",
+          "meningSv": "Jag tog fel, förlåt!",
+          "svar": ["suis"],
+          "alternativ": ["suis", "ai", "es", "sommes"],
+          "forklaring": "Reflexiva verb tar alltid être i passé composé: je me suis trompé — aldrig avoir."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1235,
+          "mening": "Il s'est ___ au genou.",
+          "meningSv": "Han skadade knät.",
+          "svar": ["blessé"],
+          "alternativ": ["blessé", "blessée", "blesser", "blessés"],
+          "forklaring": "il är maskulinum singular → blessé utan extra ändelse. Blessée vore om subjektet var elle."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 242,
+          "meningSv": "Jag minns allt!",
+          "svar": ["Je me souviens de tout !", "Je me souviens de tout!"],
+          "forklaring": "se souvenir de = minnas. Reflexivt på franska: je me souviens."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 517,
+          "meningSv": "Jag mår bra här.",
+          "svar": ["Je me sens bien ici."],
+          "forklaring": "se sentir = må, känna sig: je me sens bien."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken mening är rätt i passé composé?",
+          "alternativ": ["Elle s'est levée tôt.", "Elle s'a levé tôt.", "Elle est se levée tôt."],
+          "svar": "Elle s'est levée tôt.",
+          "forklaring": "Ordningen är pronomen + être + particip: elle s'est levée. Être (inte avoir), och participen får -e efter elle."
+        },
+        {
+          "typ": "val",
+          "rang": 292,
+          "fraga": "Hur säger man \"Jag ska lägga mig\"?",
+          "alternativ": ["Je vais me coucher.", "Je me vais coucher.", "Je vais se coucher."],
+          "svar": "Je vais me coucher.",
+          "forklaring": "Pronomenet står före infinitiven och böjs efter subjektet: je → me, alltså je vais me coucher."
+        }
+      ]
+    }
+  ]
+}

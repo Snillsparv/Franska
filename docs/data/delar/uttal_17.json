@@ -1,0 +1,64 @@
+{
+  "lektioner": [
+    {
+      "id": 17,
+      "titel": "Vanliga fällor: plus, tous, est/et, fils",
+      "teori": "<p>Vissa småord har fler uttal än de har bokstäver — nästan. Här är fällorna som till och med vana franska-inlärare trampar i.</p><p><strong>plus — ett ord, tre uttal:</strong></p><ul><li>[ply] när det betyder <em>inte mer</em>: Je n'en peux plus [ply]. Negationens plus är alltid s-löst.</li><li>[plys] när det betyder <em>mer</em>: une minute de plus [plys], À plus ! [a plys]. Även matteplus: deux plus deux [plys].</li><li>[plyz] i liaison före vokal: plus important [plyzɛ̃pɔʁtɑ̃].</li></ul><p>Minnesregel: betyder det MER hörs s:et — mer betydelse, mer ljud. Betyder det INTE MER är s:et borta.</p><p><strong>tous — två uttal:</strong> före ett substantiv är det [tu]: <em>tous les jours</em> [tu le ʒuʁ]. Som självständigt pronomen är det [tus]: <em>Ils sont tous là !</em> Hör du [tus] betyder det alltså <em>allihop</em>. Toutes är enklare — alltid [tut].</p><p><strong>est och et</strong> ligger farligt nära varandra: [ɛ] och [e]. Skillnaden i praktiken: <em>et</em> (och) får ALDRIG liaison — t:et i et är Frankrikes mest tystade bokstav. <em>est</em> (är) kan däremot binda till nästa ord: <em>c'est un chat</em> [sɛtœ̃ ʃa]. Hör du ett t efter [e]-ljudet vet du att det var est, inte et.</p><p><strong>fils</strong> (son) är en dubbelfälla: l:et är tyst men s:et hörs — [fis]! Alltså tvärtemot allt du lärt dig om tysta slut-s. Jämför med <em>fille</em> [fij], som lydigt följer ille-regeln. Le fils, la fille: [fis] och [fij]. Säger du [fil] har du i stället sagt <em>fil</em> — tråd.</p>",
+      "exempel": [
+        { "rang": 27, "fokus": "tre uttal: [ply] = inte mer, [plys] = mer, [plyz] i liaison" },
+        { "rang": 1578, "fokus": "[ply] — negationens plus, inget s" },
+        { "rang": 1586, "fokus": "[a plys] — här HÖRS s:et: vi ses = mer!" },
+        { "rang": 852, "fokus": "[tu] före substantiv, [tus] som pronomen" },
+        { "rang": 1303, "fokus": "[fis] — l:et tyst men s:et hörs!" },
+        { "rang": 164, "fokus": "[fij] — fille följer ille-regeln, fils gör det inte" },
+        { "rang": 5, "fokus": "[e] — t:et uttalas aldrig, ingen liaison någonsin" }
+      ],
+      "chip": { "monster": "^(plus|fils|et|tous / toutes)$", "etikett": "uttalsfällor" },
+      "sjalvtest": [
+        {
+          "rang": 1303,
+          "alternativ": ["fils", "fil"],
+          "ratt": "fils",
+          "forklaring": "Du hörde [fis] — fils (son) med tyst l och hörbart s. fil (tråd) uttalas [fil]."
+        },
+        {
+          "fraga": "Hur uttalas plus i Je n'en peux plus (jag orkar inte mer)?",
+          "alternativ": ["[ply]", "[plys]", "[plyz]"],
+          "ratt": "[ply]",
+          "forklaring": "Betydelsen är 'inte mer' — då är s:et alltid tyst: [ply]."
+        },
+        {
+          "fraga": "Hur uttalas plus i plus important (mer viktig, före vokal)?",
+          "alternativ": ["[plyz]", "[ply]", "[plys]"],
+          "ratt": "[plyz]",
+          "forklaring": "Före vokal binder plus med [z]: [plyzɛ̃pɔʁtɑ̃]. Liaison-varianten."
+        },
+        {
+          "fraga": "Ils sont tous là ! (alla är där) — hur uttalas tous?",
+          "alternativ": ["[tus]", "[tu]"],
+          "ratt": "[tus]",
+          "forklaring": "Som självständigt pronomen ('allihop') hörs s:et: [tus]."
+        },
+        {
+          "fraga": "Tous les jours (varje dag) — hur uttalas tous?",
+          "alternativ": ["[tu]", "[tus]"],
+          "ratt": "[tu]",
+          "forklaring": "Före ett substantiv är tous ett vanligt adjektiv med tyst s: [tu le ʒuʁ]."
+        },
+        {
+          "fraga": "Vilket påstående om et (och) stämmer?",
+          "alternativ": ["t:et uttalas aldrig — ingen liaison", "t:et hörs före vokal", "t:et hörs i noggrant tal"],
+          "ratt": "t:et uttalas aldrig — ingen liaison",
+          "forklaring": "Liaison efter et är strängt förbjuden: un café et un thé — inget t-ljud mellan et och un."
+        },
+        {
+          "ljudText": "À plus !",
+          "fraga": "Lyssna: hörs s:et i À plus ! (vi ses)?",
+          "alternativ": ["ja — [a plys]", "nej — [a ply]"],
+          "ratt": "ja — [a plys]",
+          "forklaring": "À plus är kort för à plus tard — 'till mer/senare'. Betydelsen 'mer' ger [plys], tvärtemot vad man kan tro."
+        }
+      ]
+    }
+  ]
+}
