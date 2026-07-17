@@ -1,0 +1,133 @@
+{
+  "kapitel": [
+    {
+      "id": 14,
+      "titel": "Futur proche",
+      "teori": "<p><strong>Futur proche</strong> (\"nära framtid\") är franskans enklaste sätt att prata om framtiden — precis som svenskans \"ska\": <em>Je <strong>vais manger</strong></em> = jag ska äta. Receptet: <strong>aller i presens + infinitiv</strong>.</p><table class=\"enkel\"><tr><th>aller</th><th>+ infinitiv</th><th>betydelse</th></tr><tr><td>je vais</td><td>manger</td><td>jag ska äta</td></tr><tr><td>tu vas</td><td>manger</td><td>du ska äta</td></tr><tr><td>il/elle/on va</td><td>manger</td><td>han/hon/vi ska äta</td></tr><tr><td>nous allons</td><td>manger</td><td>vi ska äta</td></tr><tr><td>vous allez</td><td>manger</td><td>ni ska äta</td></tr><tr><td>ils/elles vont</td><td>manger</td><td>de ska äta</td></tr></table><p>Verbet efter aller står <strong>alltid i infinitiv</strong> — det böjs aldrig: <em>on va dormir</em>, inte \"on va dort\".</p><p><strong>Två betydelser av aller:</strong> ensamt med en plats betyder det gå/åka (<em>On va au cinéma</em> — vi går på bio). Med en infinitiv efter blir det framtid (<em>On va voir un film</em> — vi ska se en film).</p><p>Krydda med <strong>tidsuttryck</strong>:</p><ul><li><em>ce soir</em> — ikväll, <em>ce week-end</em> — i helgen</li><li><em>demain</em> — imorgon, <em>demain matin</em> — imorgon bitti</li><li><em>la semaine prochaine</em> — nästa vecka, <em>bientôt</em> — snart</li></ul><p>Med ett tidsuttryck räcker ofta vanlig presens för framtid, precis som på svenska: <em>Je t'appelle demain</em> — jag ringer dig imorgon.</p><p><strong>Negation</strong> omsluter bara aller: <em>Je <strong>ne</strong> vais <strong>pas</strong> sortir.</em> <strong>Reflexiva verb:</strong> pronomenet står före infinitiven och böjs efter subjektet: <em>Je vais <strong>me</strong> coucher.</em></p><p><strong>Minneskrok:</strong> \"vais + verb = ska + verb\". Även vädret använder futur proche: <em>Il va pleuvoir</em> — det ska bli regn.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 328,
+          "mening": "Tu ___ réussir !",
+          "meningSv": "Du kommer att lyckas!",
+          "svar": ["vas"],
+          "alternativ": ["vas", "va", "vais", "allez"],
+          "forklaring": "tu-formen av aller är vas: tu vas réussir."
+        },
+        {
+          "typ": "lucka",
+          "rang": 343,
+          "mening": "On ___ nager avec Kalle.",
+          "meningSv": "Vi ska simma med Kalle.",
+          "svar": ["va"],
+          "alternativ": ["va", "vont", "allons", "vas"],
+          "forklaring": "on böjs som il/elle → va, även när det betyder \"vi\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 208,
+          "mening": "Il est tard, on va ___.",
+          "meningSv": "Det är sent, vi ska sova.",
+          "svar": ["dormir"],
+          "alternativ": ["dormir", "dort", "dormi", "dormons"],
+          "forklaring": "Efter aller står verbet alltid i infinitiv: on va dormir. Dort och dormons är böjda former."
+        },
+        {
+          "typ": "lucka",
+          "rang": 292,
+          "mening": "Je vais me ___.",
+          "meningSv": "Jag ska lägga mig.",
+          "svar": ["coucher"],
+          "alternativ": ["coucher", "couche", "couché", "couches"],
+          "forklaring": "Infinitiv efter aller: me coucher. Det reflexiva pronomenet me står före infinitiven."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1543,
+          "mening": "Apparemment, il va ___.",
+          "meningSv": "Tydligen ska det regna.",
+          "svar": ["pleuvoir"],
+          "alternativ": ["pleuvoir", "pleut", "plu", "pleuvra"],
+          "forklaring": "Infinitiv efter va: il va pleuvoir. Il pleut = det regnar (nu), il va pleuvoir = det ska regna."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1279,
+          "mening": "On va ___ ailleurs ?",
+          "meningSv": "Ska vi äta någon annanstans?",
+          "svar": ["manger"],
+          "alternativ": ["manger", "mange", "mangé", "mangeons"],
+          "forklaring": "aller + infinitiv: on va manger. Mangé är particip (passé composé) och mange är presens."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 100,
+          "ord": ["On", "va", "manger", "?"],
+          "meningSv": "Ska vi käka?",
+          "forklaring": "Subjekt + aller + infinitiv, med frågeintonation: On va manger ?"
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 452,
+          "ord": ["On", "prend", "l'avion", "demain."],
+          "meningSv": "Vi flyger imorgon.",
+          "forklaring": "Presens + tidsuttryck (demain) räcker ofta för att uttrycka framtid, precis som på svenska."
+        },
+        {
+          "typ": "lucka",
+          "rang": 231,
+          "mening": "On ___ au cinéma ce soir ?",
+          "meningSv": "Ska vi gå på bio ikväll?",
+          "svar": ["va"],
+          "alternativ": ["va", "vas", "allons", "vont"],
+          "forklaring": "Här är aller huvudverbet (gå till en plats): on va au cinéma. Tidsuttrycket ce soir ger framtidsbetydelsen."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 53,
+          "meningSv": "Vi får se!",
+          "svar": ["On va voir !", "On va voir!"],
+          "forklaring": "Klassisk futur proche-fras: on va voir, ordagrant \"vi ska se\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 518,
+          "mening": "Je ___ le dîner ce soir.",
+          "meningSv": "Jag lagar middagen ikväll.",
+          "svar": ["prépare"],
+          "alternativ": ["prépare", "vais", "prépares", "préparer"],
+          "forklaring": "Vais kräver en infinitiv efter sig (je vais préparer) — här följer objektet le dîner direkt, så presens prépare är rätt."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 233,
+          "meningSv": "Jag ringer dig imorgon.",
+          "svar": ["Je t'appelle demain."],
+          "forklaring": "Presens + demain uttrycker framtid: je t'appelle demain."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Ils ___ jouer au foot demain.",
+          "meningSv": "De ska spela fotboll imorgon.",
+          "svar": ["vont"],
+          "alternativ": ["vont", "vais", "va", "allons"],
+          "forklaring": "ils-formen av aller är vont: ils vont jouer."
+        },
+        {
+          "typ": "val",
+          "fraga": "Var placeras ne ... pas i futur proche?",
+          "alternativ": ["Je ne vais pas sortir ce soir.", "Je vais ne pas sortir ce soir.", "Je ne sors vais pas ce soir."],
+          "svar": "Je ne vais pas sortir ce soir.",
+          "forklaring": "ne ... pas omsluter det böjda verbet vais — infinitiven står utanför: je ne vais pas sortir."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken form av aller hör till nous?",
+          "alternativ": ["allons", "allez", "vont", "va"],
+          "svar": "allons",
+          "forklaring": "nous allons — samma ändelse -ons som i nästan alla verb: nous allons manger."
+        }
+      ]
+    }
+  ]
+}
