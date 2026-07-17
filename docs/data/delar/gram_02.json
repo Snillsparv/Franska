@@ -1,0 +1,138 @@
+{
+  "kapitel": [
+    {
+      "id": 2,
+      "titel": "Plural",
+      "teori": "<p>Grundregeln är enkel: lägg till <strong>-s</strong>. Men här kommer det viktigaste du behöver veta: <strong>plural-s:et är stumt!</strong> <em>le mot</em> och <em>les mots</em> uttalas likadant på slutet — det är <strong>artikeln</strong> som avslöjar pluralen. Därför måste du höra skillnaden mellan <em>le/la</em> [lö/la] och <em>les</em> [lä], mellan <em>un/une</em> och <em>des</em> [dä].</p><table class=\"enkel\"><tr><th>Regel</th><th>Singular</th><th>Plural</th></tr><tr><td>Vanligast: +s</td><td>un mot</td><td>des mots</td></tr><tr><td>Slutar på -s, -x, -z: oförändrat</td><td>un mois, un bras</td><td>des mois, des bras</td></tr><tr><td>-eau, -eu: +x</td><td>un gâteau, un jeu</td><td>des gâteaux, des jeux</td></tr><tr><td>-al → -aux</td><td>un animal, un journal</td><td>des animaux, des journaux</td></tr><tr><td>Specialare</td><td>un œil (öga)</td><td>des yeux</td></tr></table><p>Artiklarna i plural: <strong>les</strong> (bestämd: orden) och <strong>des</strong> (obestämd: några ord) — samma form för båda genusen. Även possessiver markerar plural: <em>mes, tes, ses, nos, vos, leurs</em>. Och prepositionen à smälter ihop med les: <strong>à + les = aux</strong>, som i <em>J'ai mal aux jambes</em> (jag har ont i benen).</p><p><strong>Två öron-krokar:</strong></p><ul><li>Framför vokal hörs pluralen extra tydligt genom <strong>liaison</strong>: <em>les enfants</em> uttalas [lez-anfang], <em>des amis</em> [dez-ami]. Det där z-ljudet är ofta din enda ledtråd i talet!</li><li>Undantagen med -x (gâteaux, animaux, yeux) uttalas också utan slut-ljud — x:et är lika stumt som s:et.</li></ul><p><strong>Minnesteknik:</strong> se pluralen som ett gäng. Ett franskt ord byter aldrig form i örat — det tar bara på sig en ny artikel när kompisarna kommer. Öva därför alltid paret högt: <em>le mot – les mots</em>, <em>un jeu – des jeux</em>. Då fastnar både stavningen och ljudet på samma gång.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 119,
+          "mening": "Deux ___, s'il vous plaît.",
+          "meningSv": "Två kaffe, tack.",
+          "svar": ["cafés"],
+          "alternativ": ["cafés", "café", "cafées"],
+          "forklaring": "Efter deux är det plural: café + s. S:et syns men hörs inte."
+        },
+        {
+          "typ": "lucka",
+          "rang": 162,
+          "mening": "___ gens sont super ici.",
+          "meningSv": "Folket är toppen här.",
+          "svar": ["Les"],
+          "alternativ": ["Les", "Le", "La", "Des"],
+          "forklaring": "gens är alltid plural och här bestämt (\"folket\") → les."
+        },
+        {
+          "typ": "lucka",
+          "rang": 166,
+          "mening": "Tu as ___ frères ?",
+          "meningSv": "Har du bröder?",
+          "svar": ["des"],
+          "alternativ": ["des", "les", "un", "de"],
+          "forklaring": "Obestämd plural (\"några bröder\") → des. les hade betytt \"bröderna\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 222,
+          "mening": "Il a les ___ de Jessica.",
+          "meningSv": "Han har Jessicas ögon.",
+          "svar": ["yeux"],
+          "alternativ": ["yeux", "œils", "œufs"],
+          "forklaring": "Helt oregelbundet: un œil → des yeux. (œufs = ägg — inte samma sak!)"
+        },
+        {
+          "typ": "lucka",
+          "rang": 383,
+          "mening": "Où sont mes ___ ?!",
+          "meningSv": "Var är mina nycklar?!",
+          "svar": ["clés"],
+          "alternativ": ["clés", "clé", "clées"],
+          "forklaring": "mes (mina) kräver plural: clé + s = clés."
+        },
+        {
+          "typ": "lucka",
+          "rang": 392,
+          "mening": "J'ai mal ___ jambes.",
+          "meningSv": "Jag har ont i benen.",
+          "svar": ["aux"],
+          "alternativ": ["aux", "à les", "au", "à"],
+          "forklaring": "à + les smälter alltid ihop till aux. \"à les\" existerar inte på franska."
+        },
+        {
+          "typ": "lucka",
+          "rang": 371,
+          "mening": "Les Français sont ___ !",
+          "meningSv": "Fransmännen är trevliga!",
+          "svar": ["sympas"],
+          "alternativ": ["sympas", "sympa", "sympases"],
+          "forklaring": "Adjektivet böjs också i plural: sympa + s. Français slutar redan på -s och ändras inte."
+        },
+        {
+          "typ": "lucka",
+          "rang": 167,
+          "mening": "Tu as des frères et ___ ?",
+          "meningSv": "Har du syskon?",
+          "svar": ["sœurs"],
+          "forklaring": "des frères et sœurs = bröder och systrar, franskans sätt att säga \"syskon\". Plural-s på båda."
+        },
+        {
+          "typ": "lucka",
+          "rang": 397,
+          "mening": "Il a mes ___ !",
+          "meningSv": "Han har mitt hår!",
+          "svar": ["cheveux"],
+          "alternativ": ["cheveux", "cheveus", "cheveuxs"],
+          "forklaring": "cheveu slutar på -eu → plural med x: cheveux. Hår är alltid plural på franska!"
+        },
+        {
+          "typ": "lucka",
+          "rang": 115,
+          "mening": "Leurs enfants ___ grands.",
+          "meningSv": "Deras barn är stora.",
+          "svar": ["sont"],
+          "alternativ": ["sont", "est", "es", "êtes"],
+          "forklaring": "Pluralt subjekt (leurs enfants) → sont. Hela kedjan böjs: leurs + enfants + sont + grands."
+        },
+        {
+          "typ": "val",
+          "rang": 239,
+          "fraga": "Vad är plural av « un jeu » (ett spel)?",
+          "alternativ": ["des jeux", "des jeus", "des jeues"],
+          "svar": "des jeux",
+          "forklaring": "Ord på -eu får -x i plural: jeu → jeux. X:et är stumt."
+        },
+        {
+          "typ": "val",
+          "rang": 349,
+          "fraga": "Vad är plural av « un animal » (ett djur)?",
+          "alternativ": ["des animaux", "des animals", "des animales"],
+          "svar": "des animaux",
+          "forklaring": "-al byts mot -aux: animal → animaux. Samma mönster: journal → journaux."
+        },
+        {
+          "typ": "val",
+          "rang": 155,
+          "fraga": "Hur uttalas slut-s:et i « les mots »?",
+          "alternativ": ["Det hörs inte alls", "Som ett svenskt s", "Som ett z"],
+          "svar": "Det hörs inte alls",
+          "forklaring": "Plural-s är stumt. Det är artikeln les [lä] som avslöjar att det är plural."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 386,
+          "ord": ["Où", "sont", "les", "toilettes", "?"],
+          "meningSv": "Var är toaletten?",
+          "forklaring": "toilettes är alltid plural på franska → les toilettes + sont."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 352,
+          "meningSv": "Blommor till Jessica!",
+          "svar": ["Des fleurs pour Jessica !", "Des fleurs pour Jessica!", "Des fleurs pour Jessica"],
+          "forklaring": "Obestämd plural (\"några blommor\") → des fleurs. Svenskan hoppar över artikeln, franskan kan inte."
+        }
+      ]
+    }
+  ]
+}
