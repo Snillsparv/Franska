@@ -1,0 +1,137 @@
+{
+  "kapitel": [
+    {
+      "id": 3,
+      "titel": "Être och avoir",
+      "teori": "<p>Franskans två viktigaste verb är <strong>être</strong> (att vara) och <strong>avoir</strong> (att ha). De är helt oregelbundna, dyker upp i varannan mening och blir senare hjälpverb i dåtid — så de här två tabellerna är kursens bästa investering. Nöt dem högt!</p><table class=\"enkel\"><tr><th></th><th>être = vara</th><th>avoir = ha</th></tr><tr><td>je / j'</td><td>je <strong>suis</strong></td><td>j'<strong>ai</strong></td></tr><tr><td>tu</td><td>tu <strong>es</strong></td><td>tu <strong>as</strong></td></tr><tr><td>il / elle / on</td><td>il <strong>est</strong></td><td>il <strong>a</strong></td></tr><tr><td>nous</td><td>nous <strong>sommes</strong></td><td>nous <strong>avons</strong></td></tr><tr><td>vous</td><td>vous <strong>êtes</strong></td><td>vous <strong>avez</strong></td></tr><tr><td>ils / elles</td><td>ils <strong>sont</strong></td><td>ils <strong>ont</strong></td></tr></table><p>Observera: <em>je + ai</em> dras alltid ihop till <strong>j'ai</strong>. Och <em>on</em> (man/vi) böjs som il/elle: <em>on est, on a</em>.</p><p><strong>Användning.</strong> Être beskriver vem någon är eller hur något är: <em>Je suis Jonas. Nous sommes suédois. Kalle est petit.</em> Avoir anger vad man har: <em>J'ai un fils.</em> Men franskan <strong>har</strong> också en rad känslor och tillstånd där svenskan <strong>är</strong>:</p><ul><li><em>avoir faim</em> = vara hungrig, <em>avoir soif</em> = vara törstig</li><li><em>avoir raison</em> = ha rätt, <em>avoir peur</em> = vara rädd</li><li><em>avoir besoin de</em> = behöva</li><li>ålder: <em>Kalle a un an</em> — man \"har\" år på franska, man \"är\" dem inte!</li></ul><p>Superfrasen <strong>il y a</strong> = \"det finns\": <em>Il y a quelqu'un ?</em></p><p><strong>Minneskrokar:</strong> <em>est</em>, <em>es</em> och <em>et</em> (och) uttalas likadant [ä] — bara stavningen skiljer. <em>ils sont</em> (de är) mot <em>ils ont</em> (de har) skiljs i talet av z-ljudet: [il-son] mot [il-zon]. Och vous-formerna rimmar: <em>êtes/avez</em> hör alltid ihop med vous.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 4,
+          "mening": "Je ___ Jonas. Et vous ?",
+          "meningSv": "Jag är Jonas. Och ni?",
+          "svar": ["suis"],
+          "alternativ": ["suis", "es", "est", "sommes"],
+          "forklaring": "je → suis. Presentation = être: jag ÄR Jonas."
+        },
+        {
+          "typ": "lucka",
+          "rang": 7,
+          "mening": "Il ___ là.",
+          "meningSv": "Han är där.",
+          "svar": ["est"],
+          "alternativ": ["est", "es", "et", "a"],
+          "forklaring": "il → est. Varning: est, es och et uttalas likadant — stavningen måste sitta!"
+        },
+        {
+          "typ": "lucka",
+          "rang": 5,
+          "mening": "Jessica et Kalle ___ ici.",
+          "meningSv": "Jessica och Kalle är här.",
+          "svar": ["sont"],
+          "alternativ": ["sont", "est", "sommes", "ont"],
+          "forklaring": "Två personer = ils → sont. ont (av avoir) hade betytt \"har\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 23,
+          "mening": "Vous ___ français ?",
+          "meningSv": "Är ni fransk?",
+          "svar": ["êtes"],
+          "alternativ": ["êtes", "avez", "sont", "es"],
+          "forklaring": "vous → êtes. avez är vous-formen av avoir (att ha) — fel verb här."
+        },
+        {
+          "typ": "lucka",
+          "rang": 33,
+          "mening": "Nous ___ suédois.",
+          "meningSv": "Vi är svenskar.",
+          "svar": ["sommes"],
+          "alternativ": ["sommes", "sont", "êtes", "avons"],
+          "forklaring": "nous → sommes. sont hör till ils/elles, avons betyder \"har\"."
+        },
+        {
+          "typ": "lucka",
+          "rang": 8,
+          "mening": "___ un fils.",
+          "meningSv": "Jag har en son.",
+          "svar": ["J'ai"],
+          "alternativ": ["J'ai", "Je ai", "J'as", "J'es"],
+          "forklaring": "je + ai dras alltid ihop till j'ai. as är tu-formen."
+        },
+        {
+          "typ": "lucka",
+          "rang": 261,
+          "mening": "Tu ___ raison !",
+          "meningSv": "Du har rätt!",
+          "svar": ["as"],
+          "alternativ": ["as", "a", "es", "ai"],
+          "forklaring": "tu → as. avoir raison = att ha rätt, precis som på svenska."
+        },
+        {
+          "typ": "lucka",
+          "rang": 267,
+          "mening": "J'ai ___ ! On mange ?",
+          "meningSv": "Jag är hungrig! Ska vi äta?",
+          "svar": ["faim"],
+          "alternativ": ["faim", "soif", "peur", "raison"],
+          "forklaring": "avoir faim = \"ha hunger\" = vara hungrig. soif = törst, peur = rädsla."
+        },
+        {
+          "typ": "lucka",
+          "rang": 214,
+          "mening": "Je ___ un peu fatigué aujourd'hui.",
+          "meningSv": "Jag är lite trött idag.",
+          "svar": ["suis"],
+          "alternativ": ["suis", "ai", "es", "est"],
+          "forklaring": "Tillstånd med adjektiv (trött) tar être. avoir används bara i fasta uttryck som avoir faim."
+        },
+        {
+          "typ": "lucka",
+          "rang": 268,
+          "mening": "Tu as ___ ? Il y a de l'eau.",
+          "meningSv": "Är du törstig? Det finns vatten.",
+          "svar": ["soif"],
+          "forklaring": "avoir soif = \"ha törst\" = vara törstig."
+        },
+        {
+          "typ": "lucka",
+          "rang": 117,
+          "mening": "Il y ___ quelqu'un ?",
+          "meningSv": "Är det någon där?",
+          "svar": ["a"],
+          "alternativ": ["a", "est", "as", "ai"],
+          "forklaring": "il y a = \"det finns / det är\" — fast uttryck med avoir i il-form."
+        },
+        {
+          "typ": "val",
+          "fraga": "Hur säger man « Kalle är två år »?",
+          "alternativ": ["Kalle a deux ans.", "Kalle est deux ans.", "Kalle est deux années."],
+          "svar": "Kalle a deux ans.",
+          "forklaring": "Ålder anges med avoir på franska: man \"har\" två år."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken être-form hör ihop med « ils »?",
+          "alternativ": ["sont", "est", "êtes", "sommes"],
+          "svar": "sont",
+          "forklaring": "ils/elles → sont. Hör skillnaden mot ils ont (de har): [il-son] vs [il-zon]."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 262,
+          "ord": ["J'ai", "besoin", "d'un", "café."],
+          "meningSv": "Jag behöver en kaffe.",
+          "forklaring": "avoir besoin de = att behöva (\"ha behov av\"). de + un dras ihop till d'un."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 320,
+          "meningSv": "Hur gammal är du?",
+          "svar": ["Tu as quel âge ?", "Tu as quel âge?", "Quel âge as-tu ?", "Quel âge as-tu?", "Quel âge tu as ?"],
+          "forklaring": "Ålder frågas med avoir: \"Du har vilken ålder?\" — aldrig med être."
+        }
+      ]
+    }
+  ]
+}
