@@ -1,0 +1,65 @@
+{
+  "lektioner": [
+    {
+      "id": 3,
+      "titel": "Vokalerna: u vs ou",
+      "teori": "<p>Här är distinktionen som skiljer <em>tu</em> (du) från <em>tout</em> (allt) och <em>rue</em> (gata) från <em>roue</em> (hjul). Blandar du ihop dem säger du fel ord — inte samma ord med brytning.</p><ul><li><strong>u</strong> ensamt = <strong>[y]</strong>: spänt och främre. Goda nyheter för dig som svensk: det är i princip svenskt <strong>y</strong> som i <em>ny</em>! Forma munnen: rund trut, och säg <em>i</em>. tu [ty], rue [ry], sur [syr].</li><li><strong>ou</strong> = <strong>[u]</strong>: mörkt och bakre, som svenskt <strong>o</strong> i <em>bok</em>. tout [tu], vous [vu], nous [nu], jour [zjor].</li></ul><p>Fällan för svenskar är vårt eget u i <em>hus</em> — det ligger mitt emellan och finns inte på franska. Välj sida varje gång: antingen y-ljudet [y] eller o-ljudet [u], aldrig mellanmjölk.</p><p>Stavningen är faktiskt hundraprocentigt pålitlig här:</p><table><tr><th>Stavning</th><th>Ljud</th><th>Exempel</th></tr><tr><td>u, û</td><td>[y] — säg y!</td><td>tu, rue, sur, sûr</td></tr><tr><td>ou, où, oû</td><td>[u] — säg o!</td><td>tout, vous, où, sous</td></tr></table><p>Träna med minimala par: <em>tu/tout</em>, <em>rue/roue</em>, <em>sur/sous</em>, <em>dessus/dessous</em> (ovanpå/under — där bara vokalen avgör om katten ligger på eller under soffan). Säg dem högt, växla snabbt, känn hur tungan hoppar fram och bak. Fransmän hör skillnaden direkt — snart gör du det också.</p>",
+      "exempel": [
+        { "rang": 46, "fokus": "u = [y]: [ty], som svenskt y" },
+        { "rang": 229, "fokus": "u = [y]: [ry]" },
+        { "rang": 25, "fokus": "u = [y]: [syr]" },
+        { "rang": 620, "fokus": "u = [y]: [vy]" },
+        { "rang": 38, "fokus": "ou = [u]: [tu] — jämför med tu!" },
+        { "rang": 23, "fokus": "ou = [u]: [vu]" },
+        { "rang": 597, "fokus": "ou = [u]: [su]" },
+        { "rang": 65, "fokus": "ou = [u]: [zjor]" },
+        { "rang": 1554, "fokus": "hela paret i ett: [dösy] ovanpå, [dösu] under" }
+      ],
+      "chip": { "monster": "ou", "etikett": "ou [u]" },
+      "sjalvtest": [
+        {
+          "rang": 46,
+          "alternativ": ["tu", "tout"],
+          "ratt": "tu",
+          "forklaring": "Du hörde det främre y-ljudet [ty] = du. tout har det mörka o-ljudet: [tu]."
+        },
+        {
+          "rang": 38,
+          "alternativ": ["tout", "tu"],
+          "ratt": "tout",
+          "forklaring": "Mörkt [u] som i svenska bok: [tu] = allt. tu hade låtit [ty]."
+        },
+        {
+          "rang": 229,
+          "alternativ": ["rue", "roue"],
+          "ratt": "rue",
+          "forklaring": "[ry] med y-ljud = gata. roue [ru] med o-ljud är ett hjul. Kör inte bil på fel."
+        },
+        {
+          "rang": 597,
+          "alternativ": ["sous", "sur"],
+          "ratt": "sous",
+          "forklaring": "[su] med mörkt o-ljud = under. sur [syr] har y-ljud (och ett hörbart r) = på."
+        },
+        {
+          "rang": 620,
+          "alternativ": ["vue", "vous"],
+          "ratt": "vue",
+          "forklaring": "[vy] med y-ljud = utsikt. vous [vu] har o-ljudet."
+        },
+        {
+          "fraga": "Hur formar man franskt u [y]?",
+          "alternativ": ["Rund trut och säg i", "Bred mun och säg o", "Som svenskt u i hus"],
+          "ratt": "Rund trut och säg i",
+          "forklaring": "Rundade läppar + i-tunga = [y], nästan exakt svenskt y i ny. Svenskt u i hus ligger mittemellan och finns inte på franska."
+        },
+        {
+          "fraga": "Vilket ljud har ou i nous och vous?",
+          "alternativ": ["[u] som o i svenska bok", "[y] som svenskt y", "[o] som å i svenska gå"],
+          "ratt": "[u] som o i svenska bok",
+          "forklaring": "Stavningen ou är stenhårt pålitlig: alltid mörkt [u]. nous [nu], vous [vu], jour [zjor]."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "dag": 6,
+  "titel": "Mitt hem",
+  "svenska": "Vi bor i ett litet hus, men jag älskar det. Det finns flera sovrum, ett kök och en liten trädgård med ett träd och blommor. Grannens katt sover ofta under vårt träd. Den tror att det är hans trädgård.\n\nMin favoritplats är kontoret. Där har jag min dator, en stor skärm och mina kort med nya ord. Jessica säger att kontoret inte är rent. Det är inte sant — jag städar varje vecka! Okej, nästan varje vecka.\n\nPå kvällen är huset lugnt. Kalle sover, och jag tänder ett litet ljus. Jag stannar vid fönstret och upprepar mina ord. Jag glömmer aldrig ett ord — men Jessica glömmer alltid lösenordet till wifit. Huset är litet, men min hjärna är stor.",
+  "franska": "Nous habitons dans une petite maison, mais je l'adore. Il y a plusieurs chambres, une cuisine et un petit jardin avec un arbre et des fleurs. Le chat du voisin dort souvent sous notre arbre. Il croit que c'est son jardin.\n\nMon endroit préféré, c'est le bureau. Là, j'ai mon ordinateur, un grand écran et mes cartes avec de nouveaux mots. Jessica dit que le bureau n'est pas propre. Ce n'est pas vrai — je nettoie chaque semaine ! Bon, d'accord : presque chaque semaine.\n\nLe soir, la maison est calme. Kalle dort, et j'allume une petite lumière. Je reste à côté de la fenêtre et je répète mes mots. Je n'oublie jamais un mot — mais Jessica oublie toujours le mot de passe du wifi. La maison est petite, mais mon cerveau est grand.",
+  "lemma": {
+    "est": 4,
+    "ai": 8,
+    "a": 8,
+    "habitons": 142,
+    "petite": 89,
+    "adore": 250,
+    "chambres": 382,
+    "des": 2,
+    "fleurs": 352,
+    "dort": 189,
+    "croit": 88,
+    "préféré": 293,
+    "là": 311,
+    "cartes": 240,
+    "nouveaux": 98,
+    "mots": 155,
+    "dit": 28,
+    "nettoie": 529,
+    "accord": 152,
+    "allume": 532,
+    "reste": 149,
+    "répète": 184,
+    "oublie": 200
+  },
+  "friaOrd": ["Jessica", "Kalle"]
+}

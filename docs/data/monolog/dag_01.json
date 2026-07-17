@@ -1,0 +1,22 @@
+{
+  "dag": 1,
+  "titel": "Jag är Jonas",
+  "svenska": "Jag är Jonas. Jag kommer från Sverige. Jag pratar inte så bra än, men jag förstår redan lite. Vill ni lära känna mig? Då pratar jag lite om mitt liv.\n\nJag har en kvinna och ett barn. Jessica är mitt livs kvinna. Och Kalle, det är mitt barn. Han är liten, men han förstår allt!\n\nFolk säger att jag vet allt. Nej, inte allt! Men jag vet många saker. Nu vill jag ha en sak: jag vill åka till Frankrike och prata som man pratar i Frankrike. Är det för mycket? Nej! Jag kan göra det!",
+  "franska": "Je suis Jonas. Je viens de Suède. Je ne parle pas encore très bien, mais je comprends déjà un peu. Vous voulez me connaître ? Alors, je parle un peu de ma vie.\n\nJ'ai une femme et un enfant. Jessica, c'est la femme de ma vie. Et Kalle, c'est mon enfant. Il est petit, mais il comprend tout !\n\nOn dit que je sais tout. Non, pas tout ! Mais je sais beaucoup de choses. Maintenant, je veux une chose : je veux aller en France et parler comme on parle en France. C'est trop ? Non ! Je peux faire ça !",
+  "lemma": {
+    "suis": 4,
+    "est": 4,
+    "viens": 54,
+    "parle": 61,
+    "comprends": 69,
+    "comprend": 69,
+    "voulez": 47,
+    "veux": 47,
+    "ai": 8,
+    "dit": 28,
+    "sais": 50,
+    "choses": 66,
+    "peux": 36
+  },
+  "friaOrd": ["Jonas", "Jessica", "Kalle", "Suède", "France"]
+}

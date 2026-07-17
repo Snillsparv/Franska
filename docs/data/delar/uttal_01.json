@@ -1,0 +1,66 @@
+{
+  "lektioner": [
+    {
+      "id": 1,
+      "titel": "Alfabetet och accenterna",
+      "teori": "<p>Franskan använder samma alfabet som svenskan (minus å, ä, ö) — men strör sedan små tecken över bokstäverna. De kallas accenter, och de är inte dekoration: de talar om hur ordet låter, eller vilket ord det är.</p><ul><li><strong>é (accent aigu)</strong> — gör e:et till ett spänt [e], som i svenska <em>se</em>: bébé, café, école.</li><li><strong>è (accent grave)</strong> — gör e:et öppet, [ɛ], ungefär som ä i <em>häst</em>: mère, très. På <strong>a</strong> och <strong>u</strong> ändrar samma accent <em>ingenting</em> i uttalet — den skiljer bara ord åt: <em>a</em> (har) mot <em>à</em> (till), <em>ou</em> (eller) mot <em>où</em> (var).</li><li><strong>ê (accent circonflexe)</strong> — den lilla hatten är ofta en gravsten över ett <strong>s</strong> som dog för länge sedan: hôtel var en gång <em>hostel</em>, fête var <em>feste</em>, forêt var <em>forest</em>. Känner du igen de engelska kusinerna? På e låter ê som è: [ɛ].</li><li><strong>ç (cédille)</strong> — svansen tvingar c att låta [s] framför a, o, u: garçon [garsong], ça [sa]. Utan svans hade det blivit [k].</li><li><strong>ï / ë (tréma)</strong> — prickarna betyder: uttala vokalerna var för sig! Jämför <em>mais</em> (men) = [mä] med <em>maïs</em> (majs) = [ma-is]. Och Noël = [no-ell].</li></ul><p>Viktigast av allt: accenterna markerar <strong>aldrig betoning</strong> (som i spanskan). De ändrar ljud — eller betydelse — men aldrig tryck. Lär du dig läsa dem rätt får du gratis uttalshjälp i varje ord.</p>",
+      "exempel": [
+        { "rang": 4, "fokus": "ê = öppet [ɛ], hatten minns ett gammalt s" },
+        { "rang": 6, "fokus": "à låter precis som a — accenten skiljer bara ordet från a (har)" },
+        { "rang": 41, "fokus": "ç = [s]: [sa], aldrig [ka]" },
+        { "rang": 48, "fokus": "où = [u], accenten skiljer det från ou (eller)" },
+        { "rang": 70, "fokus": "två accenter i ett ord: [desja]" },
+        { "rang": 165, "fokus": "ç före o = [s]: [garsong]" },
+        { "rang": 230, "fokus": "ô = gammalt hostel — s:et försvann, hatten blev kvar" },
+        { "rang": 237, "fokus": "ê = [ɛ], en gång feste" },
+        { "rang": 2496, "fokus": "tréma: [aj] — precis som svenskt aj!" },
+        { "rang": 2905, "fokus": "tréma tvingar fram två stavelser: [ma-is]" }
+      ],
+      "chip": { "monster": "[éèêëàâîïôûùç]", "etikett": "accenter" },
+      "sjalvtest": [
+        {
+          "rang": 41,
+          "alternativ": ["ça", "chat"],
+          "ratt": "ça",
+          "forklaring": "Du hörde [sa] — cédillen gör c till [s]. chat börjar med sje-ljud: [scha]."
+        },
+        {
+          "rang": 2905,
+          "alternativ": ["maïs", "mais"],
+          "ratt": "maïs",
+          "forklaring": "Två stavelser, [ma-is] — trémans prickar säger att a och i ska uttalas var för sig. mais (men) är bara [mä]."
+        },
+        {
+          "rang": 237,
+          "alternativ": ["fête", "fait"],
+          "ratt": "fête",
+          "forklaring": "Du hörde [fät] med tydligt t. fait slutar utan hörbart t: [fä]."
+        },
+        {
+          "fraga": "Vad gör svansen (cédillen) i garçon?",
+          "alternativ": ["Gör c till [s]", "Gör c till [k]", "Gör c tyst"],
+          "ratt": "Gör c till [s]",
+          "forklaring": "Framför a, o, u låter c normalt [k] — cédillen tvingar fram [s]: [garsong]."
+        },
+        {
+          "fraga": "Vad står hatten ˆ i hôtel och fête ofta för?",
+          "alternativ": ["Ett s som försvunnit ur språket", "En paus i ordet", "Att stavelsen betonas"],
+          "ratt": "Ett s som försvunnit ur språket",
+          "forklaring": "hostel → hôtel, feste → fête, forest → forêt. Hatten är s:ets gravsten — och en ledtråd till engelska släktingar."
+        },
+        {
+          "fraga": "Accenten på à och où ändrar inte uttalet. Vad gör den?",
+          "alternativ": ["Skiljer ord åt: a/à, ou/où", "Gör vokalen lång", "Visar var betoningen ligger"],
+          "ratt": "Skiljer ord åt: a/à, ou/où",
+          "forklaring": "a (har) och à (till) låter likadant — accenten finns bara för ögat. På e ändrar samma accent däremot ljudet: è = [ɛ]."
+        },
+        {
+          "fraga": "Vilket ljud har é i bébé?",
+          "alternativ": ["[e] som i svenska 'se'", "[ɛ] som ä i 'häst'", "[ə] ett svagt mummel"],
+          "ratt": "[e] som i svenska 'se'",
+          "forklaring": "Accent aigu = spänt [e]: [bebe]. Det öppna ä-ljudet [ɛ] hör till è och ê."
+        }
+      ]
+    }
+  ]
+}

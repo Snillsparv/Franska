@@ -1,0 +1,66 @@
+{
+  "lektioner": [
+    {
+      "id": 4,
+      "titel": "e, é, è och schwa",
+      "teori": "<p>Bokstaven e är franskans kameleont — den har fyra olika liv beroende på vilken hatt den bär och var i ordet den bor:</p><table><tr><th>Skrivs</th><th>Låter</th><th>Exempel</th></tr><tr><td>é</td><td>[e] — spänt, som i svenska <em>se</em></td><td>bébé, été, école</td></tr><tr><td>è, ê</td><td>[ɛ] — öppet, som ä i <em>häst</em></td><td>mère, très, tête</td></tr><tr><td>e (utan accent)</td><td>[ə] — schwa, ett svagt \"ö-mummel\"</td><td>je, le, semaine</td></tr><tr><td>e i slutet av ord</td><td>ingenting alls</td><td>madame, semaine</td></tr></table><p>Knepet för svenska öron: <strong>é är e-ljudet i <em>se</em>, è och ê är ä-ljudet i <em>häst</em></strong>. Säg <em>bébé</em> [bebe] och <em>mère</em> [mär] efter varandra så hör du skillnaden — spänt uppåt mot öppet neråt.</p><p><strong>Schwa</strong> [ə] är det avslappnade lilla ljudet i je, le, de — ungefär ett trött svenskt ö. Det är franskans mest bortslarvade vokal: i vardagligt tal försvinner det ofta helt. <em>samedi</em> blir [sam-di], <em>je ne sais pas</em> blir [zjöspa]. Ju snabbare talet, desto fler schwan ryker.</p><p>Och <strong>slut-e är alltid tyst</strong>: madame = [madamm], två stavelser, inte tre. Men minns från förra lektionen: det tysta e:et gör jobbet ändå — det tvingar konsonanten framför att höras (petit/petite).</p><p>En sista regel på köpet: e utan accent i en stängd stavelse (före dubbelkonsonant eller uttalad slutkonsonant) låter också [ɛ]: <em>elle</em> [äll], <em>avec</em> [avek]. Så: hatt uppåt = [e], hatt neråt = [ä], ingen hatt = mummel eller tystnad.</p>",
+      "exempel": [
+        { "rang": 163, "fokus": "é = [e] två gånger: [bebe]" },
+        { "rang": 225, "fokus": "é = [e]: [ekåll]" },
+        { "rang": 367, "fokus": "[ete] — båda e:na spända" },
+        { "rang": 45, "fokus": "è = [ɛ]: [trä]" },
+        { "rang": 134, "fokus": "è = [ɛ]: [pär]" },
+        { "rang": 135, "fokus": "è = [ɛ]: [mär]" },
+        { "rang": 220, "fokus": "ê = [ɛ]: [tät]" },
+        { "rang": 384, "fokus": "[fönätr] — schwa först, ä-ljud i mitten" },
+        { "rang": 127, "fokus": "[sömän] — schwa i början, tyst e på slutet" },
+        { "rang": 132, "fokus": "[madamm] — slut-e:et hörs inte alls" }
+      ],
+      "chip": { "monster": "[éèê]", "etikett": "é è ê" },
+      "sjalvtest": [
+        {
+          "rang": 367,
+          "alternativ": ["été", "était"],
+          "ratt": "été",
+          "forklaring": "Du hörde två spända [e]: [ete] = sommar. était slutar öppet: [etä]."
+        },
+        {
+          "rang": 10,
+          "alternativ": ["je", "j'ai"],
+          "ratt": "je",
+          "forklaring": "Du hörde schwa-mumlet [zjö] = jag. j'ai har det spända e-ljudet: [zje] = jag har."
+        },
+        {
+          "fraga": "Vilken accent ger e-ljudet [e], som i svenska 'se'?",
+          "alternativ": ["é (accent aigu)", "è (accent grave)", "ê (accent circonflexe)"],
+          "ratt": "é (accent aigu)",
+          "forklaring": "é = spänt [e]. Både è och ê ger det öppna ä-ljudet [ɛ]."
+        },
+        {
+          "fraga": "Hur många stavelser hörs i madame?",
+          "alternativ": ["Två", "Tre", "En"],
+          "ratt": "Två",
+          "forklaring": "[ma-damm] — slut-e:et är tyst. Det syns men tiger."
+        },
+        {
+          "fraga": "Vilket e brukar försvinna när samedi sägs i vanlig samtalsfart?",
+          "alternativ": ["Det i mitten", "Det första", "Inget — alla hörs"],
+          "ratt": "Det i mitten",
+          "forklaring": "Schwat i mitten stryker med: [sam-di]. Vardagsfranskan slänger schwan så fort den får chansen."
+        },
+        {
+          "fraga": "Hur uttalas slut-e:et i semaine?",
+          "alternativ": ["Det är tyst", "[e] som i se", "[ɛ] som ä i häst"],
+          "ratt": "Det är tyst",
+          "forklaring": "[sömän] — e i slutet av ord uttalas inte. Men det gör n:et framför hörbart."
+        },
+        {
+          "fraga": "Vad är schwa [ə] för ljud?",
+          "alternativ": ["Ett svagt ö-mummel, som i je och le", "Ett skarpt i-ljud", "Ett långt a"],
+          "ratt": "Ett svagt ö-mummel, som i je och le",
+          "forklaring": "Schwa är franskans mest avslappnade vokal — ett kort, trött ö. Och i snabbt tal hoppar den ofta av helt."
+        }
+      ]
+    }
+  ]
+}

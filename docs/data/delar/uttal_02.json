@@ -1,0 +1,65 @@
+{
+  "lektioner": [
+    {
+      "id": 2,
+      "titel": "Tysta slutbokstäver",
+      "teori": "<p>Franskans mest kända hyss: massor av bokstäver skrivs — men uttalas inte. Grundregeln är enkel:</p><p><strong>En konsonant i slutet av ett ord är normalt tyst.</strong></p><ul><li>petit = [pöti], grand = [grang], trop = [tro], beaucoup = [boku]</li><li>temps tappar hela två bokstäver: [tang]</li><li>chat = [scha] — katten smyger till och med i uttalet</li></ul><p>Men vissa konsonanter vägrar tystna. Minnesregeln är engelskans <strong>CaReFuL</strong> — konsonanterna <strong>c, r, f, l</strong> hörs oftast i slutet:</p><ul><li><strong>c</strong>: avec [avek]</li><li><strong>r</strong>: hiver [ivär], bonjour [bongjor]</li><li><strong>f</strong>: chef [schef], neuf [nöf]</li><li><strong>l</strong>: sel [säll], hôtel [åtell]</li></ul><p>Var dock <em>careful</em> med CaReFuL: i verbändelsen <strong>-er</strong> (parler, manger) är r:et tyst — de slutar på [e]. Och några rebeller uttalar sin slutkonsonant fast de inte borde: <em>mars</em> [mars], <em>bus</em> [byss], <em>huit</em> [ytt].</p><p>Ett knep till: slut-<strong>e</strong> är tyst, men det väcker konsonanten framför till liv. Jämför petit [pöti] med petite [pötitt], grand [grang] med grande [grangd]. Det är så franskan skiljer maskulint från feminint i talet — inte med e:et, utan med konsonanten som plötsligt hörs.</p><p>Så när du ser ett franskt ord: läs fram till sista vokalen, och fråga dig sedan om slutkonsonanten är en CaReFuL-bokstav. Oftast är svaret annars: släpp den.</p>",
+      "exempel": [
+        { "rang": 64, "fokus": "ps helt tyst: [tang]" },
+        { "rang": 73, "fokus": "p:et tyst: [boku]" },
+        { "rang": 83, "fokus": "p:et tyst: [tro]" },
+        { "rang": 89, "fokus": "t:et tyst: [pöti] — men petite = [pötitt]" },
+        { "rang": 90, "fokus": "d:et tyst: [grang] — men grande = [grangd]" },
+        { "rang": 202, "fokus": "t:et tyst: [saly]" },
+        { "rang": 347, "fokus": "t:et tyst: [scha]" },
+        { "rang": 37, "fokus": "CaReFuL: c:et hörs — [avek]" },
+        { "rang": 368, "fokus": "CaReFuL: r:et hörs — [ivär]" },
+        { "rang": 499, "fokus": "CaReFuL: f:et hörs — [schef]" }
+      ],
+      "sjalvtest": [
+        {
+          "rang": 347,
+          "alternativ": ["chat", "chatte"],
+          "ratt": "chat",
+          "forklaring": "Du hörde [scha] utan t — alltså hankatten chat. I chatte väcker slut-e:et t:et: [schatt]."
+        },
+        {
+          "rang": 89,
+          "alternativ": ["petit", "petite"],
+          "ratt": "petit",
+          "forklaring": "[pöti] — inget t på slutet. petite hade låtit [pötitt]."
+        },
+        {
+          "rang": 90,
+          "alternativ": ["grand", "grande"],
+          "ratt": "grand",
+          "forklaring": "[grang] — d:et är tyst. I grande hörs det: [grangd]."
+        },
+        {
+          "rang": 37,
+          "alternativ": ["avec", "avez"],
+          "ratt": "avec",
+          "forklaring": "Du hörde [avek] — c är en CaReFuL-bokstav och uttalas. avez slutar på tyst z: [ave]."
+        },
+        {
+          "fraga": "Vilka slutkonsonanter uttalas oftast (minnesregeln CaReFuL)?",
+          "alternativ": ["c, r, f, l", "t, d, s", "p, x, z"],
+          "ratt": "c, r, f, l",
+          "forklaring": "CaReFuL: c, r, f och l hörs för det mesta — avec, hiver, chef, sel. Övriga slutkonsonanter är normalt tysta."
+        },
+        {
+          "fraga": "Hur uttalas temps?",
+          "alternativ": ["[tang]", "[tangps]", "[temps]"],
+          "ratt": "[tang]",
+          "forklaring": "Både p och s är tysta — kvar blir bara den nasala vokalen: [tang]. Tre bokstäver skrivs, noll hörs."
+        },
+        {
+          "fraga": "I vilket av orden HÖRS slut-s:et?",
+          "alternativ": ["mars", "jus", "temps"],
+          "ratt": "mars",
+          "forklaring": "mars är en rebell: [mars], s:et hörs! I jus [zjy] och temps [tang] är s:et tyst som vanligt."
+        }
+      ]
+    }
+  ]
+}

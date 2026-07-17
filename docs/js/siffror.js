@@ -5,8 +5,11 @@ import { spela, stoppa } from './audio.js';
 import { talTillFranska, sammaFranska, rattSiffersvar } from './nummer.js';
 
 let pass = null;
+let passToken = 0;   // ogiltigförklarar fördröjda "nästa fråga" efter navigering
 
 export function visaSiffror(el, nivaId) {
+  passToken += 1;
+  pass = null;
   if (!nivaId) return visaNivaval(el);
   const niva = getSiffror().nivaer.find(n => n.id === Number(nivaId));
   if (!niva) return visaNivaval(el);
@@ -55,11 +58,13 @@ function startaPass(el, niva, lage) {
     niva, lage, ratt: 0, fel: 0, tider: [],
     slut: lage === 'tempo' ? Date.now() + 60000 : null,
     antal: lage === 'tempo' ? Infinity : 10,
+    token: ++passToken,
   };
   nastaFraga(el);
 }
 
 function nastaFraga(el) {
+  if (!pass || pass.token !== passToken) return;
   stoppa();
   if (pass.slut && Date.now() >= pass.slut) return visaResultat(el);
   if (pass.ratt + pass.fel >= pass.antal) return visaResultat(el);
@@ -110,7 +115,9 @@ function visaBlixt(el, post) {
         : `<p class="dampad centrerad">Vilket är rätt på franska?</p><div class="val-lista" id="val"></div>`}
       <p id="feedback"></p>
     </div>`);
+  const token = pass.token;
   setTimeout(() => {
+    if (!pass || pass.token !== token) return;
     const blixt = el.querySelector('#blixt');
     if (!blixt) return;
     blixt.textContent = '···';
@@ -152,7 +159,8 @@ function bedom(el, post, ratt, facit) {
     ? `<span class="ratt">✓ Rätt!</span> <span class="dampad">${esc(facit)}</span>`
     : `<span class="fel">✗ Fel.</span> ${esc(facit)}`;
   el.querySelectorAll('input,button:not(.ljud-knapp)').forEach(b => { b.disabled = true; });
-  setTimeout(() => nastaFraga(el), ratt ? 900 : 2200);
+  const token = pass.token;
+  setTimeout(() => { if (pass && pass.token === token) nastaFraga(el); }, ratt ? 900 : 2200);
 }
 
 function visaResultat(el) {
