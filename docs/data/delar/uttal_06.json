@@ -1,0 +1,65 @@
+{
+  "lektioner": [
+    {
+      "id": 6,
+      "titel": "Nasalerna: on, an/en, in/ain, un",
+      "teori": "<p>Nu kommer franskans mest franska ljud: <strong>nasalvokalerna</strong> — vokaler som går ut genom munnen <em>och</em> näsan samtidigt. Testa: håll fingrarna lätt på näsryggen och säg <em>bon</em>. Kittlar det? Då nasalerar du!</p><p>Grundregeln: <strong>vokal + n eller m i samma stavelse</strong> smälter ihop till en nasal vokal. Själva n:et eller m:et uttalas <em>inte</em> — det har gjort sitt jobb genom att färga vokalen. Vanligaste svenskfelet är att ändå säga n:et: <em>dans</em> är [dɑ̃], aldrig [dans]!</p><table><tr><th>Stavning</th><th>Ljud</th><th>Knep</th><th>Exempel</th></tr><tr><td>on, om</td><td>[ɔ̃]</td><td>rundat å i näsan</td><td>non, bon, maison</td></tr><tr><td>an, en, am, em</td><td>[ɑ̃]</td><td>öppet, gäspigt a</td><td>dans, temps, enfant</td></tr><tr><td>in, ain, ein, im, (i)en</td><td>[ɛ̃]</td><td>ä i näsan — le!</td><td>matin, pain, bien</td></tr><tr><td>un, um</td><td>[œ̃]</td><td>ö i näsan</td><td>un, lundi</td></tr></table><p>Goda nyheter: de flesta fransmän uttalar numera [œ̃] precis som [ɛ̃], så <em>un</em> och <em>vin</em> rimmar. Tre nasaler räcker alltså långt — men håll isär dem, för <em>vin</em> [vɛ̃] (vin), <em>vent</em> [vɑ̃] (vind) och <em>vont</em> [vɔ̃] (de går) är tre helt olika ord som bara skiljer sig i näsan.</p><p><strong>När nasalen bryts:</strong> följs n/m av en vokal, eller dubblas konsonanten, vaknar n:et till liv och nasalen försvinner: <em>bon</em> [bɔ̃] men <em>bonne</em> [bɔn], <em>an</em> [ɑ̃] men <em>année</em> [ane], <em>un</em> [œ̃] men <em>une</em> [yn].</p><p>Ett klassiskt undantag att memorera: <em>monsieur</em> uttalas [məsjø] — ingen nasal alls, trots stavningen.</p>",
+      "exempel": [
+        { "rang": 43, "fokus": "on = [ɔ̃]: [nɔ̃] — rundat å i näsan" },
+        { "rang": 56, "fokus": "[bɔ̃] — jämför bonne [bɔn], där nasalen bryts" },
+        { "rang": 16, "fokus": "an = [ɑ̃]: [dɑ̃] — säg inte n:et!" },
+        { "rang": 64, "fokus": "em = samma [ɑ̃], ps tyst: [tɑ̃]" },
+        { "rang": 93, "fokus": "dubbelnasal: [ɑ̃fɑ̃]" },
+        { "rang": 124, "fokus": "in = [ɛ̃]: [matɛ̃] — ä i näsan" },
+        { "rang": 269, "fokus": "ain = samma [ɛ̃]: [pɛ̃]" },
+        { "rang": 1312, "fokus": "[vɛ̃] — nasal, n:et hörs inte" },
+        { "rang": 3, "fokus": "un [œ̃] men une [yn] — vokalen bryter nasalen" }
+      ],
+      "chip": { "monster": "(an|en|on|in|ain|ein|oin|un)($|[^aeiouéèêëîïôûünm])", "etikett": "nasaler" },
+      "sjalvtest": [
+        {
+          "rang": 1312,
+          "alternativ": ["vin", "vent"],
+          "ratt": "vin",
+          "forklaring": "Du hörde ä-nasalen [ɛ̃]: [vɛ̃] = vin. vent uttalas med öppet [ɑ̃]: [vɑ̃]."
+        },
+        {
+          "rang": 825,
+          "alternativ": ["vent", "vont", "vin"],
+          "ratt": "vent",
+          "forklaring": "Öppet, gäspigt [ɑ̃]: [vɑ̃] = vind. vont är [vɔ̃] och vin är [vɛ̃] — tre ord, tre nasaler."
+        },
+        {
+          "rang": 86,
+          "alternativ": ["an", "on"],
+          "ratt": "an",
+          "forklaring": "an = [ɑ̃], öppet som en gäspning. on = [ɔ̃] med rundade läppar, som å i näsan."
+        },
+        {
+          "rang": 269,
+          "alternativ": ["pain", "pont", "pan"],
+          "ratt": "pain",
+          "forklaring": "ain = [ɛ̃], ä i näsan med ett leende: [pɛ̃] = bröd. pont [pɔ̃] = bro, pan [pɑ̃] = flik."
+        },
+        {
+          "rang": 56,
+          "alternativ": ["bon", "bain", "banc"],
+          "ratt": "bon",
+          "forklaring": "Rundat [ɔ̃]: [bɔ̃] = bra. bain [bɛ̃] = bad och banc [bɑ̃] = bänk har de andra nasalerna."
+        },
+        {
+          "fraga": "Vad händer med nasalen när n:et dubblas eller följs av en vokal, som i bonne?",
+          "alternativ": ["Den försvinner — bonne = [bɔn]", "Den blir extra stark", "Ingenting, bon och bonne låter likadant"],
+          "ratt": "Den försvinner — bonne = [bɔn]",
+          "forklaring": "Före vokal eller dubbelt n/m vaknar konsonanten: bon [bɔ̃] men bonne [bɔn], un [œ̃] men une [yn]."
+        },
+        {
+          "fraga": "Vilket ljud har an/en i dans, temps och enfant?",
+          "alternativ": ["[ɑ̃] — öppet a i näsan", "[ɔ̃] — rundat å i näsan", "[ɛ̃] — ä i näsan"],
+          "ratt": "[ɑ̃] — öppet a i näsan",
+          "forklaring": "an, en, am och em ger alla samma öppna nasal [ɑ̃]: [dɑ̃], [tɑ̃], [ɑ̃fɑ̃]."
+        }
+      ]
+    }
+  ]
+}

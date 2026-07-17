@@ -1,0 +1,31 @@
+{
+  "dag": 26,
+  "titel": "Vad som krävs för att lyckas",
+  "svenska": "Vad krävs det för att lyckas med ett galet projekt som det här? Först måste jag ha tålamod. 100 ord om dagen, det är inte ingenting. Jag måste göra mina övningar varje dag, även när jag är trött, och jag måste sova bra — en trött hjärna kommer inte ihåg någonting.\n\nFamiljen måste också ha tålamod. Jessica måste acceptera en man som pratar franska i köket, och Kalle får inte tro att hans pappa är galen. Han förstår redan: hans pappa är världsmästare, och världsmästare är lite konstiga.\n\nTill slut måste jag tro på min hjärna. Om den kan komma ihåg 1 000 kort, kan den lära sig 3 000 ord. Jag måste bara fortsätta, dag efter dag, ända till slutet.",
+  "franska": "Qu'est-ce qu'il faut pour réussir un projet fou comme ça ? D'abord, il faut que j'aie de la patience. 100 mots par jour, ce n'est pas rien. Il faut que je fasse mes exercices chaque jour, même quand je suis fatigué, et il faut que je dorme bien — un cerveau fatigué ne retient rien.\n\nIl faut aussi que la famille ait de la patience. Il faut que Jessica accepte un homme qui parle français dans la cuisine, et il ne faut pas que Kalle pense que son papa est fou. Il comprend déjà : son papa est champion du monde, et les champions du monde sont un peu bizarres.\n\nEnfin, il faut que je croie en mon cerveau. S'il peut retenir 1 000 cartes, il peut apprendre 3 000 mots. Il faut juste que je continue, jour après jour, jusqu'à la fin.",
+  "lemma": {
+    "faut": 82,
+    "est": 4,
+    "suis": 4,
+    "sont": 4,
+    "aie": 8,
+    "ait": 8,
+    "fasse": 26,
+    "dorme": 189,
+    "croie": 88,
+    "abord": 177,
+    "mots": 155,
+    "exercices": 1799,
+    "retient": 739,
+    "accepte": 333,
+    "parle": 61,
+    "pense": 79,
+    "comprend": 69,
+    "champions": 1204,
+    "bizarres": 588,
+    "cartes": 240,
+    "peut": 36,
+    "continue": 337
+  },
+  "friaOrd": ["Jessica", "Kalle"]
+}

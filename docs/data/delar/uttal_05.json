@@ -1,0 +1,66 @@
+{
+  "lektioner": [
+    {
+      "id": 5,
+      "titel": "oi, au/eau, ai/ei",
+      "teori": "<p>Franskan älskar att stava ett ljud med flera bokstäver. Dagens tre gäng ser krångliga ut på papper men följer stenhårda regler — lär dig dem en gång och du kan läsa tusentals ord rätt:</p><table><tr><th>Stavning</th><th>Ljud</th><th>Exempel</th></tr><tr><td><strong>oi</strong></td><td>[wa]</td><td>moi, trois, voiture</td></tr><tr><td><strong>au / eau</strong></td><td>[o] — som å i <em>gå</em></td><td>chaud, gâteau, eau</td></tr><tr><td><strong>ai / ei</strong></td><td>[ɛ] — som ä i <em>häst</em></td><td>maison, neige</td></tr></table><p><strong>oi = [wa]</strong> är den mest ökända. Skriv <em>oi</em>, säg [wa]: moi [mwa], toi [twa], fois [fwa], froid [frwa]. Kungen själv stavas roi och uttalas [rwa]. Varken [oj] eller [å-i] — alltid [wa].</p><p><strong>au och eau = [o]</strong>. Ja, alla tre bokstäverna i eau blir ett enda ljud: ordet för vatten, <em>eau</em>, uttalas kort och gott [å]. Fyra bokstäver i gâteau — uttalet slutar ändå bara på [gatå]. Maximal stavning, minimal utdelning: väldigt franskt.</p><p><strong>ai och ei = [ɛ]</strong>, samma ä-ljud som è: maison [mäså(ng)], faire [fär], neige [näzj], vrai [vrä]. Därför låter <em>mais</em> (men) bara [mä].</p><p>Två varningsskyltar innan du rusar iväg: får kombinationerna ett <strong>n eller m</strong> på släp blir de nasala — <em>ain/aim</em> och <em>oin</em> låter annorlunda (loin är [lwäng], inte [lwan]). Dem tar vi i nästa lektion. Och i <em>travailler</em> är det <em>ill</em> som styr, inte ai. Men i den här lektionen gäller grundregeln: oi säger [wa], au/eau säger [o], ai/ei säger [ä].</p>",
+      "exempel": [
+        { "rang": 111, "fokus": "oi = [wa]: [twa]" },
+        { "rang": 97, "fokus": "oi = [wa]: [fwa]" },
+        { "rang": 210, "fokus": "oi = [wa], d:et tyst: [frwa]" },
+        { "rang": 141, "fokus": "tre bokstäver, ett ljud: [å]" },
+        { "rang": 168, "fokus": "eau = [o]: [bå]" },
+        { "rang": 209, "fokus": "au = [o], d:et tyst: [schå]" },
+        { "rang": 513, "fokus": "â + eau: [gatå]" },
+        { "rang": 137, "fokus": "ai = [ɛ]: [mäså(ng)]" },
+        { "rang": 159, "fokus": "ai = [ɛ]: [vrä]" },
+        { "rang": 213, "fokus": "ei = [ɛ]: [näzj]" }
+      ],
+      "chip": { "monster": "oi(?!n)|au|ai(?![lnm])|ei(?![lnm])", "etikett": "oi/au/ai" },
+      "sjalvtest": [
+        {
+          "rang": 111,
+          "alternativ": ["toi", "tout"],
+          "ratt": "toi",
+          "forklaring": "Du hörde [twa] — oi säger alltid [wa]. tout hade låtit [tu]."
+        },
+        {
+          "rang": 141,
+          "alternativ": ["eau", "ou"],
+          "ratt": "eau",
+          "forklaring": "Ett rent [å] = eau, vatten. ou hade varit det mörka [u]-ljudet."
+        },
+        {
+          "rang": 210,
+          "alternativ": ["froid", "froide"],
+          "ratt": "froid",
+          "forklaring": "[frwa] utan hörbart d = maskulint kall. froide låter [frwad]."
+        },
+        {
+          "rang": 35,
+          "alternativ": ["mais", "mois"],
+          "ratt": "mais",
+          "forklaring": "Du hörde [mä] — ai = ä-ljud, s:et tyst. mois (månad) hade låtit [mwa]."
+        },
+        {
+          "rang": 213,
+          "alternativ": ["neige", "nage"],
+          "ratt": "neige",
+          "forklaring": "[näzj] med ä-ljud = snö. nage (simmar) har a-ljud: [nazj]."
+        },
+        {
+          "fraga": "Hur uttalas oi i moi och trois?",
+          "alternativ": ["[wa]", "[oj]", "[å]"],
+          "ratt": "[wa]",
+          "forklaring": "Alltid [wa]: moi [mwa], trois [trwa], voiture [vwatyr]. Aldrig [oj] som i svenska hoj."
+        },
+        {
+          "fraga": "Vilka stavningar uttalas [o] (som å i 'gå')?",
+          "alternativ": ["au och eau", "ai och ei", "oi och ou"],
+          "ratt": "au och eau",
+          "forklaring": "au och eau = [o]: chaud, gâteau, eau. ai/ei ger ä-ljud och oi ger [wa]."
+        }
+      ]
+    }
+  ]
+}

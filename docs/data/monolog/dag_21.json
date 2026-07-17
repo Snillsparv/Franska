@@ -1,0 +1,28 @@
+{
+  "dag": 21,
+  "titel": "Nästa år",
+  "svenska": "Nästa år kommer jag att prata franska. Inte som en fransman, men bra. Vi kommer att åka tillbaka till Frankrike, och den här gången kommer jag att förstå människorna på gatan. På kaféet kommer jag att beställa på franska, utan att peka på menyn med fingret.\n\nKalle kommer att vara större, och han kommer kanske att ställa sina frågor på franska. Jessica säger: \"Jag kommer bara att lära mig de viktiga orden: merci, salut och chocolat.\" Hon skrattar, men jag känner henne: hon kommer att lära sig snabbt.\n\nOch jag? Jag blir kanske världsmästare i minne en gång till. Eller så blir jag bara en lycklig man, i Frankrike med min familj. Vi får se. Framtiden är som ett nytt ord: man kan det inte än, men man kommer att lära sig det.",
+  "franska": "L'année prochaine, je parlerai français. Pas comme un Français, mais bien. Nous retournerons en France, et cette fois, je comprendrai les gens dans la rue. Au café, je commanderai en français, sans montrer la carte avec le doigt.\n\nKalle sera plus grand, et il posera ses questions en français, peut-être. Jessica dit : « Moi, j'apprendrai seulement les mots importants : merci, salut et chocolat. » Elle rit, mais je la connais : elle va apprendre vite.\n\nEt moi ? Je serai peut-être encore une fois champion du monde de mémoire. Ou je serai juste un homme heureux, en France avec ma famille. On verra. L'avenir, c'est comme un mot nouveau : on ne le connaît pas encore, mais on va l'apprendre.",
+  "lemma": {
+    "parlerai": 61,
+    "retournerons": 465,
+    "comprendrai": 69,
+    "commanderai": 751,
+    "sera": 4,
+    "serai": 4,
+    "est": 4,
+    "posera": 325,
+    "questions": 157,
+    "apprendrai": 154,
+    "importants": 376,
+    "dit": 28,
+    "rit": 399,
+    "connais": 87,
+    "connaît": 87,
+    "va": 40,
+    "verra": 53,
+    "mots": 155,
+    "peut": 36
+  },
+  "friaOrd": ["Jessica", "Kalle", "France"]
+}

@@ -1,0 +1,229 @@
+{
+  "kapitel": [
+    {
+      "id": 7,
+      "titel": "Adjektivets placering och böjning",
+      "teori": "<p>Franska adjektiv gör två saker som svenska adjektiv slipper tänka lika mycket på: de <strong>böjs efter substantivets genus och antal</strong>, och de <strong>står oftast efter substantivet</strong>.</p><p><strong>Böjning — grundreceptet:</strong></p><table class=\"enkel\"><tr><th></th><th>maskulinum</th><th>femininum</th></tr><tr><td>singular</td><td>grand</td><td>grand<strong>e</strong></td></tr><tr><td>plural</td><td>grand<strong>s</strong></td><td>grand<strong>es</strong></td></tr></table><p>Alltså: <strong>+e</strong> för femininum, <strong>+s</strong> för plural (båda oftast tysta i tal!). Slutar adjektivet redan på -e ändras inget i femininum: <em>un endroit calme, une ville calme</em>. Vanliga specialmönster: <em>-eux → -euse</em> (heureux → heureuse), <em>-er → -ère</em> (cher → chère), <em>-f → -ve</em> (sportif → sportive).</p><p><strong>Placering:</strong> huvudregeln är EFTER substantivet — tvärtom mot svenskan: <em>le vin rouge</em> (det röda vinet), <em>un bâtiment ancien</em>. Färger och nationaliteter står <em>alltid</em> efter: <em>la maison jaune</em>, <em>un ami français</em>.</p><p>Men en liten grupp korta vanliga adjektiv står FÖRE. Minneskrok: <strong>BAGS</strong> —</p><ul><li><strong>B</strong>eauty: beau, joli — <em>un beau pays</em></li><li><strong>A</strong>ge: jeune, vieux, nouveau — <em>un jeune homme</em></li><li><strong>G</strong>oodness: bon, mauvais — <em>une bonne idée</em></li><li><strong>S</strong>ize: grand, petit, gros — <em>un grand jour, un petit café</em></li></ul><p>Tre skönhetar är extra oregelbundna: <em>beau/bel/belle</em>, <em>nouveau/nouvel/nouvelle</em>, <em>vieux/vieil/vieille</em> — mellanformen (<em>bel, nouvel, vieil</em>) används före maskulina ord som börjar på vokal: <em>un bel endroit</em>.</p><p>Snabbtest när du skriver: 1) Vilket genus har substantivet? 2) Singular eller plural? 3) BAGS eller inte? Tre frågor — sedan sitter formen.</p>",
+      "ovningar": [
+        {
+          "typ": "val",
+          "fraga": "Var placeras färgadjektivet? 'en vit katt' =",
+          "alternativ": [
+            "un chat blanc",
+            "un blanc chat"
+          ],
+          "svar": "un chat blanc",
+          "forklaring": "Färger står alltid efter substantivet: un chat blanc, le vin rouge."
+        },
+        {
+          "typ": "lucka",
+          "rang": 90,
+          "mening": "C'est un ___ jour !",
+          "meningSv": "Det är en stor dag!",
+          "svar": [
+            "grand"
+          ],
+          "forklaring": "jour är maskulinum singular → grundformen grand utan ändelse.",
+          "alternativ": [
+            "grand",
+            "grande",
+            "grands",
+            "grandes"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 624,
+          "mening": "Ta robe est très ___ !",
+          "meningSv": "Din klänning är jättefin!",
+          "svar": [
+            "belle"
+          ],
+          "forklaring": "robe är femininum singular → belle. beau är maskulinformen.",
+          "alternativ": [
+            "belle",
+            "beau",
+            "bel",
+            "belles"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 214,
+          "mening": "Je suis un peu ___ aujourd'hui.",
+          "meningSv": "Jag är lite trött idag.",
+          "svar": [
+            "fatigué"
+          ],
+          "forklaring": "Jonas talar om sig själv: maskulinum singular → fatigué. En kvinna säger fatiguée.",
+          "alternativ": [
+            "fatigué",
+            "fatiguée",
+            "fatigués",
+            "fatiguées"
+          ]
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 359,
+          "ord": [
+            "Le",
+            "vin",
+            "rouge,",
+            "s'il",
+            "vous",
+            "plaît."
+          ],
+          "meningSv": "Rödvinet, tack.",
+          "forklaring": "Färgen efter substantivet: le vin rouge, inte 'le rouge vin'."
+        },
+        {
+          "typ": "lucka",
+          "rang": 172,
+          "mening": "C'est la ___ fois.",
+          "meningSv": "Det är första gången.",
+          "svar": [
+            "première"
+          ],
+          "forklaring": "fois är femininum → première. premier är maskulinformen (le premier jour).",
+          "alternativ": [
+            "première",
+            "premier",
+            "premières",
+            "premiers"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 457,
+          "mening": "Ma valise est trop ___ !",
+          "meningSv": "Min resväska är för liten!",
+          "svar": [
+            "petite"
+          ],
+          "forklaring": "valise är femininum singular → petite med -e.",
+          "alternativ": [
+            "petite",
+            "petit",
+            "petites",
+            "petits"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 115,
+          "mening": "Leurs enfants sont ___.",
+          "meningSv": "Deras barn är stora.",
+          "svar": [
+            "grands"
+          ],
+          "forklaring": "enfants är maskulinum plural → grands med -s (som är tyst i tal!).",
+          "alternativ": [
+            "grands",
+            "grand",
+            "grande",
+            "grandes"
+          ]
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket adjektiv står FÖRE substantivet?",
+          "alternativ": [
+            "grand",
+            "rouge",
+            "français",
+            "moderne"
+          ],
+          "svar": "grand",
+          "forklaring": "grand hör till BAGS-gruppen (Size) och står före: un grand jour. Färg, nationalitet och de flesta andra står efter."
+        },
+        {
+          "typ": "lucka",
+          "rang": 371,
+          "mening": "Les Français sont ___ !",
+          "meningSv": "Fransmännen är trevliga!",
+          "svar": [
+            "sympas"
+          ],
+          "forklaring": "Les Français är plural → sympas med -s. sympa är kortform av sympathique och böjs bara i antal.",
+          "alternativ": [
+            "sympas",
+            "sympa",
+            "sympases",
+            "sympa's"
+          ]
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 808,
+          "ord": [
+            "C'est",
+            "un",
+            "bâtiment",
+            "ancien."
+          ],
+          "meningSv": "Det är en gammal byggnad.",
+          "forklaring": "ancien (gammal) följer huvudregeln och står efter substantivet: un bâtiment ancien."
+        },
+        {
+          "typ": "lucka",
+          "rang": 362,
+          "mening": "Le ciel est ___ !",
+          "meningSv": "Himlen är blå!",
+          "svar": [
+            "bleu"
+          ],
+          "forklaring": "ciel är maskulinum singular → bleu utan extra ändelse.",
+          "alternativ": [
+            "bleu",
+            "bleue",
+            "bleus",
+            "bleues"
+          ]
+        },
+        {
+          "typ": "oversatt",
+          "rang": 374,
+          "meningSv": "Vad fint det är här!",
+          "svar": [
+            "C'est joli ici !",
+            "C'est joli ici."
+          ],
+          "forklaring": "Efter c'est står adjektivet alltid i maskulinum singular: c'est joli."
+        },
+        {
+          "typ": "lucka",
+          "rang": 168,
+          "mening": "La France, c'est un ___ pays.",
+          "meningSv": "Frankrike är ett vackert land.",
+          "svar": [
+            "beau"
+          ],
+          "forklaring": "pays är maskulinum och börjar på konsonant → beau. bel används bara före vokal (un bel endroit).",
+          "alternativ": [
+            "beau",
+            "bel",
+            "belle",
+            "beaux"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 806,
+          "mening": "Le bus est ___.",
+          "meningSv": "Bussen är långsam.",
+          "svar": [
+            "lent"
+          ],
+          "forklaring": "bus är maskulinum singular → lent. lente är femininformen.",
+          "alternativ": [
+            "lent",
+            "lente",
+            "lents",
+            "lentes"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "dag": 17,
+  "titel": "En liten berättelse",
+  "svenska": "Jag ska berätta en liten historia för er. I söndags morse var det fint väder och jag var på gott humör. Jag ville gå till marknaden med Kalle. Men det fanns ett problem: jag hittade inte mina nycklar. Världsmästaren i minne mindes inte längre sina nycklar!\n\nJag letade överallt: i min jacka, under sängen, bakom soffan. Ingenting. Jessica skrattade och Kalle letade med mig. Till slut öppnade jag kylskåpet — och voilà! Nycklarna var där, bredvid osten. Varför? Jag vet inte.\n\nVi gick till marknaden en timme senare. Jag köpte bröd och jordgubbar. Nu säger Jessica att mitt minne är som ett kylskåp: kallt men fullt av överraskningar.",
+  "franska": "Je vais vous raconter une petite histoire. Dimanche matin, il faisait beau et j'étais de bonne humeur. Je voulais aller au marché avec Kalle. Mais il y avait un problème : je ne trouvais pas mes clés. Le champion du monde de la mémoire ne se souvenait plus de ses clés !\n\nJ'ai cherché partout : dans ma veste, sous le lit, derrière le canapé. Rien. Jessica riait et Kalle cherchait avec moi. Finalement, j'ai ouvert le frigo — et voilà ! Les clés étaient là, à côté du fromage. Pourquoi ? Je ne sais pas.\n\nNous sommes allés au marché une heure plus tard. J'ai acheté du pain et des fraises. Maintenant, Jessica dit que ma mémoire est comme un frigo : froide mais pleine de surprises.",
+  "lemma": {
+    "vais": 40,
+    "étais": 4,
+    "étaient": 4,
+    "est": 4,
+    "sommes": 4,
+    "faisait": 26,
+    "bonne": 56,
+    "petite": 89,
+    "voulais": 47,
+    "avait": 8,
+    "ai": 8,
+    "trouvais": 99,
+    "clés": 383,
+    "souvenait": 242,
+    "cherché": 244,
+    "cherchait": 244,
+    "riait": 399,
+    "sais": 50,
+    "allés": 40,
+    "acheté": 193,
+    "fraises": 764,
+    "dit": 28,
+    "froide": 210,
+    "surprises": 1520
+  },
+  "friaOrd": ["Jessica", "Kalle"]
+}

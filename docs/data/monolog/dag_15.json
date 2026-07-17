@@ -1,0 +1,32 @@
+{
+  "dag": 15,
+  "titel": "Att handla",
+  "svenska": "I dag är det lördag, och jag har handlat mat med Kalle. Innan vi gick skrev jag en lista: mjölk, ägg, smör, bröd och äpplen. En lista? Ja, jag vet — jag är tvåfaldig världsmästare i minne. Men med en liten pojke i affären glömmer man allt.\n\nPå mataffären frågade Kalle: \"Vad kostar det, pappa?\" Hundra gånger. Sedan la han godis i väskan. Jag sa nej, han grät lite, och ... okej, vi köpte godiset. Till slut betalade jag, och kvinnan gav mig växeln tillbaka. Min plånbok är nu nästan tom.\n\nSedan gick vi in i en liten butik med fransk ost. Ett misstag! Den goda osten kostar skjortan. Men jag köpte en stor bit och en flaska vin. I kväll ska Jessica och jag äta färskt bröd med ost. Kalle, han ska äta sitt godis. Det, det är obetalbart.",
+  "franska": "Aujourd'hui, c'est samedi, et j'ai fait les courses avec Kalle. Avant de partir, j'ai écrit une liste : du lait, des œufs, du beurre, du pain et des pommes. Une liste ? Oui, je sais — je suis deux fois champion du monde de mémoire. Mais avec un petit garçon dans le magasin, on oublie tout.\n\nAu supermarché, Kalle a demandé : « Ça coûte combien, papa ? » Cent fois. Puis il a mis des bonbons dans le sac. J'ai dit non, il a pleuré un peu, et... bon, d'accord, on a acheté les bonbons. À la fin, j'ai payé, et la femme m'a rendu la monnaie. Mon portefeuille est maintenant presque vide.\n\nEnsuite, nous sommes entrés dans un petit magasin avec du fromage français. Une erreur ! Le bon fromage coûte les yeux de la tête. Mais j'ai acheté un gros morceau et une bouteille de vin. Ce soir, Jessica et moi, on va manger du pain frais avec du fromage. Kalle, lui, va manger ses bonbons. Ça, ça n'a pas de prix.",
+  "lemma": {
+    "suis": 4,
+    "est": 4,
+    "sommes": 4,
+    "ai": 8,
+    "a": 8,
+    "fait": 26,
+    "écrit": 287,
+    "œufs": 508,
+    "pommes": 509,
+    "sais": 50,
+    "oublie": 200,
+    "demandé": 150,
+    "coûte": 195,
+    "mis": 91,
+    "bonbons": 1459,
+    "dit": 28,
+    "pleuré": 400,
+    "accord": 152,
+    "acheté": 193,
+    "payé": 194,
+    "rendu": 524,
+    "entrés": 1310,
+    "va": 40
+  },
+  "friaOrd": ["Jessica", "Kalle"]
+}

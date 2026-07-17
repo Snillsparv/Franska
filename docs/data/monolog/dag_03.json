@@ -1,0 +1,30 @@
+{
+  "dag": 3,
+  "titel": "Min familj",
+  "svenska": "Idag vill jag prata om min familj. Den är liten, men den är fin! Det här är min familj: Jessica och Kalle. Jessica är mitt livs kvinna. Jag är Kalles pappa, och Jessica är hans mamma. Vi bor tillsammans i vårt lilla hus.\n\nKalle är vår bebis. Han är inte ett år än, men han är redan en stor pojke! Han har Jessicas ögon — han har tur! På natten sover han dåligt. Men när han äntligen sover, säger huset ingenting, och vi är väldigt glada.\n\nPå helgen stannar vi ofta hemma. Jag leker med Kalle, och Jessica läser eller tittar på en film. När vi går på gatan, håller Kalle mig i handen. Jag älskar det! Alla älskar Kalle. Min familj är hela mitt liv. Med Jessica och Kalle är jag en lycklig man.",
+  "franska": "Aujourd'hui, je veux parler de ma famille. Elle est petite, mais elle est belle ! C'est ma famille : Jessica et Kalle. Jessica, c'est la femme de ma vie. Je suis le père de Kalle, et Jessica, c'est sa mère. Nous habitons ensemble dans notre petite maison.\n\nKalle, c'est notre bébé. Il n'a pas encore un an, mais c'est déjà un grand garçon ! Il a les yeux de Jessica — il a de la chance ! La nuit, il dort mal. Mais quand il dort enfin, la maison ne dit rien, et nous sommes très contents.\n\nLe week-end, nous restons souvent chez nous. Je joue avec Kalle, et Jessica lit ou regarde un film. Quand nous marchons dans la rue, Kalle me donne la main. J'adore ça ! Tout le monde aime Kalle. Ma famille, c'est toute ma vie. Avec Jessica et Kalle, je suis un homme heureux.",
+  "lemma": {
+    "veux": 47,
+    "est": 4,
+    "suis": 4,
+    "sommes": 4,
+    "petite": 89,
+    "habitons": 142,
+    "a": 8,
+    "dort": 189,
+    "dit": 28,
+    "contents": 215,
+    "week": 234,
+    "end": 234,
+    "restons": 149,
+    "joue": 191,
+    "lit": 185,
+    "regarde": 144,
+    "marchons": 248,
+    "donne": 80,
+    "adore": 250,
+    "aime": 63,
+    "toute": 38
+  },
+  "friaOrd": ["Jessica", "Kalle"]
+}

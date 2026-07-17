@@ -1,0 +1,230 @@
+{
+  "kapitel": [
+    {
+      "id": 8,
+      "titel": "Possessiver",
+      "teori": "<p>Possessiva pronomen (min, din, hans …) böjs i franskan efter <strong>det man äger</strong> — aldrig efter ägaren. Hela serien:</p><table class=\"enkel\"><tr><th>ägare</th><th>mask. sing.</th><th>fem. sing.</th><th>plural</th></tr><tr><td>jag</td><td>mon</td><td>ma</td><td>mes</td></tr><tr><td>du</td><td>ton</td><td>ta</td><td>tes</td></tr><tr><td>han/hon</td><td>son</td><td>sa</td><td>ses</td></tr><tr><td>vi</td><td>notre</td><td>notre</td><td>nos</td></tr><tr><td>ni</td><td>votre</td><td>votre</td><td>vos</td></tr><tr><td>de</td><td>leur</td><td>leur</td><td>leurs</td></tr></table><p>Tre saker att banka in:</p><ol><li><strong>Genus följer saken, inte ägaren.</strong> <em>Son mari</em> = hennes man (mari är maskulint → son, fast ägaren är en kvinna). <em>Sa voiture</em> = hans bil. Franskan skiljer alltså inte på 'hans' och 'hennes' — sammanhanget avgör!</li><li><strong>Mon amie-regeln:</strong> före ord som börjar på vokal eller stumt h används <em>mon/ton/son</em> även för feminina ord — det låter helt enkelt bättre: <em>mon amie</em> (min väninna), <em>ton idée</em>, <em>son école</em>. Aldrig 'ma amie'!</li><li><strong>Plural jämnar ut allt:</strong> mes, tes, ses, nos, vos, leurs — samma form oavsett genus. <em>Mes clés, tes chaussures, leurs enfants.</em></li></ol><p>Minneskrokar: raderna för <em>vi/ni</em> är lättast — <em>notre/votre</em> + <em>nos/vos</em>, bara två former var. Och <em>leur</em> får <strong>aldrig</strong> något -e: antingen <em>leur</em> eller <em>leurs</em>.</p><p>Vardagsexempel ur familjen: <em>C'est mon fils, Kalle. Notre fils s'appelle Kalle. C'est ma famille : Jessica et Kalle. Où sont mes clés ?!</em> — öva serien på det du faktiskt pratar om varje dag, så fastnar den snabbt.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 31,
+          "mening": "C'est ___ fils, Kalle.",
+          "meningSv": "Det här är min son Kalle.",
+          "svar": [
+            "mon"
+          ],
+          "forklaring": "fils är maskulinum singular och ägaren är 'jag' → mon.",
+          "alternativ": [
+            "mon",
+            "ma",
+            "mes",
+            "son"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 133,
+          "mening": "C'est ___ famille : Jessica et Kalle.",
+          "meningSv": "Det här är min familj: Jessica och Kalle.",
+          "svar": [
+            "ma"
+          ],
+          "forklaring": "famille är femininum singular → ma.",
+          "alternativ": [
+            "ma",
+            "mon",
+            "mes",
+            "sa"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 383,
+          "mening": "Où sont ___ clés ?!",
+          "meningSv": "Var är mina nycklar?!",
+          "svar": [
+            "mes"
+          ],
+          "forklaring": "clés är plural → mes. I plural spelar genus ingen roll.",
+          "alternativ": [
+            "mes",
+            "ma",
+            "mon",
+            "ses"
+          ]
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket är rätt för 'min väninna'?",
+          "alternativ": [
+            "mon amie",
+            "ma amie",
+            "mes amie",
+            "ma ami"
+          ],
+          "svar": "mon amie",
+          "forklaring": "amie är femininum men börjar på vokal → mon amie. 'ma amie' är omöjligt att säga smidigt."
+        },
+        {
+          "typ": "lucka",
+          "rang": 112,
+          "mening": "C'est ___ idée ?",
+          "meningSv": "Är det din idé?",
+          "svar": [
+            "ton"
+          ],
+          "forklaring": "idée är femininum men börjar på vokal → ton (mon amie-regeln).",
+          "alternativ": [
+            "ton",
+            "ta",
+            "tes",
+            "son"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 114,
+          "mening": "___ fils s'appelle Kalle.",
+          "meningSv": "Vår son heter Kalle.",
+          "svar": [
+            "Notre"
+          ],
+          "forklaring": "En son (singular) och ägarna är 'vi' → notre. nos används bara i plural.",
+          "alternativ": [
+            "Notre",
+            "Nos",
+            "Votre",
+            "Leur"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 449,
+          "mening": "___ mari est français.",
+          "meningSv": "Hennes man är fransk.",
+          "svar": [
+            "Son"
+          ],
+          "forklaring": "mari är maskulinum → son, även om ägaren är en kvinna. Genus följer saken, inte ägaren!",
+          "alternativ": [
+            "Son",
+            "Sa",
+            "Ses",
+            "Leur"
+          ]
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 629,
+          "ord": [
+            "Où",
+            "sont",
+            "mes",
+            "lunettes",
+            "?"
+          ],
+          "meningSv": "Var är mina glasögon?",
+          "forklaring": "Frågeordet où först, sedan verbet: Où sont mes lunettes ? — mes eftersom lunettes är plural."
+        },
+        {
+          "typ": "lucka",
+          "rang": 526,
+          "mening": "___ voisins sont sympas.",
+          "meningSv": "Våra grannar är trevliga.",
+          "svar": [
+            "Nos"
+          ],
+          "forklaring": "voisins är plural och ägarna är 'vi' → nos.",
+          "alternativ": [
+            "Nos",
+            "Notre",
+            "Vos",
+            "Leurs"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 113,
+          "mening": "C'est ___ fils ?",
+          "meningSv": "Är det er son?",
+          "svar": [
+            "votre"
+          ],
+          "forklaring": "En son (singular), ägaren tilltalas med vous → votre. vos används i plural.",
+          "alternativ": [
+            "votre",
+            "vos",
+            "ton",
+            "notre"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 115,
+          "mening": "___ enfants sont grands.",
+          "meningSv": "Deras barn är stora.",
+          "svar": [
+            "Leurs"
+          ],
+          "forklaring": "enfants är plural → leurs med -s. Obs: leur får aldrig -e, bara -s i plural.",
+          "alternativ": [
+            "Leurs",
+            "Leur",
+            "Ses",
+            "Sa"
+          ]
+        },
+        {
+          "typ": "oversatt",
+          "rang": 459,
+          "meningSv": "Här är mitt pass.",
+          "svar": [
+            "Voilà mon passeport.",
+            "Voilà mon passeport !"
+          ],
+          "forklaring": "passeport är maskulinum → mon. Voilà = här är/där är."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vad heter 'era böcker' på franska?",
+          "alternativ": [
+            "vos livres",
+            "votre livres",
+            "vos livre",
+            "tes livres"
+          ],
+          "svar": "vos livres",
+          "forklaring": "livres är plural → vos. votre används bara i singular (votre livre = er bok)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 421,
+          "mening": "Merci pour ___ aide !",
+          "meningSv": "Tack för din hjälp!",
+          "svar": [
+            "ton"
+          ],
+          "forklaring": "aide är femininum men börjar på vokal → ton aide (mon amie-regeln igen).",
+          "alternativ": [
+            "ton",
+            "ta",
+            "tes",
+            "son"
+          ]
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 458,
+          "ord": [
+            "C'est",
+            "dans",
+            "mon",
+            "sac."
+          ],
+          "meningSv": "Det ligger i min väska.",
+          "forklaring": "sac är maskulinum singular → mon. C'est dans mon sac = det ligger i min väska."
+        }
+      ]
+    }
+  ]
+}

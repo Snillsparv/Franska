@@ -1,0 +1,221 @@
+{
+  "kapitel": [
+    {
+      "id": 6,
+      "titel": "Frågor: est-ce que, inversion, intonation",
+      "teori": "<p>Franskan har <strong>tre sätt att ställa samma fråga</strong> — välj efter situation:</p><table class=\"enkel\"><tr><th>Sätt</th><th>Exempel</th><th>Stil</th></tr><tr><td>1. Intonation</td><td><em>Tu viens ?</em></td><td>vardagligt tal — vanligast!</td></tr><tr><td>2. Est-ce que</td><td><em>Est-ce que tu viens ?</em></td><td>neutralt, funkar alltid</td></tr><tr><td>3. Inversion</td><td><em>Viens-tu ?</em></td><td>formellt, skriftspråk</td></tr></table><p><strong>Intonation</strong> är enklast: säg påståendet med stigande ton på slutet. <em>Vous êtes français ?</em> — klart! I vardagligt tal är detta det överlägset vanligaste sättet.</p><p><strong>Est-ce que</strong> [äss-kö] är en frågemaskin: klistra den framför vilket påstående som helst, så blir det en fråga utan att du ändrar ordföljden. <em>Est-ce que je peux avoir le menu ?</em> Före vokal blir det <em>qu'</em>: <em>Est-ce qu'on mange ?</em></p><p><strong>Inversion</strong> byter plats på verb och pronomen, med bindestreck: <em>Comment dit-on « fika » en français ?</em> Mest i skrift och artiga fraser — känn igen den, men du klarar dig långt med sätt 1 och 2.</p><p><strong>Frågeorden</strong> du behöver först:</p><ul><li><strong>qui</strong> = vem — <em>Qui est-ce ?</em></li><li><strong>que / qu'est-ce que</strong> = vad — <em>Qu'est-ce que c'est ?</em> (vardagligt: <em>C'est quoi ?</em>)</li><li><strong>où</strong> = var — <em>C'est où ?</em> (obs: <em>ou</em> utan accent = eller!)</li><li><strong>quand</strong> = när, <strong>comment</strong> = hur, <strong>combien</strong> = hur mycket, <strong>pourquoi</strong> = varför, <strong>quel/quelle</strong> = vilken</li></ul><p>I talspråk hamnar frågeordet ofta <em>sist</em>: <em>Tu viens quand ?</em>, <em>C'est combien ?</em> Minneskrok: tänk att fransmän kastar in frågeordet där svenskan har svaret — <em>Du kommer <strong>när</strong>?</em></p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 36,
+          "mening": "Est-ce ___ je peux avoir le menu ?",
+          "meningSv": "Kan jag få menyn?",
+          "svar": [
+            "que"
+          ],
+          "forklaring": "Frågemaskinen heter est-ce que: est-ce que + påstående = fråga.",
+          "alternativ": [
+            "que",
+            "qui",
+            "quoi",
+            "où"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 110,
+          "mening": "___ tu t'appelles ?",
+          "meningSv": "Vad heter du?",
+          "svar": [
+            "Comment"
+          ],
+          "forklaring": "comment = hur; ordagrant 'Hur kallar du dig?'. combien = hur mycket.",
+          "alternativ": [
+            "Comment",
+            "Combien",
+            "Quand",
+            "Pourquoi"
+          ]
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 26,
+          "ord": [
+            "Qu'est-ce",
+            "que",
+            "vous",
+            "faites",
+            "?"
+          ],
+          "meningSv": "Vad gör ni?",
+          "forklaring": "Qu'est-ce que (= vad) står först, sedan vanlig rak ordföljd: subjekt + verb."
+        },
+        {
+          "typ": "val",
+          "fraga": "Gör om påståendet till en fråga med est-ce que: « Tu viens. »",
+          "alternativ": [
+            "Est-ce que tu viens ?",
+            "Tu est-ce que viens ?",
+            "Viens est-ce que tu ?"
+          ],
+          "svar": "Est-ce que tu viens ?",
+          "forklaring": "Est-ce que klistras framför hela påståendet — ordföljden ändras inte."
+        },
+        {
+          "typ": "lucka",
+          "rang": 55,
+          "mening": "Tu viens ___ ?",
+          "meningSv": "När kommer du?",
+          "svar": [
+            "quand"
+          ],
+          "forklaring": "quand = när. I talspråk hamnar frågeordet ofta sist i meningen.",
+          "alternativ": [
+            "quand",
+            "quoi",
+            "qui",
+            "combien"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 28,
+          "mening": "Comment ___ « fika » en français ?",
+          "meningSv": "Hur säger man fika på franska?",
+          "svar": [
+            "dit-on"
+          ],
+          "forklaring": "Inversion: verbet före pronomenet, med bindestreck. on dit → dit-on.",
+          "alternativ": [
+            "dit-on",
+            "on dit",
+            "dis-on",
+            "dites-on"
+          ]
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 23,
+          "ord": [
+            "Vous",
+            "êtes",
+            "français",
+            "?"
+          ],
+          "meningSv": "Är ni fransk?",
+          "forklaring": "Intonationsfråga: samma ordföljd som ett påstående, men med stigande ton och frågetecken."
+        },
+        {
+          "typ": "lucka",
+          "rang": 466,
+          "mening": "On se retrouve ___ ?",
+          "meningSv": "Var ses vi?",
+          "svar": [
+            "où"
+          ],
+          "forklaring": "où (med accent) = var. ou utan accent betyder 'eller' — accenten avgör!",
+          "alternativ": [
+            "où",
+            "ou",
+            "quand",
+            "qui"
+          ]
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket frågeord betyder 'vem'?",
+          "alternativ": [
+            "qui",
+            "que",
+            "où",
+            "quand"
+          ],
+          "svar": "qui",
+          "forklaring": "qui = vem, que = vad, où = var, quand = när."
+        },
+        {
+          "typ": "lucka",
+          "rang": 122,
+          "mening": "Il est ___ heure ?",
+          "meningSv": "Vad är klockan?",
+          "svar": [
+            "quelle"
+          ],
+          "forklaring": "heure är femininum, alltså quelle med -le. quel för maskulina ord.",
+          "alternativ": [
+            "quelle",
+            "quel",
+            "quand",
+            "comment"
+          ]
+        },
+        {
+          "typ": "oversatt",
+          "rang": 14,
+          "meningSv": "Vem är det?",
+          "svar": [
+            "Qui est-ce ?",
+            "C'est qui ?"
+          ],
+          "forklaring": "Qui est-ce ? är standardfrågan; C'est qui ? är den vardagliga varianten."
+        },
+        {
+          "typ": "lucka",
+          "rang": 320,
+          "mening": "Tu as ___ âge ?",
+          "meningSv": "Hur gammal är du?",
+          "svar": [
+            "quel"
+          ],
+          "forklaring": "âge är maskulinum → quel. Ordagrant: 'Du har vilken ålder?'",
+          "alternativ": [
+            "quel",
+            "quelle",
+            "quoi",
+            "comment"
+          ]
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 85,
+          "ord": [
+            "Qu'est-ce",
+            "qu'on",
+            "fait",
+            "aujourd'hui",
+            "?"
+          ],
+          "meningSv": "Vad ska vi göra idag?",
+          "forklaring": "Qu'est-ce que + on blir Qu'est-ce qu'on — que förkortas före vokal."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken variant är mest formell?",
+          "alternativ": [
+            "Avez-vous des enfants ?",
+            "Est-ce que vous avez des enfants ?",
+            "Vous avez des enfants ?"
+          ],
+          "svar": "Avez-vous des enfants ?",
+          "forklaring": "Inversion (verb-pronomen med bindestreck) är den formella stilen; intonation är den vardagliga."
+        },
+        {
+          "typ": "lucka",
+          "rang": 195,
+          "mening": "Ça coûte ___ ?",
+          "meningSv": "Vad kostar det?",
+          "svar": [
+            "combien"
+          ],
+          "forklaring": "combien = hur mycket. Lätt att blanda ihop med comment (= hur)!",
+          "alternativ": [
+            "combien",
+            "comment",
+            "quand",
+            "quoi"
+          ]
+        }
+      ]
+    }
+  ]
+}

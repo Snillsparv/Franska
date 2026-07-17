@@ -1,0 +1,31 @@
+{
+  "dag": 13,
+  "titel": "Min morgon",
+  "svenska": "I morse vaknade jag väldigt tidigt. Nej, sanningen: Kalle vaknade väldigt tidigt, och därför pappa också. Jag steg upp långsamt, öppnade fönstret och tittade på himlen. Det är vackert väder i dag.\n\nSedan tvättade jag mig och rakade mig. Jessica säger att jag alltid sjunger i duschen — det är sant. Efteråt klädde jag på mig: svarta byxor och en blå skjorta. I köket gjorde jag i ordning frukosten: bröd, smör och sylt till Kalle, te till Jessica.\n\nEfter frukosten borstade jag tänderna och letade efter min telefon. Jag är tvåfaldig världsmästare i minne, men i morse glömde jag var min telefon är. Jessica skrattade. Sedan satte jag mig med mina hundra franska ord. Det är en bra morgon.",
+  "franska": "Ce matin, je me suis réveillé très tôt. Non, la vérité : Kalle s'est réveillé très tôt, et donc papa aussi. Je me suis levé lentement, j'ai ouvert la fenêtre et j'ai regardé le ciel. Il fait beau aujourd'hui.\n\nEnsuite, je me suis lavé et je me suis rasé. Jessica dit que je chante toujours sous la douche — c'est vrai. Après, je me suis habillé : un pantalon noir et une chemise bleue. Dans la cuisine, j'ai préparé le petit-déjeuner : du pain, du beurre et de la confiture pour Kalle, du thé pour Jessica.\n\nAprès le petit-déjeuner, je me suis brossé les dents et j'ai cherché mon téléphone. Je suis deux fois champion du monde de mémoire, mais ce matin, j'ai oublié où est mon téléphone. Jessica a ri. Puis je me suis assis avec mes cent mots français. C'est un bon matin.",
+  "lemma": {
+    "suis": 4,
+    "est": 4,
+    "ai": 8,
+    "a": 8,
+    "réveillé": 1041,
+    "levé": 738,
+    "ouvert": 246,
+    "regardé": 144,
+    "fait": 26,
+    "lavé": 1043,
+    "rasé": 1045,
+    "dit": 28,
+    "chante": 439,
+    "habillé": 1042,
+    "préparé": 518,
+    "déjeuner": 274,
+    "brossé": 1044,
+    "cherché": 244,
+    "oublié": 200,
+    "ri": 399,
+    "assis": 469,
+    "mots": 155
+  },
+  "friaOrd": ["Jessica", "Kalle"]
+}

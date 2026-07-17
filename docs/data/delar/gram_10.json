@@ -1,0 +1,203 @@
+{
+  "kapitel": [
+    {
+      "id": 10,
+      "titel": "Il y a / c'est",
+      "teori": "<p>Tre små uttryck täcker nästan allt svenskans 'det är / det finns' gör — konsten är att välja rätt:</p><table class=\"enkel\"><tr><th>uttryck</th><th>betyder</th><th>exempel</th></tr><tr><td><strong>il y a</strong></td><td>det finns / det är (existens)</td><td><em>Il y a du soleil !</em></td></tr><tr><td><strong>c'est</strong></td><td>det är (utpekande, omdöme)</td><td><em>C'est mon fils. C'est facile !</em></td></tr><tr><td><strong>il est</strong></td><td>han är; klockan är</td><td><em>Il est tard. Il est deux heures.</em></td></tr></table><p><strong>Il y a</strong> [ilja] säger att något <em>finns</em> eller <em>händer</em> någonstans: <em>Il y a une pharmacie près d'ici ? Il y a quelqu'un ?</em> Formen ändras aldrig — samma i singular och plural: <em>il y a des risques</em>. Även om väder: <em>il y a du vent</em>.</p><p><strong>C'est</strong> pekar ut och presenterar: <em>C'est Jessica. C'est un ami de la famille.</em> Det ger också omdömen: <em>C'est bon ! C'est bizarre.</em> Franskan älskar dessutom att lyfta fram ett tema och återuppta det med c'est: <em>Le français, c'est facile !</em> Plural: <em>ce sont</em> (men i talspråk hör du ofta c'est även där).</p><p><strong>Il est</strong> används om klockan (<em>Il est deux heures et demie</em>), om tid på dygnet (<em>Il est tard</em>) och om personer: <em>Il est jeune.</em></p><p>Klassisk fälla — yrken: <em>Elle est médecin</em> (utan artikel!) men <em>C'est un médecin</em> (med artikel). Regeln: efter il/elle est ingen artikel, efter c'est alltid artikel.</p><p>Minneskrokar: <strong>il y a = 'där finns'</strong> (svara på frågan VAD som finns), <strong>c'est = pekfingret</strong> (DET där är …), <strong>il est = klockan och personen</strong>. Hör du en artikel (un/une/le/la) direkt efter? Då är det nästan alltid c'est.</p>",
+      "ovningar": [
+        {
+          "typ": "val",
+          "fraga": "Välj rätt början: « ___ du soleil ! » (Solen skiner!)",
+          "alternativ": [
+            "Il y a",
+            "C'est",
+            "Il est"
+          ],
+          "svar": "Il y a",
+          "forklaring": "Existens/väder = il y a: il y a du soleil, il y a du vent.",
+          "rang": 211
+        },
+        {
+          "typ": "lucka",
+          "rang": 217,
+          "mening": "Le français, ___ facile !",
+          "meningSv": "Franska är lätt!",
+          "svar": [
+            "c'est"
+          ],
+          "forklaring": "Temat (le français) lyfts fram och återupptas med c'est: Le français, c'est facile !",
+          "alternativ": [
+            "c'est",
+            "il est",
+            "il y a",
+            "est"
+          ]
+        },
+        {
+          "typ": "val",
+          "fraga": "Välj rätt början: « ___ deux heures et demie. » (Klockan är halv tre.)",
+          "alternativ": [
+            "Il est",
+            "C'est",
+            "Il y a"
+          ],
+          "svar": "Il est",
+          "forklaring": "Klockslag tar alltid il est: Il est deux heures.",
+          "rang": 285
+        },
+        {
+          "typ": "val",
+          "fraga": "Välj rätt början: « ___ un ami de la famille. » (Det är en vän till familjen.)",
+          "alternativ": [
+            "C'est",
+            "Il est",
+            "Il y a"
+          ],
+          "svar": "C'est",
+          "forklaring": "Presentation med artikel (un) → c'est. Efter il est står yrke/adjektiv utan artikel.",
+          "rang": 136
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 117,
+          "ord": [
+            "Il",
+            "y",
+            "a",
+            "quelqu'un",
+            "?"
+          ],
+          "meningSv": "Är det någon där?",
+          "forklaring": "Il y a quelqu'un ? = Finns det någon där? Ordföljden il + y + a är fast."
+        },
+        {
+          "typ": "val",
+          "fraga": "Välj rätt början: « ___ une pharmacie près d'ici ? » (Finns det ett apotek i närheten?)",
+          "alternativ": [
+            "Il y a",
+            "C'est",
+            "Elle est"
+          ],
+          "svar": "Il y a",
+          "forklaring": "Frågan gäller om något FINNS → il y a. c'est skulle peka ut ett visst apotek.",
+          "rang": 444
+        },
+        {
+          "typ": "lucka",
+          "rang": 168,
+          "mening": "La France, ___ un beau pays.",
+          "meningSv": "Frankrike är ett vackert land.",
+          "svar": [
+            "c'est"
+          ],
+          "forklaring": "Tema + återupptagning: La France, c'est … — och artikeln (un) kräver c'est.",
+          "alternativ": [
+            "c'est",
+            "il est",
+            "il y a",
+            "elle est"
+          ]
+        },
+        {
+          "typ": "val",
+          "fraga": "Hur säger man 'Hon är läkare'?",
+          "alternativ": [
+            "Elle est médecin.",
+            "C'est médecin.",
+            "Elle est un médecin."
+          ],
+          "svar": "Elle est médecin.",
+          "forklaring": "Yrke efter il/elle est står UTAN artikel. Med artikel byter man till c'est: C'est un médecin."
+        },
+        {
+          "typ": "val",
+          "fraga": "Välj rätt början: « ___ tard, on va dormir. » (Det är sent, vi ska sova.)",
+          "alternativ": [
+            "Il est",
+            "C'est",
+            "Il y a"
+          ],
+          "svar": "Il est",
+          "forklaring": "Tid på dygnet (tard, tôt) tar il est: Il est tard.",
+          "rang": 208
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 675,
+          "ord": [
+            "Il",
+            "y",
+            "a",
+            "toujours",
+            "une",
+            "solution",
+            "!"
+          ],
+          "meningSv": "Det finns alltid en lösning!",
+          "forklaring": "il y a + toujours + det som finns: Il y a toujours une solution !"
+        },
+        {
+          "typ": "val",
+          "fraga": "Välj rätt början: « ___ de la place ici ! » (Det finns plats här!)",
+          "alternativ": [
+            "Il y a",
+            "C'est",
+            "Il est"
+          ],
+          "svar": "Il y a",
+          "forklaring": "Det FINNS plats = existens = il y a.",
+          "rang": 299
+        },
+        {
+          "typ": "oversatt",
+          "rang": 642,
+          "meningSv": "Min lärare är en AI!",
+          "svar": [
+            "Mon prof, c'est une IA !",
+            "Mon prof, c'est une IA."
+          ],
+          "forklaring": "Tema (mon prof) + c'est + artikel: c'est une IA. il est-varianten hade krävt yrke utan artikel."
+        },
+        {
+          "typ": "val",
+          "fraga": "Välj rätt början: « ___ quelle heure ? » (Vad är klockan?)",
+          "alternativ": [
+            "Il est",
+            "C'est",
+            "Il y a"
+          ],
+          "svar": "Il est",
+          "forklaring": "Klockan frågas och svaras med il est: Il est quelle heure ? — Il est midi.",
+          "rang": 122
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 351,
+          "ord": [
+            "Il",
+            "y",
+            "a",
+            "un",
+            "grand",
+            "arbre",
+            "dans",
+            "le",
+            "jardin."
+          ],
+          "meningSv": "Det står ett stort träd i trädgården.",
+          "forklaring": "Il y a + un grand arbre (BAGS: grand före substantivet) + plats: dans le jardin."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 313,
+          "meningSv": "Det är vatten överallt!",
+          "svar": [
+            "Il y a de l'eau partout !",
+            "Il y a de l'eau partout."
+          ],
+          "forklaring": "Det ÄR vatten överallt = det FINNS vatten → il y a, aldrig c'est här."
+        }
+      ]
+    }
+  ]
+}

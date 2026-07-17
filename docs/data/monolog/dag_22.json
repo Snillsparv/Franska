@@ -1,0 +1,28 @@
+{
+  "dag": 22,
+  "titel": "Sverige och Frankrike",
+  "svenska": "Sverige och Frankrike är inte samma värld. Hemma hos oss är vintern kall och mörk, och det ligger snö nästan halva året. I Frankrike finns det mer sol och mindre snö. Jessica säger att det franska klimatet är bättre för mig, för i december är jag alltid på dåligt humör.\n\nMåltiderna är också olika. I Sverige äter vi middag klockan 18; i Frankrike äter man senare, vid 20-tiden. Det franska brödet är bättre än vårt bröd — men osten, jag älskar båda. Här skakar man hand; där borta gör man kindpussar.\n\nMen det viktigaste är språket. Fransmännen pratar fort — som tur är lär jag mig också fort. Om en månad ska jag se allt det där själv: jag ska gå på gatorna, äta varmt bröd och säga ”salut” som en riktig fransman.",
+  "franska": "La Suède et la France, ce n'est pas le même monde. Chez nous, l'hiver est froid et sombre, et il y a de la neige presque la moitié de l'année. En France, il y a plus de soleil et moins de neige. Jessica dit que le climat français est meilleur pour moi, parce qu'en décembre, je suis toujours de mauvaise humeur.\n\nLes repas aussi sont différents. En Suède, on dîne à 18 heures ; en France, on mange plus tard, vers 20 heures. Le pain français est meilleur que notre pain — mais le fromage, j'aime les deux. Ici, on serre la main ; là-bas, on se fait la bise.\n\nMais la chose la plus importante, c'est la langue. Les Français parlent vite — heureusement, j'apprends vite aussi. Dans un mois, je verrai tout ça moi-même : je marcherai dans les rues, je mangerai du pain chaud et je dirai « salut » comme un vrai Français.",
+  "lemma": {
+    "est": 4,
+    "suis": 4,
+    "sont": 4,
+    "a": 8,
+    "dit": 28,
+    "dirai": 28,
+    "fait": 26,
+    "aime": 63,
+    "mange": 100,
+    "mangerai": 100,
+    "heures": 122,
+    "apprends": 154,
+    "rues": 229,
+    "marcherai": 248,
+    "différents": 377,
+    "parlent": 61,
+    "verrai": 53,
+    "dîne": 1315,
+    "serre": 1354
+  },
+  "friaOrd": ["Jessica", "Suède", "France"]
+}

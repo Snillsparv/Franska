@@ -1,0 +1,64 @@
+{
+  "lektioner": [
+    {
+      "id": 11,
+      "titel": "Liaison: när den är obligatorisk",
+      "teori": "<p>Liaison är franskans mest kända ljudtrick: en slutkonsonant som normalt är <strong>tyst</strong> vaknar till liv när nästa ord börjar på vokal eller stumt h. <em>Les</em> [le] + <em>amis</em> [ami] blir inte [le ami] utan <strong>[lezami]</strong> — s:et kliver fram och byter dessutom ljud till [z]. Det låter som om franskan hade ett hemligt extraord: <em>les zamis</em>.</p><p>Liaison är <strong>obligatorisk</strong> i tre huvudfall:</p><ul><li><strong>Bestämningsord + substantiv:</strong> les amis [lezami], un homme [önn-åmm], deux heures [döz-ör], mes enfants [mez-angfang].</li><li><strong>Pronomen + verb:</strong> vous avez [vuzave], nous avons [nuzavång], ils ont [ilzång], on a [ånn-a]. Även omvänt vid frågor med inversion: ont-ils ? [ång-til].</li><li><strong>Kort adjektiv eller adverb + nästa ord:</strong> petit ami [pöti-tami], grand homme [grang-tåmm], très important [träz-ängpårtang].</li></ul><p>Konsonanterna byter ofta skepnad i liaison:</p><table><tr><th>Bokstav</th><th>Liaisonljud</th><th>Exempel</th></tr><tr><td>s, x</td><td>[z]</td><td>les amis, deux heures</td></tr><tr><td>d</td><td>[t]</td><td>grand homme [grang-tåmm]</td></tr><tr><td>n</td><td>[n]</td><td>un homme, on a</td></tr></table><p>Varför bry sig? För att liaisonen ofta bär själva <strong>betydelsen</strong>. Ils ont [ilzång] betyder <em>de har</em>, men ils sont [ilsång] betyder <em>de är</em> — enda skillnaden är [z] mot [s]. Och eftersom slut-s i substantiv är tyst är liaisonen ofta det enda som avslöjar plural: l'enfant mot les enfants [lezangfang].</p><p>Tumregeln: hör orden ihop grammatiskt som ett litet paket, då hör ljuden ihop också. I nästa lektion lär du dig när liaison tvärtom är <strong>förbjuden</strong> — det är där fällorna gömmer sig.</p>",
+      "exempel": [
+        { "rang": 136, "fokus": "les amis [lezami] — det tysta s:et vaknar som [z]" },
+        { "rang": 95, "fokus": "un homme [önn-åmm] — n:et kliver fram" },
+        { "rang": 122, "fokus": "deux heures [döz-ör] — x blir [z]" },
+        { "rang": 86, "fokus": "deux ans [döz-ang] — liaisonen avslöjar pluralen" },
+        { "rang": 93, "fokus": "les enfants [lezangfang] — jämför l'enfant" },
+        { "rang": 23, "fokus": "vous avez [vuzave] — pronomen + verb, alltid liaison" },
+        { "rang": 33, "fokus": "nous avons [nuzavång]" },
+        { "rang": 89, "fokus": "petit ami [pöti-tami] — t:et hörs plötsligt" },
+        { "rang": 90, "fokus": "grand homme [grang-tåmm] — d blir [t]!" }
+      ],
+      "sjalvtest": [
+        {
+          "ljudText": "ils ont",
+          "alternativ": ["ils ont", "ils sont"],
+          "ratt": "ils ont",
+          "forklaring": "Liaison-z:et avslöjar svaret: ils ont (de har) uttalas [ilzång]. Ils sont (de är) har ett vanligt [s]: [ilsång]."
+        },
+        {
+          "ljudText": "vous avez",
+          "alternativ": ["vous avez", "vous savez"],
+          "ratt": "vous avez",
+          "forklaring": "Vous avez = [vuzave] med liaison-[z]. Vous savez börjar på ett riktigt [s]: [vusave]. Minimalt par — bara tonen i s/z skiljer."
+        },
+        {
+          "fraga": "Vilket ljud får s och x i liaison, som i les amis och deux heures?",
+          "alternativ": ["[z]", "[s]", "[sch]"],
+          "ratt": "[z]",
+          "forklaring": "Både s och x blir tonande [z] i liaison: les amis [lezami], deux heures [döz-ör]."
+        },
+        {
+          "fraga": "I vilken kombination är liaison alltid obligatorisk?",
+          "alternativ": ["artikel + substantiv: les amis", "substantiv + verb: Paris est", "efter et: et elle"],
+          "ratt": "artikel + substantiv: les amis",
+          "forklaring": "Bestämningsord + substantiv är kärnfallet: les amis, un homme, mes enfants. Efter singularsubstantiv och efter et är liaison tvärtom förbjuden — mer i nästa lektion."
+        },
+        {
+          "fraga": "Hur uttalas un grand homme?",
+          "alternativ": ["[ang grang-tåmm] — d blir [t]", "[ang grang-dåmm] — d förblir [d]", "[ang grang åmm] — d är tyst"],
+          "ratt": "[ang grang-tåmm] — d blir [t]",
+          "forklaring": "I liaison byter d ljud till [t]: grand homme [grang-tåmm], grand ami [grang-tami]."
+        },
+        {
+          "ljudText": "les enfants",
+          "alternativ": ["les enfants", "l'enfant"],
+          "ratt": "les enfants",
+          "forklaring": "Du hör [z] i [lezangfang]. Eftersom slut-s i enfants är tyst är liaisonen ofta det enda som avslöjar att det är plural."
+        },
+        {
+          "fraga": "Vad gäller för n:et i on a?",
+          "alternativ": ["N:et uttalas: [ånn-a]", "N:et är helt tyst: [ång a]"],
+          "ratt": "N:et uttalas: [ånn-a]",
+          "forklaring": "Pronomen + verb kräver liaison — nasalens n dyker upp igen: on a [ånn-a], precis som i un homme [önn-åmm]."
+        }
+      ]
+    }
+  ]
+}

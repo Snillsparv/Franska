@@ -1,0 +1,19 @@
+{
+  "dag": 14,
+  "titel": "Planer för i kväll och i morgon",
+  "svenska": "I kväll ska vi stanna hemma. Efter middagen ska jag läsa en bok för Kalle, och han ska lägga sig tidigt — ja, det är i alla fall tanken. Sedan ska Jessica och jag titta på en fransk film i soffan, med te och lite choklad.\n\nJag ska försöka förstå filmen utan att läsa orden längst ner på skärmen. Jessica tror att det är omöjligt. Vi får se! Efter filmen ska jag repetera mina hundra ord för dagen. Ja, jag repeterar också på kvällen. En mästare, det är så det är.\n\nOch i morgon? I morgon förmiddag ska jag ta med Kalle till parken. Han ska springa, leka och titta på fåglarna. Efter lunchen ska han ta en tupplur. Och i morgon kväll, en stor sak: jag ska köpa våra flygbiljetter till Frankrike! Jessica, Kalle och jag: alla i planet. Det kommer att bli toppen.",
+  "franska": "Ce soir, on va rester à la maison. Après le dîner, je vais lire un livre à Kalle, et il va se coucher tôt — enfin, c'est l'idée. Ensuite, Jessica et moi, nous allons regarder un film français sur le canapé, avec du thé et un peu de chocolat.\n\nJe vais essayer de comprendre le film sans lire les mots en bas de l'écran. Jessica pense que c'est impossible. On va voir ! Après le film, je vais réviser mes cent mots du jour. Oui, je révise aussi le soir. Un champion, c'est comme ça.\n\nEt demain ? Demain matin, je vais emmener Kalle au parc. Il va courir, jouer et regarder les oiseaux. Après le déjeuner, il va faire une sieste. Et demain soir, une grande chose : je vais acheter nos billets d'avion pour la France ! Jessica, Kalle et moi : tout le monde dans l'avion. Ça va être super.",
+  "lemma": {
+    "va": 40,
+    "vais": 40,
+    "allons": 40,
+    "est": 4,
+    "pense": 79,
+    "révise": 740,
+    "mots": 155,
+    "oiseaux": 348,
+    "billets": 451,
+    "grande": 90
+  },
+  "friaOrd": ["Jessica", "Kalle", "France"]
+}

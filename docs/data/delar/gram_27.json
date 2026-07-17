@@ -1,0 +1,133 @@
+{
+  "kapitel": [
+    {
+      "id": 27,
+      "titel": "Indirekt tal",
+      "teori": "<p><strong>Indirekt tal</strong> är när du återger vad någon säger, tänker eller frågar — utan citattecken. På franska bygger du det med tre små ord: <strong>que</strong>, <strong>si</strong> och frågeordet.</p><ul><li><strong>Påstående → que:</strong> <em>Il dit que c'est bon.</em> — Han säger att det är gott. Samma que efter <em>penser, croire, savoir</em>: <em>Je pense que oui.</em> Framför vokal blir det <em>qu'</em>: <em>Elle dit qu'elle est fatiguée.</em></li><li><strong>Ja/nej-fråga → si:</strong> <em>Jonas demande si Kalle dort.</em> — Jonas frågar om Kalle sover. Precis som svenskans \"om\".</li><li><strong>Frågeordsfråga → behåll frågeordet:</strong> <em>Je me demande pourquoi.</em> — Jag undrar varför. <em>Il demande où j'habite.</em> Observera: <em>qu'est-ce que</em> byts mot <strong>ce que</strong>: <em>Il demande ce que je fais.</em></li></ul><p><strong>Ordföljden blir rak!</strong> Ingen inversion och inget est-ce que i den indirekta satsen. Säg aldrig <em>Il demande où est-ce que j'habite</em> — bara <em>où j'habite</em>.</p><p><strong>Tempusförskjutning:</strong> när verbet som återger står i dåtid (<em>il a dit</em>) backar tempuset ett steg, precis som på svenska:</p><table class=\"enkel\"><tr><th>direkt</th><th>indirekt efter « il a dit »</th></tr><tr><td>« Je suis fatigué. » (presens)</td><td>Il a dit qu'il <strong>était</strong> fatigué. (imparfait)</td></tr><tr><td>« Je viendrai. » (futur)</td><td>Il a dit qu'il <strong>viendrait</strong>. (conditionnel)</td></tr></table><p>Efter presens (<em>il dit que...</em>) ändras däremot ingenting.</p><p><strong>Minneskrok:</strong> att = <em>que</em>, om = <em>si</em>, frågeord står kvar — och tänker du \"sa att... var\" på svenska, så tänker fransmannen likadant: <em>a dit que... était</em>.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 853,
+          "mening": "Certains ___ que c'est impossible.",
+          "meningSv": "Vissa säger att det är omöjligt.",
+          "svar": ["disent"],
+          "alternativ": ["disent", "dit", "dis", "disons"],
+          "forklaring": "certains = de/vissa (plural) → ils-formen disent. Sedan que + rak sats."
+        },
+        {
+          "typ": "lucka",
+          "rang": 79,
+          "mening": "Je pense ___ oui.",
+          "meningSv": "Jag tror det.",
+          "svar": ["que"],
+          "alternativ": ["que", "si", "quoi", "de"],
+          "forklaring": "Efter penser, croire, dire följer que (= att). si används bara för 'om'."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1652,
+          "mening": "Je me ___ pourquoi.",
+          "meningSv": "Jag undrar varför.",
+          "svar": ["demande"],
+          "alternativ": ["demande", "demandes", "demander", "demandez"],
+          "forklaring": "se demander = undra. je me demande — och frågeordet pourquoi står kvar."
+        },
+        {
+          "typ": "lucka",
+          "rang": 150,
+          "mening": "Je peux ___ quelque chose ?",
+          "meningSv": "Får jag fråga en sak?",
+          "svar": ["demander"],
+          "alternativ": ["demander", "demande", "demandé", "demandez"],
+          "forklaring": "Efter pouvoir står verbet i infinitiv: je peux demander."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 50,
+          "meningSv": "Jag vet inte.",
+          "svar": ["Je ne sais pas."],
+          "forklaring": "savoir = veta. Grundfrasen för allt indirekt tal: je ne sais pas si..., je ne sais pas où..."
+        },
+        {
+          "typ": "val",
+          "rang": 2493,
+          "fraga": "Vad betyder « À vrai dire, je ne sais plus. »?",
+          "alternativ": ["Ärligt talat vet jag inte längre.", "För att vara ärlig vet jag mer nu.", "Sanningen är att jag vet allt."],
+          "svar": "Ärligt talat vet jag inte längre.",
+          "forklaring": "à vrai dire = ärligt talat; ne ... plus = inte längre."
+        },
+        {
+          "typ": "lucka",
+          "rang": 725,
+          "mening": "Les Français sont polis... ___ tu dis bonjour !",
+          "meningSv": "Fransmännen är artiga... om du säger bonjour!",
+          "svar": ["si"],
+          "alternativ": ["si", "que", "quand", "où"],
+          "forklaring": "si = om. Samma si återger ja/nej-frågor: il demande si tu dis bonjour."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 324,
+          "ord": ["Il", "ne", "répond", "pas", "au", "téléphone."],
+          "meningSv": "Han svarar inte i telefon.",
+          "forklaring": "répondre à = svara på; ne ... pas omsluter verbet."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1373,
+          "mening": "Il prétend tout ___. Hmm.",
+          "meningSv": "Han påstår sig veta allt. Hmm.",
+          "svar": ["savoir"],
+          "alternativ": ["savoir", "sait", "sais", "su"],
+          "forklaring": "prétendre + infinitiv = påstå sig göra något: il prétend tout savoir."
+        },
+        {
+          "typ": "lucka",
+          "rang": 537,
+          "mening": "La météo ___ du soleil demain.",
+          "meningSv": "Prognosen säger sol imorgon.",
+          "svar": ["dit"],
+          "alternativ": ["dit", "dis", "disent", "dites"],
+          "forklaring": "la météo = il/elle-form: dit. dis är je/tu, disent är ils."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Jessica dit ___ est fatiguée.",
+          "meningSv": "Jessica säger att hon är trött.",
+          "svar": ["qu'elle"],
+          "alternativ": ["qu'elle", "que elle", "qu'il", "si elle"],
+          "forklaring": "que + elle dras ihop till qu'elle. que elle utan elision är alltid fel."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Jonas demande ___ Kalle dort.",
+          "meningSv": "Jonas frågar om Kalle sover.",
+          "svar": ["si"],
+          "alternativ": ["si", "que", "est-ce que", "quoi"],
+          "forklaring": "Ja/nej-fråga blir indirekt med si (= om). est-ce que används aldrig i indirekt tal."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Il a dit qu'il ___ fatigué.",
+          "meningSv": "Han sa att han var trött.",
+          "svar": ["était"],
+          "alternativ": ["est", "était", "sera", "être"],
+          "forklaring": "Tempusförskjutning: efter a dit que backar presens (est) till imparfait (était)."
+        },
+        {
+          "typ": "val",
+          "fraga": "Direkt fråga: « Où habites-tu ? » Vilken indirekt form är rätt?",
+          "alternativ": ["Il demande où j'habite.", "Il demande où est-ce que j'habite.", "Il demande j'habite où."],
+          "svar": "Il demande où j'habite.",
+          "forklaring": "Frågeordet står kvar men ordföljden blir rak — ingen inversion, inget est-ce que."
+        },
+        {
+          "typ": "oversatt",
+          "meningSv": "Hon säger att hon kommer.",
+          "svar": ["Elle dit qu'elle vient.", "Elle dit qu'elle arrive."],
+          "forklaring": "dire que + rak sats; que + elle → qu'elle."
+        }
+      ]
+    }
+  ]
+}

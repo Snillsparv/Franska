@@ -1,0 +1,69 @@
+{
+  "lektioner": [
+    {
+      "id": 12,
+      "titel": "Liaison: förbjuden och valfri",
+      "teori": "<p>Förra lektionen lärde du dig när liaison är obligatorisk. Minst lika viktigt: när den är <strong>förbjuden</strong>. Att göra liaison på fel ställe låter faktiskt konstigare än att missa en obligatorisk.</p><p><strong>Liaison är förbjuden:</strong></p><ul><li><strong>Efter et:</strong> aldrig, någonsin. Un café et une bière — et elle uttalas [e äl], inte [e-täl]. Roligt nog är liaison efter <em>est</em> (är) tvärtom mycket vanlig — trots att orden låter likadant ensamma.</li><li><strong>Efter singularsubstantiv:</strong> un étudiant intelligent — inget [t] mellan orden. Substantivet är ett avslutat paket.</li><li><strong>Efter egennamn:</strong> Paris est là [pari ä la], aldrig [pariz-ä].</li><li><strong>Före h aspiré:</strong> les héros [le erå], les haricots [le arikå]. Det aspirerade h:et syns inte men fungerar som en vägbom — jämför h muet i les hommes [lez-åmm], där liaisonen rullar på.</li><li><strong>Före oui och onze:</strong> mais oui [mä wi], les onze [le ångz].</li></ul><p><strong>Valfri liaison</strong> finns också: efter est (c'est un [sätöng]), efter pas, trop, beaucoup med flera. Grundmönstret är socialt: ju mer <strong>formellt</strong> talet är, desto fler valfria liaisoner. En nyhetsuppläsare kedjar nästan allt; kompisar på kafé hoppar över det mesta. Båda har rätt.</p><p>Specialfall att memorera: <em>comment</em> gör liaison i exakt en fras — den artiga hälsningen comment allez-vous ? [kåmang-talevu]. I övrigt är det stopp: Comment elle va ? [kåmang äl va].</p><p>Strategi för dig som lär dig: gör alltid de obligatoriska, avstå de förbjudna, och strunta i de valfria tills örat säger till. Hellre en liaison för lite än ett [z] på fel plats.</p>",
+      "exempel": [
+        { "rang": 5, "fokus": "et elle [e äl] — ALDRIG liaison efter et" },
+        { "rang": 1834, "fokus": "les héros [le erå] — h aspiré blockerar liaisonen" },
+        { "rang": 1735, "fokus": "les haricots [le arikå] — inget [z] här" },
+        { "rang": 540, "fokus": "un étudiant intelligent — ingen liaison efter singularsubstantiv" },
+        { "rang": 35, "fokus": "mais oui [mä wi] — före oui blockeras liaison" },
+        { "rang": 110, "fokus": "comment allez-vous [kåmang-talevu] — enda comment-liaisonen" },
+        { "rang": 22, "fokus": "pas encore [paz-angkår] — valfri liaison, vanlig i ledigt tal" },
+        { "rang": 83, "fokus": "trop occupé [trop-åkype] — valfri; utan liaison är p:et tyst" }
+      ],
+      "sjalvtest": [
+        {
+          "fraga": "Efter vilket ord är liaison alltid förbjuden?",
+          "alternativ": ["et", "les", "très", "deux"],
+          "ratt": "et",
+          "forklaring": "Et bildar aldrig liaison: et elle [e äl]. Efter les, très och deux är liaisonen tvärtom obligatorisk."
+        },
+        {
+          "ljudText": "et elle",
+          "alternativ": ["et elle", "est-elle"],
+          "ratt": "et elle",
+          "forklaring": "Efter et: aldrig liaison — [e äl]. Est-elle ? har tvärtom obligatorisk liaison i inversionen: [ä-täl]."
+        },
+        {
+          "ljudText": "les héros",
+          "alternativ": ["les héros", "les zéros"],
+          "ratt": "les héros",
+          "forklaring": "H aspiré blockerar: [le erå] utan [z]. Med liaison hade det låtit som les zéros [le zerå] — nollorna! Därför heter det också le héros, inte l'héros."
+        },
+        {
+          "fraga": "Var är liaison förbjuden?",
+          "alternativ": ["Efter ett singularsubstantiv: un étudiant / intelligent", "Mellan artikel och substantiv: les amis", "Mellan pronomen och verb: vous avez"],
+          "ratt": "Efter ett singularsubstantiv: un étudiant / intelligent",
+          "forklaring": "Substantivet i singular är ett avslutat paket — ingen liaison till nästa ord. Artikel + substantiv och pronomen + verb är däremot obligatoriska fall."
+        },
+        {
+          "fraga": "Hur uttalas mais oui?",
+          "alternativ": ["[mä wi]", "[mäz-wi]"],
+          "ratt": "[mä wi]",
+          "forklaring": "Före oui (och före siffran onze) blockeras liaison: mais oui [mä wi], les onze [le ångz]."
+        },
+        {
+          "fraga": "Vad kännetecknar valfri liaison?",
+          "alternativ": ["Ju mer formellt talet är, desto fler görs", "Den görs alltid i vardagligt tal", "Den räknas egentligen som ett uttalsfel"],
+          "ratt": "Ju mer formellt talet är, desto fler görs",
+          "forklaring": "Valfri liaison är en stilmarkör: nyhetsuppläsaren säger pas encore [paz-angkår], kompisen på kaféet [pa angkår]. Båda är korrekta."
+        },
+        {
+          "fraga": "I vilken fras görs liaison efter comment?",
+          "alternativ": ["Bara i comment allez-vous ?", "Alltid när nästa ord börjar på vokal", "Aldrig"],
+          "ratt": "Bara i comment allez-vous ?",
+          "forklaring": "Comment allez-vous ? [kåmang-talevu] är ett fast uttryck med liaison. Annars är det stopp: Comment elle va ? [kåmang äl va]."
+        },
+        {
+          "fraga": "Vad gäller efter egennamn som Paris?",
+          "alternativ": ["Ingen liaison: Paris est là [pari ä la]", "Obligatorisk liaison: [pariz-ä la]"],
+          "ratt": "Ingen liaison: Paris est là [pari ä la]",
+          "forklaring": "Egennamn släpper aldrig i väg sin tysta slutkonsonant — Paris est là uttalas [pari ä la]."
+        }
+      ]
+    }
+  ]
+}

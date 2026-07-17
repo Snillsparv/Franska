@@ -1,0 +1,143 @@
+{
+  "kapitel": [
+    {
+      "id": 11,
+      "titel": "Passé composé med avoir",
+      "teori": "<p><strong>Passé composé</strong> är franskans vanligaste dåtid och täcker både svenskans \"jag åt\" och \"jag har ätit\". Den byggs av två delar: <em>presens av avoir</em> + <em>perfekt particip</em>.</p><p><strong>J'ai mangé</strong> = jag åt / jag har ätit.</p><table class=\"enkel\"><tr><th>avoir</th><th>+ particip</th></tr><tr><td>j'ai</td><td>mangé</td></tr><tr><td>tu as</td><td>mangé</td></tr><tr><td>il/elle/on a</td><td>mangé</td></tr><tr><td>nous avons</td><td>mangé</td></tr><tr><td>vous avez</td><td>mangé</td></tr><tr><td>ils/elles ont</td><td>mangé</td></tr></table><p>Participen bildas efter verbgrupp:</p><ul><li><strong>-er → -é</strong>: manger → mangé, gagner → gagné. Obs: <em>mangé</em> och <em>manger</em> uttalas exakt likadant — bara stavningen skiljer!</li><li><strong>-ir → -i</strong>: finir → fini, choisir → choisi</li><li><strong>-re → -u</strong>: perdre → perdu, attendre → attendu</li></ul><p>De vanligaste verben är tyvärr oregelbundna — lär dem som glosor:</p><table class=\"enkel\"><tr><th>infinitiv</th><th>particip</th></tr><tr><td>faire</td><td>fait</td></tr><tr><td>voir</td><td>vu</td></tr><tr><td>prendre</td><td>pris (även appris, compris)</td></tr><tr><td>écrire</td><td>écrit</td></tr><tr><td>recevoir</td><td>reçu</td></tr><tr><td>avoir</td><td>eu</td></tr><tr><td>être</td><td>été</td></tr><tr><td>boire</td><td>bu</td></tr><tr><td>mettre</td><td>mis</td></tr><tr><td>dire</td><td>dit</td></tr><tr><td>ouvrir/découvrir</td><td>ouvert/découvert</td></tr><tr><td>tenir/retenir</td><td>tenu/retenu</td></tr></table><p><strong>Minneskrokar:</strong> mönstret é–i–u för de tre grupperna. Små ord som <em>tout</em> och <em>bien</em> kläms in mellan avoir och participen: <em>J'ai <strong>tout</strong> retenu !</em> — Jag kom ihåg allt!</p><p>Negation omsluter bara hjälpverbet: <em>Je <strong>n'</strong>ai <strong>pas</strong> mangé.</em> De flesta verb tar avoir — undantagen (rörelseverb och reflexiva) kommer i nästa kapitel.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 327,
+          "mening": "J'ai ___ deux fois !",
+          "meningSv": "Jag har vunnit två gånger!",
+          "svar": ["gagné"],
+          "alternativ": ["gagné", "gagner", "gagne", "gagnons"],
+          "forklaring": "Efter j'ai kommer participen: -er-verb får -é. Gagné och gagner uttalas likadant men bara -é är rätt här."
+        },
+        {
+          "typ": "lucka",
+          "rang": 245,
+          "mening": "J'ai ___ mon téléphone !",
+          "meningSv": "Jag har tappat min telefon!",
+          "svar": ["perdu"],
+          "alternativ": ["perdu", "perdé", "perdre", "perds"],
+          "forklaring": "-re-verb får particip på -u: perdre → perdu."
+        },
+        {
+          "typ": "lucka",
+          "rang": 752,
+          "mening": "J'ai ___ une table pour trois.",
+          "meningSv": "Jag har bokat ett bord för tre.",
+          "svar": ["réservé"],
+          "alternativ": ["réservé", "réserver", "réserve", "réservez"],
+          "forklaring": "Particip av -er-verb slutar på -é: réserver → réservé. Infinitiven réserver låter likadant men är fel efter avoir."
+        },
+        {
+          "typ": "lucka",
+          "rang": 329,
+          "mening": "On a ___ des gens super.",
+          "meningSv": "Vi träffade jättetrevligt folk.",
+          "svar": ["rencontré"],
+          "alternativ": ["rencontré", "rencontrer", "rencontrons", "rencontres"],
+          "forklaring": "Participen ändras aldrig efter person med avoir: on a rencontré. Presensformerna rencontrons/rencontres hör inte hemma här."
+        },
+        {
+          "typ": "lucka",
+          "rang": 287,
+          "mening": "J'ai ___ un livre sur la mémoire.",
+          "meningSv": "Jag har skrivit en bok om minnet.",
+          "svar": ["écrit"],
+          "alternativ": ["écrit", "écrivé", "écrire", "écris"],
+          "forklaring": "écrire har oregelbundet particip: écrit. Écrivé finns inte."
+        },
+        {
+          "typ": "lucka",
+          "rang": 547,
+          "mening": "On a ___ la moitié !",
+          "meningSv": "Vi har gjort hälften!",
+          "svar": ["fait"],
+          "alternativ": ["fait", "faisé", "faire", "fais"],
+          "forklaring": "faire har oregelbundet particip: fait."
+        },
+        {
+          "typ": "lucka",
+          "rang": 522,
+          "mening": "J'ai ___ ton message !",
+          "meningSv": "Jag har fått ditt meddelande!",
+          "svar": ["reçu"],
+          "alternativ": ["reçu", "recevé", "reçois", "recevoir"],
+          "forklaring": "recevoir → reçu (med cedilj så att c uttalas som s)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 926,
+          "mening": "Au fait, tu as ___ ma vidéo ?",
+          "meningSv": "Förresten, har du sett min video?",
+          "svar": ["vu"],
+          "alternativ": ["vu", "voyé", "vois", "voir"],
+          "forklaring": "voir har oregelbundet particip: vu."
+        },
+        {
+          "typ": "lucka",
+          "rang": 739,
+          "mening": "J'ai tout ___ !",
+          "meningSv": "Jag kom ihåg allt!",
+          "svar": ["retenu"],
+          "forklaring": "retenir → retenu (som tenir → tenu). Lägg märke till att tout står mellan avoir och participen."
+        },
+        {
+          "typ": "lucka",
+          "rang": 891,
+          "mening": "J'ai ___ un truc génial !",
+          "meningSv": "Jag har upptäckt en grym grej!",
+          "svar": ["découvert"],
+          "alternativ": ["découvert", "découvri", "découvrir", "découvre"],
+          "forklaring": "découvrir → découvert, samma mönster som ouvrir → ouvert och offrir → offert."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 955,
+          "ord": ["Mince,", "j'ai", "oublié", "!"],
+          "meningSv": "Attans, jag glömde!",
+          "forklaring": "Hjälpverb + particip hänger ihop: j'ai oublié. Passé composé täcker både \"glömde\" och \"har glömt\"."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 1238,
+          "ord": ["J'ai", "raté", "le", "bus", "!"],
+          "meningSv": "Jag missade bussen!",
+          "forklaring": "Subjekt + avoir + particip + objekt: J'ai raté le bus."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 743,
+          "meningSv": "Har du märkt det?",
+          "svar": ["Tu as remarqué ?", "Tu as remarqué?"],
+          "forklaring": "Fråga med intonation: tu as + particip. remarquer → remarqué."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken är rätt participform av prendre?",
+          "alternativ": ["pris", "prendu", "prené", "prends"],
+          "svar": "pris",
+          "forklaring": "prendre är oregelbundet: pris. Samma mönster i appris (apprendre) och compris (comprendre)."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Nous ___ mangé ensemble hier.",
+          "meningSv": "Vi åt tillsammans igår.",
+          "svar": ["avons"],
+          "alternativ": ["avons", "sommes", "ont", "avez"],
+          "forklaring": "Hjälpverbet är avoir i presens: nous avons. Sommes är être och används inte med manger."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken mening är rätt?",
+          "alternativ": ["J'ai mangé une pomme.", "J'ai manger une pomme."],
+          "svar": "J'ai mangé une pomme.",
+          "forklaring": "Efter avoir kommer participen mangé, aldrig infinitiven manger — de uttalas likadant men stavas olika."
+        }
+      ]
+    }
+  ]
+}

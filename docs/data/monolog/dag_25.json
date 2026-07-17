@@ -1,0 +1,29 @@
+{
+  "dag": 25,
+  "titel": "Hur länge jag har hållit på",
+  "svenska": "I dag är det dag 25 av mitt projekt. Jag har lärt mig franska i 25 dagar nu, och sedan starten har jag lärt mig 2 500 ord. Det är mycket för ett enda huvud. Jag började för nästan en månad sedan, och jag har inte vilat en enda dag.\n\nVarje morgon studerar jag i två timmar, och på kvällen tränar jag i 30 minuter till. Under dagen tänker jag på franska: på bussen, i duschen, överallt. För 10 år sedan vann jag mitt första världsmästerskap i minne. Sedan dess tränar jag min hjärna varje dag, och nu jobbar den för Frankrike.\n\nJessica har haft tålamod sedan starten — hon har bott med en världsmästare i 10 år, så hon är van. Om 5 dagar är jag redo. Nåja, nästan.",
+  "franska": "Aujourd'hui, c'est le jour 25 de mon projet. J'apprends le français depuis 25 jours maintenant, et depuis le début, j'ai appris 2 500 mots. C'est beaucoup pour une seule tête. J'ai commencé il y a presque un mois, et je n'ai pas arrêté un seul jour.\n\nChaque matin, j'étudie pendant deux heures, et le soir, je m'entraîne encore pendant 30 minutes. Pendant la journée, je pense en français : dans le bus, sous la douche, partout. Il y a 10 ans, j'ai gagné mon premier championnat du monde de mémoire. Depuis, j'entraîne mon cerveau tous les jours, et maintenant, il travaille pour la France.\n\nJessica a de la patience depuis le début — elle vit avec un champion du monde depuis 10 ans, alors elle a l'habitude. Dans 5 jours, je serai prêt. Enfin, presque.",
+  "lemma": {
+    "est": 4,
+    "serai": 4,
+    "ai": 8,
+    "a": 8,
+    "apprends": 154,
+    "appris": 154,
+    "mots": 155,
+    "seule": 171,
+    "commencé": 175,
+    "arrêté": 338,
+    "étudie": 541,
+    "heures": 122,
+    "minutes": 1006,
+    "entraîne": 427,
+    "pense": 79,
+    "ans": 86,
+    "jours": 65,
+    "gagné": 327,
+    "travaille": 143,
+    "vit": 296
+  },
+  "friaOrd": ["Jessica", "France"]
+}

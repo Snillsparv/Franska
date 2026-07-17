@@ -1,0 +1,31 @@
+{
+  "dag": 20,
+  "titel": "Råd till en vän",
+  "svenska": "Min vän Pierre vill lära sig franska. I går frågade han mig: \"Jonas, hur gör du?\" Så här kommer mina råd. Börja i dag, inte i morgon. Lär dig två ord varje morgon – inte hundra, det där är för världsmästare i minne.\n\nLyssna på fransk musik i köket. Prata för dig själv i duschen – Jessica tycker att det är konstigt, men det fungerar. Översätt inte varje ord: lyssna på meningen. Och var inte rädd för fel. Jag gör hundra om dagen, och jag finns fortfarande kvar.\n\nOch framför allt: hitta en anledning att älska språket. Jag har en bra anledning: snart åker jag till Frankrike med min familj. Pierre, om jag kan göra det, kan du göra det också. Kom igen, till jobbet!",
+  "franska": "Mon ami Pierre veut apprendre le français. Hier, il m'a demandé : « Jonas, comment tu fais ? » Alors voici mes conseils. Commence aujourd'hui, pas demain. Apprends deux mots chaque matin — pas cent, ça c'est pour les champions du monde de mémoire.\n\nÉcoute de la musique française dans la cuisine. Parle tout seul sous la douche — Jessica trouve ça bizarre, mais ça marche. Ne traduis pas chaque mot : écoute la phrase. Et n'aie pas peur des fautes. Moi, j'en fais cent par jour, et je suis toujours là.\n\nEt surtout, trouve une raison d'aimer la langue. Moi, j'en ai une bonne : bientôt, je pars en France avec ma famille. Pierre, si je peux le faire, tu peux le faire aussi. Allez, au travail !",
+  "lemma": {
+    "veut": 47,
+    "a": 8,
+    "ai": 8,
+    "aie": 8,
+    "demandé": 150,
+    "fais": 26,
+    "conseils": 880,
+    "commence": 175,
+    "apprends": 154,
+    "mots": 155,
+    "champions": 1204,
+    "écoute": 145,
+    "parle": 61,
+    "trouve": 99,
+    "marche": 248,
+    "traduis": 429,
+    "fautes": 419,
+    "suis": 4,
+    "pars": 148,
+    "peux": 36,
+    "bonne": 56,
+    "est": 4
+  },
+  "friaOrd": ["Jonas", "Jessica", "France"]
+}

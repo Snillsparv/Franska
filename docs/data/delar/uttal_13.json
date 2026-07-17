@@ -1,0 +1,57 @@
+{
+  "lektioner": [
+    {
+      "id": 13,
+      "titel": "Enchaînement och rytm",
+      "teori": "<p>Varför låter franska som en enda lång ström där man aldrig hör var orden börjar och slutar? Svaret heter <strong>enchaînement</strong> — ihopkedjning. Ordet kommer från chaîne, kedja: franskan kedjar ihop allt.</p><p>Skillnaden mot liaison är enkel men viktig: liaison <em>väcker</em> en konsonant som annars är tyst (les amis). Enchaînement tar en konsonant som <strong>redan uttalas</strong> och flyttar den till nästa ords första stavelse:</p><ul><li>il a → [i-la] — l:et hoppar över ordgränsen</li><li>elle est → [ä-lä]</li><li>avec elle → [a-vä-käl] — tre stavelser, ingen paus</li><li>quatre heures → [ka-trör]</li></ul><p>Varför gör franskan så? För att den älskar <strong>öppna stavelser</strong> — stavelser som slutar på vokal. Där svenskan gärna stänger stavelsen med en konsonant, skjuter franskan konsonanten framåt: une petite amie blir [y-nö-pö-ti-ta-mi]. Sex öppna stavelser, som ett pärlband.</p><p>Detta ger också franskan dess speciella <strong>rytm</strong>. Svenskan växlar mellan betonade och obetonade stavelser (DA-da-DA-da). Franskan ger i stället varje stavelse ungefär <em>samma längd och styrka</em>, som ett jämnt maskingevär av stavelser, och delar upp talet i <strong>rytmgrupper</strong>: små betydelsepaket på 3–7 stavelser. Pauser gör man mellan grupperna — aldrig mellan orden inne i en grupp.</p><p>Praktisk konsekvens: sluta lyssna efter enskilda ord. Lyssna efter rytmgrupper och träna på att säga hela paket i ett svep: [i-lä-ta-le-kål] — Il est à l'école. När du vågar kedja ihop stavelserna, i jämn takt utan svensk gung, händer något magiskt: du börjar låta fransk, även när du säger fel ord.</p>",
+      "exempel": [
+        { "rang": 7, "fokus": "il a [i-la] — l:et hoppar till nästa stavelse" },
+        { "rang": 19, "fokus": "elle est [ä-lä] — stavelsen slutar öppet" },
+        { "rang": 37, "fokus": "avec elle [a-vä-käl] — slutkonsonanten [k] kedjas vidare" },
+        { "rang": 3, "fokus": "une amie [y-na-mi] — n:et kedjas över gränsen" },
+        { "rang": 225, "fokus": "à l'école [a-le-kål] — tre ord, en ström" },
+        { "rang": 63, "fokus": "elle aime [ä-läm] — jämna, öppna stavelser" },
+        { "rang": 122, "fokus": "quatre heures [ka-trör] — hela tr-klustret följer med" },
+        { "rang": 1003, "fokus": "une idée [y-ni-de] — pärlband av stavelser" }
+      ],
+      "sjalvtest": [
+        {
+          "fraga": "Vad är skillnaden mellan enchaînement och liaison?",
+          "alternativ": ["Enchaînement kedjar en konsonant som redan uttalas; liaison väcker en tyst", "De är exakt samma sak", "Enchaînement gäller bara i skrift"],
+          "ratt": "Enchaînement kedjar en konsonant som redan uttalas; liaison väcker en tyst",
+          "forklaring": "I avec elle hörs [k] redan i avec — det kedjas bara vidare. I les amis är s:et tyst tills liaisonen väcker det som [z]."
+        },
+        {
+          "fraga": "Hur delar franskan upp elle est i stavelser?",
+          "alternativ": ["[ä-lä]", "[äl-ä]", "[äl-lä]"],
+          "ratt": "[ä-lä]",
+          "forklaring": "L:et flyttar till nästa stavelse så att den första kan sluta öppet på vokal: [ä-lä]."
+        },
+        {
+          "rang": 37,
+          "alternativ": ["avec", "avez"],
+          "ratt": "avec",
+          "forklaring": "Avec slutar på ett hörbart [k] (en CaReFuL-konsonant) — det är den som kedjas vidare i avec elle [a-vä-käl]. Avez slutar öppet: [ave]."
+        },
+        {
+          "ljudText": "une amie",
+          "alternativ": ["une amie", "un ami"],
+          "ratt": "une amie",
+          "forklaring": "Båda kedjas ihop, men une amie börjar [y-na-mi] med rent [y]. Un ami börjar med nasalt [öng]: [öng-na-mi]."
+        },
+        {
+          "fraga": "Varför låter franska som en obruten ström?",
+          "alternativ": ["Orden kedjas ihop — paus görs bara mellan rytmgrupper", "Fransmän talar snabbare än alla andra", "Varje ord betonas lika starkt i början"],
+          "ratt": "Orden kedjas ihop — paus görs bara mellan rytmgrupper",
+          "forklaring": "Inne i en rytmgrupp finns inga ordgränser för örat: Il est à l'école blir [i-lä-ta-le-kål] i ett enda svep."
+        },
+        {
+          "fraga": "Vad kännetecknar den typiska franska stavelsen?",
+          "alternativ": ["Den slutar helst på vokal — öppen stavelse", "Den slutar helst på konsonant", "Den är alltid betonad"],
+          "ratt": "Den slutar helst på vokal — öppen stavelse",
+          "forklaring": "Franskan skjuter konsonanter framåt för att stavelserna ska sluta öppet: une petite amie [y-nö-pö-ti-ta-mi]. Det är motorn bakom både enchaînement och rytmen."
+        }
+      ]
+    }
+  ]
+}

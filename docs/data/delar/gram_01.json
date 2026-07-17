@@ -1,0 +1,144 @@
+{
+  "kapitel": [
+    {
+      "id": 1,
+      "titel": "Bestämd och obestämd artikel & genus",
+      "teori": "<p>Alla franska substantiv har ett <strong>genus</strong>: maskulinum eller femininum. Artikeln måste alltid matcha genuset — därför ska du lära dig varje ord tillsammans med sin artikel. Tänk <em>un café</em>, <em>une ville</em> — aldrig bara <em>café</em>.</p><table class=\"enkel\"><tr><th></th><th>Maskulinum</th><th>Femininum</th><th>Plural</th></tr><tr><td><strong>Bestämd</strong> (kaffet, staden)</td><td>le café</td><td>la ville</td><td>les mots</td></tr><tr><td><strong>Obestämd</strong> (en kaffe, en stad)</td><td>un café</td><td>une bière</td><td>des amis</td></tr></table><p>Framför vokal eller stumt h krymper både <em>le</em> och <em>la</em> till <strong>l'</strong>: <em>l'eau</em> (vattnet), <em>l'hôtel</em>. <strong>Les</strong> är plural för båda genusen, och <strong>des</strong> är obestämd plural — svenskan saknar ordet, men tänk \"några\": <em>des fleurs</em> = (några) blommor.</p><p><strong>Genusstrategier.</strong> Genus är sällan logiskt, men ändelsen avslöjar ofta rätt svar:</p><ul><li><strong>Oftast femininum:</strong> -tion/-sion (<em>la question</em>), -té (<em>la santé</em>), -ie (<em>la vie</em>), -ette, -ure, -ance/-ence, -ée</li><li><strong>Oftast maskulinum:</strong> -age (<em>le fromage</em>), -ment (<em>le moment</em>), -eau (<em>le gâteau</em>), -isme, -oir, -et</li></ul><p>Observera undantaget: <em>l'eau</em> är femininum trots -eau! Andra bra krokar: yrken och personer följer oftast personens kön (<em>le père, la mère</em>), och länder på -e är oftast feminina (<em>la France, la Suède</em>).</p><p><strong>Minnesteknik:</strong> koppla en bild till genuset när du lär dig ordet. Se en blå ram runt maskulina ord och en röd runt feminina, eller låt Jonas hålla i alla le-ord och Jessica i alla la-ord. Det tar en sekund extra per ord — och sparar hundratals fel senare. När du är osäker i tal: välj <em>le/un</em> (fler ord är maskulina) och rätta dig själv om det behövs. Fransmännen förstår dig ändå!</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 1,
+          "mening": "___ café, s'il vous plaît.",
+          "meningSv": "Kaffet, tack.",
+          "svar": ["Le"],
+          "alternativ": ["Le", "La", "Les", "L'"],
+          "forklaring": "café är maskulinum → bestämd artikel le. Krok: -eau och kaffe-ord är oftast maskulina."
+        },
+        {
+          "typ": "lucka",
+          "rang": 3,
+          "mening": "Un café et ___ bière, s'il vous plaît.",
+          "meningSv": "En kaffe och en öl, tack.",
+          "svar": ["une"],
+          "alternativ": ["une", "un", "la", "des"],
+          "forklaring": "bière är femininum → obestämd artikel une (jämför un café, maskulinum)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 89,
+          "mening": "___ petit café ?",
+          "meningSv": "En liten kaffe?",
+          "svar": ["Un"],
+          "alternativ": ["Un", "Une", "Le", "La"],
+          "forklaring": "\"En liten kaffe\" = obestämd artikel, och café är maskulinum → un."
+        },
+        {
+          "typ": "lucka",
+          "rang": 92,
+          "mening": "C'est ___ vie !",
+          "meningSv": "Sånt är livet!",
+          "svar": ["la"],
+          "alternativ": ["la", "le", "les", "une"],
+          "forklaring": "vie slutar på -ie → oftast femininum → la vie."
+        },
+        {
+          "typ": "lucka",
+          "rang": 135,
+          "mening": "Jessica, c'est ___ mère de Kalle.",
+          "meningSv": "Jessica är Kalles mamma.",
+          "svar": ["la"],
+          "alternativ": ["la", "le", "les", "un"],
+          "forklaring": "mère är femininum (personens kön), och det är en bestämd mamma — Kalles → la."
+        },
+        {
+          "typ": "lucka",
+          "rang": 138,
+          "mening": "Alingsås, c'est ___ petite ville.",
+          "meningSv": "Alingsås är en liten stad.",
+          "svar": ["une"],
+          "alternativ": ["une", "un", "la", "le"],
+          "forklaring": "ville är femininum, och \"en liten stad\" är obestämt → une."
+        },
+        {
+          "typ": "lucka",
+          "rang": 139,
+          "mening": "La Suède, c'est ___ grand pays.",
+          "meningSv": "Sverige är ett stort land.",
+          "svar": ["un"],
+          "alternativ": ["un", "une", "le", "la"],
+          "forklaring": "pays är maskulinum → un grand pays. Jämför: la Suède (land på -e = femininum)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 141,
+          "mening": "De ___, s'il vous plaît.",
+          "meningSv": "Lite vatten, tack.",
+          "svar": ["l'eau"],
+          "alternativ": ["l'eau", "la eau", "le eau", "l'eaux"],
+          "forklaring": "Framför vokal blir le/la → l': l'eau. (eau är femininum — undantag från -eau-regeln!)"
+        },
+        {
+          "typ": "lucka",
+          "rang": 187,
+          "mening": "___ table pour trois, s'il vous plaît.",
+          "meningSv": "Ett bord för tre, tack.",
+          "svar": ["Une"],
+          "alternativ": ["Une", "Un", "La", "Le"],
+          "forklaring": "table är femininum → une. \"Ett bord\" (vilket som helst) = obestämd artikel."
+        },
+        {
+          "typ": "lucka",
+          "rang": 155,
+          "mening": "J'aime ___ mots !",
+          "meningSv": "Jag älskar ord!",
+          "svar": ["les"],
+          "alternativ": ["les", "le", "la", "des"],
+          "forklaring": "Efter aimer/adorer används bestämd artikel om det man gillar i allmänhet: les mots."
+        },
+        {
+          "typ": "lucka",
+          "rang": 227,
+          "mening": "On prend ___ voiture ou le train ?",
+          "meningSv": "Ska vi ta bilen eller tåget?",
+          "svar": ["la"],
+          "forklaring": "voiture är femininum → la voiture (jämför le train, maskulinum)."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilket av orden är femininum?",
+          "alternativ": ["ville", "pays", "café", "moment"],
+          "svar": "ville",
+          "forklaring": "la ville. De andra är maskulina: le pays, le café, le moment (-ment är en maskulin ändelse)."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken ändelse avslöjar att ett ord nästan alltid är femininum?",
+          "alternativ": ["-tion", "-age", "-isme", "-ment"],
+          "svar": "-tion",
+          "forklaring": "-tion är femininum: la question, la station. -age, -isme och -ment är typiskt maskulina."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken artikel använder du för obestämd plural (\"några blommor\")?",
+          "alternativ": ["des", "les", "un", "du"],
+          "svar": "des",
+          "forklaring": "des fleurs = (några) blommor. les = bestämd plural, un = singular, du = partitiv (lite av)."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 63,
+          "ord": ["J'aime", "la", "France", "!"],
+          "meningSv": "Jag älskar Frankrike!",
+          "forklaring": "Länder har artikel på franska: la France (land på -e = femininum)."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 156,
+          "meningSv": "Jag lär mig ett nytt språk.",
+          "svar": ["J'apprends une nouvelle langue.", "J'apprends une nouvelle langue"],
+          "forklaring": "langue är femininum → une nouvelle langue (nouvelle är den feminina formen av nouveau)."
+        }
+      ]
+    }
+  ]
+}

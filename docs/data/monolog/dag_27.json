@@ -1,0 +1,30 @@
+{
+  "dag": 27,
+  "titel": "Vad folk säger om projektet",
+  "svenska": "Alla har en åsikt om mitt projekt. Min mamma frågade om jag verkligen var seriös. Jag svarade att ja, mycket seriös. Min granne sa att det var omöjligt att lära sig 3 000 ord på 30 dagar. Jag förklarade att för en världsmästare i minne är ingenting omöjligt.\n\nJessica säger att jag pratar franska i sömnen. Hon berättar att jag i natt sa ”fromage” 3 gånger. Kalle frågade varför jag inte kunde lära mig något nyttigt i stället, som namnen på alla Pokémon.\n\nTidningen skrev att jag var ”mannen som äter ord”. Det är kanske sant. Men jag säger att om 5 dagar är jag i Frankrike. Och där får vi se vem som är galen.",
+  "franska": "Tout le monde a un avis sur mon projet. Ma mère m'a demandé si j'étais vraiment sérieux. Je lui ai répondu que oui, très sérieux. Mon voisin m'a dit que c'était impossible d'apprendre 3 000 mots en 30 jours. Je lui ai expliqué que pour un champion du monde de mémoire, rien n'est impossible.\n\nJessica dit que je parle français dans mon sommeil. Elle raconte que cette nuit, j'ai dit « fromage » 3 fois. Kalle m'a demandé pourquoi je ne pouvais pas apprendre quelque chose d'utile, comme les noms de tous les Pokémon.\n\nLe journal a écrit que j'étais « l'homme qui mange des mots ». C'est peut-être vrai. Mais moi, je dis que dans 5 jours, je serai en France. Et là, on verra qui est fou.",
+  "lemma": {
+    "a": 8,
+    "ai": 8,
+    "est": 4,
+    "étais": 4,
+    "était": 4,
+    "serai": 4,
+    "demandé": 150,
+    "répondu": 324,
+    "expliqué": 322,
+    "dit": 28,
+    "dis": 28,
+    "raconte": 323,
+    "parle": 61,
+    "mange": 100,
+    "écrit": 287,
+    "pouvais": 36,
+    "peut": 36,
+    "verra": 53,
+    "mots": 155,
+    "noms": 140,
+    "jours": 65
+  },
+  "friaOrd": ["Jessica", "Kalle", "France", "Pokémon"]
+}

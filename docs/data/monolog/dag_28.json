@@ -1,0 +1,31 @@
+{
+  "dag": 28,
+  "titel": "Hundra ord om dagen",
+  "svenska": "Folk frågar mig ofta hur jag lär mig hundra ord om dagen. Min metod är enkel: bilder överallt. För varje ord skapar jag en bild och en association, sedan sätter jag bilden i mitt minnespalats. Genom att gå genom rummen hittar jag alla orden igen. Minnet, det kan man träna!\n\nJag lär mig också genom att leva. Medan jag förbereder kaffet upprepar jag gårdagens ord. När jag promenerar med Kalle beskriver jag allt jag ser: en fågel, en blomma, en hund. Och på kvällen, medan jag sjunger en vaggvisa, tänker jag på franska. Jessica säger att jag pratar franska till och med när jag sover. Det är möjligt.\n\nDet viktigaste är att repetera lite varje dag, utan att få panik. Tio minuter på morgonen, tio på kvällen. Med rätt teknik är allt lätt — och om två dagar: Frankrike!",
+  "franska": "On me demande souvent comment j'apprends cent mots par jour. Ma méthode est simple : des images partout. Pour chaque mot, je crée une image et une association, puis je mets l'image dans mon palais de la mémoire. En marchant dans les pièces, je retrouve tous les mots. La mémoire, ça se travaille !\n\nJ'apprends aussi en vivant. En préparant le café, je répète les mots d'hier. En me promenant avec Kalle, je décris tout ce que je vois : un oiseau, une fleur, un chien. Et le soir, en chantant une berceuse, je pense en français. Jessica dit que je parle français même en dormant. C'est possible.\n\nLe plus important, c'est de répéter un peu chaque jour, sans paniquer. 10 minutes le matin, 10 le soir. Avec la bonne technique, tout est facile — et dans deux jours : la France !",
+  "lemma": {
+    "demande": 150,
+    "apprends": 154,
+    "mots": 155,
+    "images": 545,
+    "crée": 489,
+    "mets": 91,
+    "marchant": 248,
+    "pièces": 1028,
+    "retrouve": 466,
+    "travaille": 143,
+    "vivant": 296,
+    "préparant": 518,
+    "répète": 184,
+    "promenant": 467,
+    "décris": 1253,
+    "vois": 53,
+    "chantant": 438,
+    "pense": 79,
+    "parle": 61,
+    "dormant": 189,
+    "minutes": 1006,
+    "jours": 65
+  },
+  "friaOrd": ["Jessica", "Kalle", "France"]
+}

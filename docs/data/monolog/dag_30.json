@@ -1,0 +1,27 @@
+{
+  "dag": 30,
+  "titel": "Väskan är packad",
+  "svenska": "Nu är det dags. Väskan är packad och står framför dörren. Trettio dagar, tre tusen ord, ett helt litet språk i huvudet. Bilen kommer om en timme. Jessica letar efter Kalles napp — panik, som vanligt — och jag står vid fönstret med biljetterna i handen. Mitt hjärta slår hårt.\n\nFör en månad sedan var Frankrike bara en dröm. Nu kan jag säga att jag är lycklig, att jag är rädd, att jag är redo — och allt det på franska. I kväll får Kalle en fransk vaggvisa. I morgon bitti får Jessica gott bröd från ett riktigt bageri. Och jag? Jag ska äntligen leva mitt livs äventyr.\n\nTack till alla er som har gjort den här resan med mig. Nu åker vi till flygplatsen. Nästa gång pratar jag franska med er. Hejdå, Sverige. Frankrike, nu kommer vi!",
+  "franska": "Ça y est. La valise est prête, devant la porte. 30 jours, 3 000 mots, toute une petite langue dans la tête. La voiture arrive dans une heure. Jessica cherche la tétine de Kalle — panique, comme d'habitude — et moi, je suis à la fenêtre, les billets à la main. Mon cœur bat fort.\n\nIl y a un mois, la France était seulement un rêve. Maintenant, je peux dire que je suis heureux, que j'ai peur, que je suis prêt — et tout ça en français. Ce soir, Kalle aura une berceuse française. Demain matin, Jessica aura du bon pain d'une vraie boulangerie. Et moi ? Je vivrai enfin l'aventure de ma vie.\n\nMerci à tous ceux qui ont fait ce voyage avec moi. Maintenant, nous partons pour l'aéroport. La prochaine fois, je vous parlerai en français. Au revoir, la Suède. La France, on arrive !",
+  "lemma": {
+    "jours": 65,
+    "mots": 155,
+    "petite": 89,
+    "cherche": 244,
+    "panique": 2542,
+    "suis": 4,
+    "billets": 451,
+    "bat": 1407,
+    "était": 4,
+    "peux": 36,
+    "aura": 8,
+    "vraie": 159,
+    "vivrai": 296,
+    "ceux": 857,
+    "ont": 8,
+    "partons": 148,
+    "parlerai": 61,
+    "arrive": 147
+  },
+  "friaOrd": ["Jessica", "Kalle", "Suède", "France"]
+}

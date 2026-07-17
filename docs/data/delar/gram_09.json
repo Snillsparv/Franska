@@ -1,0 +1,231 @@
+{
+  "kapitel": [
+    {
+      "id": 9,
+      "titel": "-ir- och -re-verb",
+      "teori": "<p>Efter -er-verben kommer de två andra stora verbfamiljerna: <strong>-ir-verb</strong> (mönster: <em>finir</em> = sluta) och <strong>-re-verb</strong> (mönster: <em>attendre</em> = vänta).</p><table class=\"enkel\"><tr><th></th><th>finir (-ir)</th><th>attendre (-re)</th></tr><tr><td>je</td><td>fin<strong>is</strong></td><td>attend<strong>s</strong></td></tr><tr><td>tu</td><td>fin<strong>is</strong></td><td>attend<strong>s</strong></td></tr><tr><td>il/elle/on</td><td>fin<strong>it</strong></td><td>attend</td></tr><tr><td>nous</td><td>fin<strong>issons</strong></td><td>attend<strong>ons</strong></td></tr><tr><td>vous</td><td>fin<strong>issez</strong></td><td>attend<strong>ez</strong></td></tr><tr><td>ils/elles</td><td>fin<strong>issent</strong></td><td>attend<strong>ent</strong></td></tr></table><p><strong>Finir-familjens signum:</strong> plural får ett extra <strong>-iss-</strong> — <em>nous finissons, ils finissent</em>. Hör du [iss] vet du att det är plural! Samma mönster: <em>choisir</em> (välja), <em>réussir</em> (lyckas), <em>réfléchir</em> (fundera), <em>grandir</em> (växa), <em>remplir</em> (fylla i).</p><p><strong>Attendre-familjens signum:</strong> il/elle-formen är <em>naken</em> — bara stammen, inget -t: <em>il attend, il répond</em>. Slut-d:et är tyst i singular, så <em>attends/attend</em> låter likadant [atã]. Samma mönster: <em>entendre</em> (höra), <em>répondre</em> (svara), <em>perdre</em> (tappa), <em>vendre</em> (sälja), <em>descendre</em> (gå ner/kliva av).</p><p><strong>Varning — falska -ir-vänner:</strong> <em>partir, sortir, dormir</em> följer INTE finir-mönstret. De tappar en konsonant i singular: <em>je dors, il dort — men nous dormons, ils dorment</em>. Och <em>prendre</em> (med <em>comprendre, apprendre</em>) smiter från attendre-mönstret i plural: <em>ils prennent</em> [prenn].</p><p>Minneskrok: singularändelserna är nästan alltid <strong>-s, -s, -t/–</strong> för alla verb utom -er. Kan du <em>je finis / il finit</em> och <em>j'attends / il attend</em> har du ryggraden — resten är körer på -ons, -ez, -ent.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 423,
+          "mening": "Je ___ le poisson.",
+          "meningSv": "Jag väljer fisken.",
+          "svar": [
+            "choisis"
+          ],
+          "forklaring": "je + -ir-verb (finir-mönstret) → -is: je choisis.",
+          "alternativ": [
+            "choisis",
+            "choisit",
+            "choisissons",
+            "choisir"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 683,
+          "mening": "Kalle ___ trop vite !",
+          "meningSv": "Kalle växer för fort!",
+          "svar": [
+            "grandit"
+          ],
+          "forklaring": "Kalle = il → -it: il grandit. grandis är je/tu-formen.",
+          "alternativ": [
+            "grandit",
+            "grandis",
+            "grandissent",
+            "grandir"
+          ]
+        },
+        {
+          "typ": "val",
+          "fraga": "Hur böjs finir med nous?",
+          "alternativ": [
+            "nous finissons",
+            "nous finons",
+            "nous finisez",
+            "nous finirons"
+          ],
+          "svar": "nous finissons",
+          "forklaring": "Finir-familjen får -iss- i plural: nous finissons, vous finissez, ils finissent."
+        },
+        {
+          "typ": "lucka",
+          "rang": 559,
+          "mening": "Attends, je ___...",
+          "meningSv": "Vänta, jag funderar...",
+          "svar": [
+            "réfléchis"
+          ],
+          "forklaring": "je → -is: je réfléchis. Finir-mönstret: -is, -is, -it.",
+          "alternativ": [
+            "réfléchis",
+            "réfléchit",
+            "réfléchissons",
+            "réfléchir"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 324,
+          "mening": "Il ne ___ pas au téléphone.",
+          "meningSv": "Han svarar inte i telefon.",
+          "svar": [
+            "répond"
+          ],
+          "forklaring": "il-formen av -re-verb är bara stammen, utan ändelse: il répond. réponds är je/tu-formen.",
+          "alternativ": [
+            "répond",
+            "réponds",
+            "répondent",
+            "répondre"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 183,
+          "mening": "Je n'___ pas bien.",
+          "meningSv": "Jag hör inte så bra.",
+          "svar": [
+            "entends"
+          ],
+          "forklaring": "je + -re-verb → -s: j'entends. Utan -s är det il/elle-formen.",
+          "alternativ": [
+            "entends",
+            "entend",
+            "entendons",
+            "entendre"
+          ]
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken form är rätt: ils + attendre?",
+          "alternativ": [
+            "ils attendent",
+            "ils attends",
+            "ils attendont",
+            "ils attendrent"
+          ],
+          "svar": "ils attendent",
+          "forklaring": "ils/elles får -ent: ils attendent. Nu hörs d:et — [atãd]!"
+        },
+        {
+          "typ": "lucka",
+          "rang": 493,
+          "mening": "Je ___ mes livres sur mon site.",
+          "meningSv": "Jag säljer mina böcker på min sajt.",
+          "svar": [
+            "vends"
+          ],
+          "forklaring": "je → -s: je vends. il vend är formen utan -s.",
+          "alternativ": [
+            "vends",
+            "vend",
+            "vendons",
+            "vendre"
+          ]
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 69,
+          "ord": [
+            "Je",
+            "ne",
+            "comprends",
+            "pas."
+          ],
+          "meningSv": "Jag förstår inte.",
+          "forklaring": "comprendre böjs som prendre: je comprends. ne … pas omsluter verbet."
+        },
+        {
+          "typ": "lucka",
+          "rang": 189,
+          "mening": "Kalle ___ maintenant.",
+          "meningSv": "Kalle sover nu.",
+          "svar": [
+            "dort"
+          ],
+          "forklaring": "dormir är oregelbundet: je dors, il dort — m:et försvinner i singular.",
+          "alternativ": [
+            "dort",
+            "dors",
+            "dorment",
+            "dormir"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 148,
+          "mening": "On ___ demain.",
+          "meningSv": "Vi åker imorgon.",
+          "svar": [
+            "part"
+          ],
+          "forklaring": "partir böjs som dormir: on part (samma form som il/elle). pars är je/tu-formen.",
+          "alternativ": [
+            "part",
+            "pars",
+            "partent",
+            "partir"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 62,
+          "mening": "Je ___ le train pour Paris.",
+          "meningSv": "Jag tar tåget till Paris.",
+          "svar": [
+            "prends"
+          ],
+          "forklaring": "je prends med -s. prendre följer -re-mönstret i singular men blir ils prennent i plural.",
+          "alternativ": [
+            "prends",
+            "prend",
+            "prennent",
+            "prendre"
+          ]
+        },
+        {
+          "typ": "lucka",
+          "rang": 842,
+          "mening": "Je ___ le formulaire.",
+          "meningSv": "Jag fyller i formuläret.",
+          "svar": [
+            "remplis"
+          ],
+          "forklaring": "je → -is: je remplis. Finir-mönstret.",
+          "alternativ": [
+            "remplis",
+            "remplit",
+            "remplissons",
+            "remplir"
+          ]
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 342,
+          "ord": [
+            "Kalle",
+            "ne",
+            "court",
+            "pas",
+            "encore",
+            "!"
+          ],
+          "meningSv": "Kalle springer inte än!",
+          "forklaring": "courir är oregelbundet: il court med -t. ne … pas runt verbet, encore sist."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 190,
+          "meningSv": "Ska vi gå ut ikväll?",
+          "svar": [
+            "On sort ce soir ?",
+            "Est-ce qu'on sort ce soir ?"
+          ],
+          "forklaring": "sortir böjs som dormir/partir: on sort. Intonationen gör påståendet till en fråga."
+        }
+      ]
+    }
+  ]
+}

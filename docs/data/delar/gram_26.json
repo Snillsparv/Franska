@@ -1,0 +1,124 @@
+{
+  "kapitel": [
+    {
+      "id": 26,
+      "titel": "Subjonctif: introduktion",
+      "teori": "<p><strong>Subjonctif</strong> är ett verbmodus, inte ett tempus. Det används när något inte är ett rent faktum utan en <em>nödvändighet, vilja, känsla eller tvekan</em> — och det dyker nästan alltid upp efter ett <strong>que</strong>. Vanligaste utlösaren är <strong>il faut que</strong> (= det är nödvändigt att / man måste):</p><p><em>Il faut que j'y aille !</em> — Jag måste dra nu!</p><p><strong>Bildning:</strong> utgå från <em>ils</em>-formen i presens, stryk <em>-ent</em> och lägg på ändelserna <em>-e, -es, -e, -ions, -iez, -ent</em>. För regelbundna verb ser je/tu/il-formerna alltså ofta ut precis som vanlig presens — det är de oregelbundna du måste plugga:</p><table class=\"enkel\"><tr><th>verb</th><th>que je...</th><th>que tu...</th><th>qu'il/elle...</th></tr><tr><td>être</td><td>sois</td><td>sois</td><td>soit</td></tr><tr><td>avoir</td><td>aie</td><td>aies</td><td>ait</td></tr><tr><td>faire</td><td>fasse</td><td>fasses</td><td>fasse</td></tr><tr><td>pouvoir</td><td>puisse</td><td>puisses</td><td>puisse</td></tr><tr><td>aller</td><td>aille</td><td>ailles</td><td>aille</td></tr></table><p><strong>Vanliga utlösare:</strong></p><ul><li><em>il faut que</em> — man måste</li><li><em>je veux que</em> — jag vill att</li><li><em>pour que</em> — för att (syfte): <em>Je répète pour que ce soit parfait.</em></li><li><em>bien que</em> — fastän: <em>Bien que fatigué, je continue.</em></li></ul><p><strong>Genvägen:</strong> gäller samma person i hela meningen kan du ofta hoppa över subjonctif helt och använda <em>il faut</em> + infinitiv: <em>Il faut y aller ! Il faut oser !</em> Ingen que-sats, inget krångel.</p><p><strong>Minneskrok:</strong> tänk \"que-varning\". Hör du <em>il faut que</em>, <em>pour que</em>, <em>bien que</em> — då byter verbet kostym: <em>sois, aies, fasse, puisse, aille</em>. Imperativen <em>Sois sage !</em> (Var snäll!) lånar för övrigt subjonctif-formen av être — den har du redan hört.</p>",
+      "ovningar": [
+        {
+          "typ": "lucka",
+          "rang": 701,
+          "mening": "Il faut que j'y ___ !",
+          "meningSv": "Jag måste dra nu!",
+          "svar": ["aille"],
+          "alternativ": ["vais", "aille", "va", "aller"],
+          "forklaring": "Efter il faut que krävs subjonctif: aller → que j'aille, inte je vais."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 701,
+          "ord": ["Il", "faut", "que", "j'y", "aille !"],
+          "meningSv": "Jag måste dra nu!",
+          "forklaring": "Il faut que + subjekt + subjonctif. y (dit) står före verbet: j'y aille."
+        },
+        {
+          "typ": "lucka",
+          "rang": 702,
+          "mening": "Je répète pour que ce ___ parfait.",
+          "meningSv": "Jag repeterar för att det ska bli perfekt.",
+          "svar": ["soit"],
+          "alternativ": ["est", "soit", "sois", "sera"],
+          "forklaring": "pour que (för att, syfte) utlöser subjonctif: être → que ce soit."
+        },
+        {
+          "typ": "val",
+          "rang": 1143,
+          "fraga": "Jonas säger åt Kalle att vara snäll. Vilket är rätt?",
+          "alternativ": ["Sois sage !", "Es sage !", "Être sage !"],
+          "svar": "Sois sage !",
+          "forklaring": "Imperativen av être lånar subjonctif-formen: sois, soyons, soyez."
+        },
+        {
+          "typ": "lucka",
+          "rang": 82,
+          "mening": "Il ___ y aller !",
+          "meningSv": "Vi måste dra!",
+          "svar": ["faut"],
+          "alternativ": ["faut", "faux", "fait", "faites"],
+          "forklaring": "falloir finns bara i il-form: il faut. il fait är av faire (göra)."
+        },
+        {
+          "typ": "lucka",
+          "rang": 745,
+          "mening": "Il faut ___ les enfants.",
+          "meningSv": "Man måste skydda barnen.",
+          "svar": ["protéger"],
+          "alternativ": ["protéger", "protège", "protégez", "protégé"],
+          "forklaring": "Utan que följer infinitiv direkt på il faut: il faut protéger."
+        },
+        {
+          "typ": "oversatt",
+          "rang": 996,
+          "meningSv": "Man måste våga!",
+          "svar": ["Il faut oser !", "Il faut oser!"],
+          "forklaring": "il faut + infinitiv = man måste. Ingen que-sats behövs när ingen särskild person pekas ut."
+        },
+        {
+          "typ": "lucka",
+          "rang": 1867,
+          "mening": "Bien ___ fatigué, je continue.",
+          "meningSv": "Fastän trött fortsätter jag.",
+          "svar": ["que"],
+          "alternativ": ["que", "qui", "quand", "si"],
+          "forklaring": "bien que = fastän. När ett böjt verb följer tar bien que subjonctif: bien que je sois fatigué."
+        },
+        {
+          "typ": "ordfoljd",
+          "rang": 1258,
+          "ord": ["Il", "faut", "agir", "maintenant."],
+          "meningSv": "Man måste agera nu.",
+          "forklaring": "il faut + infinitiv (agir) + tidsadverb sist."
+        },
+        {
+          "typ": "val",
+          "rang": 1371,
+          "fraga": "Vad betyder « Parfois, il faut savoir se taire. »?",
+          "alternativ": ["Ibland måste man kunna vara tyst.", "Ibland måste man våga tala.", "Man måste alltid tystna."],
+          "svar": "Ibland måste man kunna vara tyst.",
+          "forklaring": "il faut + savoir + se taire: bokstavligen 'man måste kunna tiga'."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Il faut que tu ___ sage.",
+          "meningSv": "Du måste vara snäll.",
+          "svar": ["sois"],
+          "alternativ": ["es", "sois", "soit", "être"],
+          "forklaring": "être i subjonctif: que tu sois. es är vanlig presens, soit är il/elle-formen."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Il faut que je ___ le dîner.",
+          "meningSv": "Jag måste laga middagen.",
+          "svar": ["fasse"],
+          "alternativ": ["fais", "fasse", "faire", "fait"],
+          "forklaring": "faire i subjonctif: que je fasse. Efter il faut que duger inte presensformen fais."
+        },
+        {
+          "typ": "lucka",
+          "mening": "Il faut que tu ___ de la patience.",
+          "meningSv": "Du måste ha tålamod.",
+          "svar": ["aies"],
+          "alternativ": ["as", "aies", "ait", "avoir"],
+          "forklaring": "avoir i subjonctif: que tu aies. ait är il/elle-formen, as är vanlig presens."
+        },
+        {
+          "typ": "val",
+          "fraga": "Vilken är subjonctif-formen av pouvoir: « il faut que je ___ » ?",
+          "alternativ": ["peux", "puisse", "pourrai", "pouvoir"],
+          "svar": "puisse",
+          "forklaring": "pouvoir → que je puisse. peux är presens, pourrai är futur simple."
+        }
+      ]
+    }
+  ]
+}

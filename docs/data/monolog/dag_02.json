@@ -1,0 +1,28 @@
+{
+  "dag": 2,
+  "titel": "Här och nu",
+  "svenska": "Var är jag nu? Jag är hemma hos oss, i vårt lilla hus. Det är kväll. Dagen slutar, natten kommer. Jessica är här, med en bok — hon gillar att läsa på kvällen. Och Kalle? Han sover redan.\n\nVad ser jag? Jag ser vårt bord. På bordet finns en bok och lite vatten. Jag lyssnar också. Huset säger ingenting. Det är nytt, för med en bebis pratar huset alltid!\n\nJag tittar på Jessica, jag tittar på huset, och jag tänker: det är mitt liv, och det är fint. Imorgon lär jag mig många nya ord — jag gillar verkligen att lära mig. Men nu gör jag ingenting. Jag stannar här, i den här stunden. Här och nu, det är väldigt bra.",
+  "franska": "Où est-ce que je suis maintenant ? Je suis chez nous, dans notre petite maison. C'est le soir. Le jour finit, la nuit arrive. Jessica est ici, avec un livre — elle aime lire le soir. Et Kalle ? Il dort déjà.\n\nQu'est-ce que je vois ? Je vois notre table. Sur la table, il y a un livre et un peu d'eau. J'écoute aussi. La maison ne dit rien. C'est nouveau, parce que, avec un bébé, la maison parle toujours !\n\nJe regarde Jessica, je regarde la maison, et je pense : c'est ma vie, et elle est belle. Demain, j'apprends beaucoup de mots nouveaux — j'aime vraiment apprendre. Mais maintenant, je ne fais rien. Je reste ici, dans ce moment. Ici et maintenant, c'est très bien.",
+  "lemma": {
+    "suis": 4,
+    "est": 4,
+    "petite": 89,
+    "finit": 176,
+    "arrive": 147,
+    "aime": 63,
+    "dort": 189,
+    "vois": 53,
+    "a": 8,
+    "écoute": 145,
+    "dit": 28,
+    "parle": 61,
+    "regarde": 144,
+    "pense": 79,
+    "apprends": 154,
+    "mots": 155,
+    "nouveaux": 98,
+    "fais": 26,
+    "reste": 149
+  },
+  "friaOrd": ["Jessica", "Kalle"]
+}
